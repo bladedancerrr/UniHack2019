@@ -8,7 +8,7 @@ from datetime import datetime
 fp = open("keys.json").read()
 GOOGLE_API_KEY = json.loads(fp)["API"]
 gmaps = googlemaps.Client(key = GOOGLE_API_KEY)
-SEARCH_LOCATION_PLACEHOLDER = "Peter Hall Building"
+SEARCH_LOCATION_PLACEHOLDER = "Gran Morsi"
 
 
 
