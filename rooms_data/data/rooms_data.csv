@@ -1,0 +1,443 @@
+room_name, day, start, end, subject, AV
+PAR-Arts West North Wing-261, Thursday, 13:00, 14:30, JAPN30010, NO
+PAR-Old Arts-204, Tuesday, 14:15, 16:15, JAPN30012, NO
+PAR-Sidney Myer Asia Ctr-G09, Tuesday, 16:15, 18:15, JAPN30012, YES
+PAR-Sidney Myer Asia Ctr-113, Thursday, 15:15, 17:15, JAPN30012, NO
+PAR-Sidney Myer Asia Ctr-116, Thursday, 11:00, 13:00, JAPN40003, YES
+PAR-Sidney Myer Asia Ctr-115, Thursday, 16:15, 17:15, JEWI20007, NO
+PAR-John Medley-WG01 (iMAC Lab), Monday, 13:00, 15:30, JOUR90005, YES
+PAR-John Medley-WG01 (iMAC Lab), Tuesday, 09:00, 11:30, JOUR90005, NO
+PAR-John Medley-WG01 (iMAC Lab), Tuesday, 15:15, 17:45, JOUR90005, YES
+PAR-John Medley-WG01 (iMAC Lab), Wednesday, 18:45, 21:15, JOUR90005, NO
+PAR-Arts West North Wing-556 (Lectorial Room II), Monday, 16:15, 18:15, JOUR90021, YES
+PAR-Glyn Davis (MSD)-246, Monday, 17:15, 20:15, LARC30001, NO
+PAR-Glyn Davis (MSD)-121, Tuesday, 08:00, 11:00, LARC30001, YES
+PAR-Glyn Davis (MSD)-140, Tuesday, 08:00, 11:00, LARC30001, YES
+PAR-Glyn Davis (MSD)-246, Tuesday, 12:00, 15:00, LARC30001, YES
+PAR-Glyn Davis (MSD)-120, Tuesday, 12:00, 15:00, LARC30001, YES
+PAR-Glyn Davis (MSD)-129, Tuesday, 12:00, 15:00, LARC30001, NO
+PAR-Glyn Davis (MSD)-237, Tuesday, 12:00, 15:00, LARC30001, YES
+PAR-Glyn Davis (MSD)-141, Tuesday, 12:00, 15:00, LARC30001, NO
+PAR-Glyn Davis (MSD)-227, Tuesday, 12:00, 15:00, LARC30001, NO
+PAR-Glyn Davis (MSD)-228, Tuesday, 12:00, 15:00, LARC30001, YES
+PAR-Glyn Davis (MSD)-121, Tuesday, 14:15, 17:15, LARC30001, NO
+PAR-Glyn Davis (MSD)-139, Tuesday, 14:15, 17:15, LARC30001, NO
+PAR-Glyn Davis (MSD)-246, Tuesday, 15:15, 18:15, LARC30001, YES
+PAR-Glyn Davis (MSD)-144, Tuesday, 15:15, 18:15, LARC30001, YES
+PAR-Law-224, Thursday, 11:00, 12:00, LAWS10006, YES
+PAR-Law-224, Thursday, 12:00, 13:00, LAWS10006, NO
+PAR-Law-224, Thursday, 13:00, 14:00, LAWS10006, NO
+PAR-Law-221, Wednesday, 10:00, 11:00, LAWS20008, YES
+PAR-Law-223, Wednesday, 11:00, 12:00, LAWS20008, YES
+PAR-Law-221, Wednesday, 11:00, 12:00, LAWS20008, YES
+PAR-Law-221, Wednesday, 12:00, 13:00, LAWS20008, YES
+PAR-Law-221, Wednesday, 14:15, 15:15, LAWS20008, YES
+PAR-Law-221, Thursday, 10:00, 11:00, LAWS20008, YES
+PAR-Law-221, Thursday, 11:00, 12:00, LAWS20008, NO
+PAR-Law-221, Thursday, 12:00, 13:00, LAWS20008, NO
+PAR-Law-224, Wednesday, 16:15, 18:15, LAWS20009, YES
+PAR-Law-223, Wednesday, 16:15, 18:15, LAWS20009, NO
+PAR-Law-224, Thursday, 09:00, 11:00, LAWS20009, NO
+PAR-Law-223, Thursday, 09:00, 11:00, LAWS20009, YES
+PAR-Law-223, Thursday, 11:00, 13:00, LAWS20009, NO
+PAR-Law-202, Thursday, 11:00, 13:00, LAWS20009, YES
+PAR-Law-G27, Thursday, 10:00, 11:00, LAWS20011, NO
+PAR-Law-G27, Thursday, 11:00, 12:00, LAWS20011, YES
+PAR-Law-108, Wednesday, 11:00, 13:00, LAWS50036, NO
+PAR-Law-317, Monday, 10:00, 13:00, LAWS50037, YES
+PAR-Law-108, Tuesday, 10:00, 13:00, LAWS50037, NO
+PAR-Law-GM17, Tuesday, 14:15, 17:15, LAWS50037, NO
+PAR-Law-109, Wednesday, 10:00, 13:00, LAWS50037, YES
+PAR-Law-108, Thursday, 09:30, 12:30, LAWS50037, NO
+PAR-Law-106, Thursday, 14:15, 17:15, LAWS50037, YES
+PAR-Law-317, Wednesday, 14:15, 17:15, LAWS50038, NO
+PAR-Law-106, Thursday, 10:00, 13:00, LAWS50038, YES
+PAR-Law-317, Thursday, 14:15, 17:15, LAWS50038, NO
+PAR-Law-102, Friday, 14:15, 17:15, LAWS50038, NO
+PAR-Law-109, Friday, 11:00, 13:00, LAWS50041, YES
+PAR-Law-538 (Moot Crt), Thursday, 09:00, 12:00, LAWS50055, YES
+PAR-Law-109, Monday, 10:00, 13:00, LAWS50064, NO
+PAR-Law-108, Friday, 10:00, 13:00, LAWS50067, NO
+PAR-Law-GM16, Friday, 14:15, 18:15, LAWS50084, YES
+PAR-Law-106, Wednesday, 10:00, 13:00, LAWS50119, NO
+PAR-Law-104, Wednesday, 14:15, 17:15, LAWS50127, NO
+PAR-Law-109, Monday, 16:15, 19:15, LAWS50130, NO
+PAR-Law-G08, Monday, 13:00, 16:00, LAWS70469, YES
+PAR-Law-317, Friday, 09:00, 12:00, LAWS90039, NO
+PAR-Law-202, Wednesday, 14:15, 17:15, LAWS90077, NO
+PAR-Law-104, Tuesday, 09:00, 12:00, LAWS90078, YES
+PAR-Law-108, Thursday, 14:15, 17:15, LAWS90161, YES
+PAR-Law-106, Tuesday, 14:15, 17:15, LAWS90162, YES
+PAR-Law-108, Tuesday, 14:15, 17:15, LAWS90163, YES
+PAR-Alan Gilbert-G20, Wednesday, 11:00, 12:00, LING10002, YES
+PAR-Arts West North Wing-253, Wednesday, 12:00, 13:00, LING10002, NO
+PAR-Arts West North Wing-455, Wednesday, 13:00, 14:00, LING10002, YES
+PAR-Arts West North Wing-253, Wednesday, 13:00, 14:00, LING10002, YES
+PAR-Arts West North Wing-253, Wednesday, 15:15, 16:15, LING10002, NO
+PAR-Arts West North Wing-355, Wednesday, 15:45, 16:45, LING10002, NO
+PAR-Arts West North Wing-556 (Lectorial Room II), Thursday, 09:00, 10:00, LING10002, YES
+PAR-Arts West North Wing-553 (Discursive Space), Thursday, 11:00, 12:00, LING10002, YES
+PAR-Sidney Myer Asia Ctr-G09, Monday, 14:15, 15:15, LING20005, YES
+PAR-Sidney Myer Asia Ctr-G09, Tuesday, 10:00, 11:00, LING20005, NO
+PAR-Sidney Myer Asia Ctr-G09, Tuesday, 11:00, 12:00, LING20005, YES
+PAR-John Medley-WG01 (iMAC Lab), Wednesday, 09:00, 10:00, LING20005, YES
+PAR-Sidney Myer Asia Ctr-G07, Wednesday, 10:00, 11:00, LING20005, NO
+PAR-John Medley-WG01 (iMAC Lab), Wednesday, 16:15, 17:15, LING20005, NO
+PAR-Sidney Myer Asia Ctr-G07, Wednesday, 17:15, 18:15, LING20005, NO
+PAR-Redmond Barry-719, Thursday, 14:15, 15:15, LING20009, NO
+PAR-Sidney Myer Asia Ctr-119, Thursday, 15:15, 16:15, LING20009, NO
+PAR-Arts West North Wing-263, Thursday, 11:00, 12:00, LING30003, NO
+PAR-Arts West North Wing-263, Thursday, 12:00, 13:00, LING30003, YES
+PAR-Arts West North Wing-461, Thursday, 14:15, 15:15, LING30003, NO
+PAR-Old Arts-254, Thursday, 16:15, 17:15, LING30003, NO
+PAR-Arts West North Wing-361, Friday, 11:00, 12:00, LING30003, YES
+PAR-John Medley-EG61, Wednesday, 16:15, 17:15, LING30007, YES
+PAR-John Medley-EG63, Thursday, 08:00, 09:00, LING30007, NO
+PAR-John Medley-WG05, Thursday, 12:00, 13:00, LING30007, YES
+PAR-John Medley-EG62, Thursday, 13:00, 14:00, LING30007, YES
+PAR-Alice Hoy-242, Thursday, 15:15, 16:15, LING30007, NO
+PAR-John Medley-EG61, Monday, 13:15, 14:15, LING30013, NO
+PAR-Sidney Myer Asia Ctr-G03, Thursday, 10:00, 11:00, LING30013, NO
+PAR-Arts West North Wing-561, Monday, 11:00, 13:00, LING40002, YES
+PAR-Babel-104 (The Green Room), Wednesday, 09:30, 12:00, LING40008, YES
+PAR-John Medley-EG61, Monday, 17:15, 19:15, LING90005, YES
+PAR-John Medley-EG61, Tuesday, 10:00, 12:00, LING90005, YES
+PAR-John Medley-EG61, Tuesday, 12:00, 14:00, LING90005, YES
+PAR-John Medley-EG61, Tuesday, 16:15, 18:15, LING90005, YES
+PAR-John Medley-EG61, Thursday, 17:15, 19:15, LING90005, NO
+PAR-780 Elizabeth St-110, Wednesday, 17:15, 19:15, LING90009, YES
+PAR-John Medley-WG01 (iMAC Lab), Tuesday, 14:15, 15:15, LING90015, NO
+PAR-John Medley-WG01 (iMAC Lab), Wednesday, 12:00, 13:00, LING90015, YES
+PAR-John Medley-WG01 (iMAC Lab), Thursday, 12:00, 13:00, LING90015, NO
+PAR-Arts West North Wing-456, Monday, 08:30, 10:30, LING90018, NO
+PAR-Arts West North Wing-256, Tuesday, 17:15, 19:15, LING90018, YES
+PAR-Old Arts-103 (Theatre A), Wednesday, 13:00, 15:00, LING90020, NO
+PAR-Old Arts-116 (CLS4), Monday, 10:00, 12:00, LING90021, NO
+PAR-Alan Gilbert-102, Wednesday, 14:15, 16:15, LING90021, YES
+PAR-Arts West North Wing-453, Thursday, 14:15, 16:15, LING90021, NO
+PAR-Peter Hall-215, Tuesday, 15:15, 16:15, MAST10014, NO
+PAR-Peter Hall-G70 (Wilson Laboratory), Monday, 09:00, 10:00, MAST20031, YES
+PAR-Peter Hall-212 (Nanson Laboratory), Monday, 14:15, 15:15, MAST20031, YES
+PAR-Peter Hall-G70 (Wilson Laboratory), Wednesday, 09:00, 10:00, MAST20031, NO
+PAR-Peter Hall-212 (Nanson Laboratory), Thursday, 09:00, 10:00, MAST20031, YES
+PAR-Peter Hall-G70 (Wilson Laboratory), Friday, 09:00, 10:00, MAST20031, NO
+PAR-Peter Hall-G70 (Wilson Laboratory), Friday, 10:00, 11:00, MAST20031, NO
+PAR-Peter Hall-213, Monday, 12:00, 13:00, MAST30005, YES
+PAR-Peter Hall-213, Wednesday, 12:00, 13:00, MAST30005, YES
+PAR-Peter Hall-213, Monday, 13:00, 14:00, MAST30011, YES
+PAR-Peter Hall-213, Monday, 14:15, 15:15, MAST30011, YES
+PAR-Peter Hall-213, Wednesday, 13:00, 14:00, MAST30011, NO
+PAR-Peter Hall-213, Thursday, 13:00, 14:00, MAST30011, NO
+PAR-Peter Hall-213, Friday, 12:00, 13:00, MAST30011, NO
+PAR-Peter Hall-213, Wednesday, 09:00, 10:00, MAST30013, YES
+PAR-Peter Hall-213, Friday, 09:00, 10:00, MAST30013, YES
+PAR-Peter Hall-213, Monday, 15:15, 16:15, MAST30020, YES
+PAR-Alice Hoy-108, Wednesday, 13:00, 14:00, MAST30020, NO
+PAR-Peter Hall-213, Wednesday, 15:15, 16:15, MAST30020, YES
+PAR-Peter Hall-213, Thursday, 11:00, 12:00, MAST30020, NO
+PAR-Peter Hall-G69 (Thompson Lab), Tuesday, 14:15, 15:15, MAST30025, YES
+PAR-Peter Hall-G69 (Thompson Lab), Tuesday, 15:15, 16:15, MAST30025, YES
+PAR-Peter Hall-G69 (Thompson Lab), Wednesday, 14:15, 15:15, MAST30025, YES
+PAR-Peter Hall-G69 (Thompson Lab), Thursday, 10:00, 11:00, MAST30025, YES
+PAR-Peter Hall-G69 (Thompson Lab), Friday, 10:00, 11:00, MAST30025, YES
+PAR-Peter Hall-213, Monday, 11:00, 12:00, MAST30030, YES
+PAR-Peter Hall-213, Thursday, 09:00, 10:00, MAST30030, NO
+PAR-Peter Hall-213, Friday, 11:00, 12:00, MAST30030, NO
+PAR-Peter Hall-G69 (Thompson Lab), Tuesday, 13:00, 14:00, MAST90014, NO
+PAR-Peter Hall-G69 (Thompson Lab), Friday, 16:15, 17:15, MAST90014, YES
+PAR-Peter Hall-G69 (Thompson Lab), Monday, 15:15, 17:15, MAST90044, NO
+PAR-Peter Hall-G69 (Thompson Lab), Tuesday, 09:00, 11:00, MAST90044, NO
+PAR-Peter Hall-G69 (Thompson Lab), Tuesday, 11:00, 13:00, MAST90044, NO
+PAR-Peter Hall-G70 (Wilson Laboratory), Tuesday, 12:00, 14:00, MAST90044, NO
+PAR-Peter Hall-G69 (Thompson Lab), Wednesday, 09:00, 11:00, MAST90044, YES
+PAR-Peter Hall-G69 (Thompson Lab), Thursday, 15:15, 17:15, MAST90044, YES
+PAR-Peter Hall-G69 (Thompson Lab), Monday, 10:00, 11:00, MAST90072, YES
+PAR-Peter Hall-G69 (Thompson Lab), Wednesday, 11:00, 12:00, MAST90072, NO
+PAR-Peter Hall-G69 (Thompson Lab), Friday, 13:00, 14:00, MAST90072, YES
+PAR-Peter Hall-G69 (Thompson Lab), Friday, 14:15, 15:15, MAST90072, NO
+PAR-Peter Hall-G69 (Thompson Lab), Wednesday, 12:00, 13:00, MAST90105, YES
+PAR-Peter Hall-G69 (Thompson Lab), Wednesday, 13:00, 14:00, MAST90105, YES
+PAR-Peter Hall-G69 (Thompson Lab), Wednesday, 17:15, 18:15, MAST90105, NO
+PAR-Peter Hall-G69 (Thompson Lab), Thursday, 09:00, 10:00, MAST90105, NO
+PAR-Peter Hall-G70 (Wilson Laboratory), Thursday, 14:15, 15:15, MAST90105, YES
+PAR-Peter Hall-G70 (Wilson Laboratory), Thursday, 15:15, 16:15, MAST90105, YES
+PAR-Peter Hall-213, Friday, 13:00, 14:00, MAST90105, YES
+PAR-Peter Hall-213, Friday, 14:15, 15:15, MAST90105, YES
+PAR-Alice Hoy-108, Friday, 14:15, 15:15, MAST90105, YES
+PAR-Alice Hoy-108, Friday, 15:15, 16:15, MAST90105, NO
+PAR-Alice Hoy-108, Friday, 16:15, 17:15, MAST90105, YES
+PAR-Peter Hall-213, Friday, 17:15, 18:15, MAST90105, YES
+PAR-207-221 Bouverie St-B131 (Collaborative Learning Space), Tuesday, 15:15, 16:15, MCEN90014, YES
+PAR-207-221 Bouverie St-B131 (Collaborative Learning Space), Tuesday, 16:15, 17:15, MCEN90014, YES
+PAR-Alan Gilbert-123, Tuesday, 17:15, 18:15, MCEN90014, NO
+PAR-207-221 Bouverie St-B131 (Collaborative Learning Space), Thursday, 09:00, 10:00, MCEN90014, NO
+PAR-Alan Gilbert-G03, Thursday, 10:00, 11:00, MCEN90014, NO
+PAR-207-221 Bouverie St-B131 (Collaborative Learning Space), Thursday, 11:00, 12:00, MCEN90014, YES
+PAR-Engineering C-428 (Collaborative Learning Space), Thursday, 12:00, 13:00, MCEN90014, NO
+PAR-Engineering E-G02 (Thermodynamics Lab), Monday, 09:00, 11:00, MCEN90015, YES
+PAR-Engineering E-G02 (Thermodynamics Lab), Monday, 09:00, 11:00, MCEN90015, NO
+PAR-Engineering E-G02 (Thermodynamics Lab), Monday, 11:00, 13:00, MCEN90015, NO
+PAR-Engineering E-G02 (Thermodynamics Lab), Monday, 13:00, 15:00, MCEN90015, NO
+PAR-Engineering E-G02 (Thermodynamics Lab), Monday, 13:00, 15:00, MCEN90015, YES
+PAR-Engineering E-G02 (Thermodynamics Lab), Monday, 15:15, 17:15, MCEN90015, NO
+PAR-Engineering E-G02 (Thermodynamics Lab), Monday, 15:15, 17:15, MCEN90015, NO
+PAR-Engineering E-G02 (Thermodynamics Lab), Monday, 17:15, 19:15, MCEN90015, YES
+PAR-FBE-206, Monday, 17:15, 18:15, MCEN90015, YES
+PAR-Alan Gilbert-G03, Monday, 17:15, 18:15, MCEN90015, YES
+PAR-John Medley-WG05, Tuesday, 08:00, 09:00, MCEN90015, YES
+PAR-Engineering E-G02 (Thermodynamics Lab), Tuesday, 09:00, 11:00, MCEN90015, YES
+PAR-Engineering E-G02 (Thermodynamics Lab), Tuesday, 10:00, 12:00, MCEN90015, YES
+PAR-Engineering E-G02 (Thermodynamics Lab), Tuesday, 12:00, 14:00, MCEN90015, NO
+PAR-Engineering E-G02 (Thermodynamics Lab), Tuesday, 15:15, 17:15, MCEN90015, YES
+PAR-Engineering E-G02 (Thermodynamics Lab), Tuesday, 15:15, 17:15, MCEN90015, NO
+PAR-John Medley-WG03, Wednesday, 08:00, 09:00, MCEN90015, NO
+PAR-Engineering E-G02 (Thermodynamics Lab), Wednesday, 09:00, 11:00, MCEN90015, NO
+PAR-Engineering E-G02 (Thermodynamics Lab), Wednesday, 11:00, 13:00, MCEN90015, NO
+PAR-Engineering E-G02 (Thermodynamics Lab), Wednesday, 13:15, 15:15, MCEN90015, YES
+PAR-Engineering E-G02 (Thermodynamics Lab), Wednesday, 15:15, 17:15, MCEN90015, YES
+PAR-John Medley-WG05, Thursday, 08:00, 09:00, MCEN90015, YES
+PAR-Engineering E-G02 (Thermodynamics Lab), Thursday, 09:00, 11:00, MCEN90015, YES
+PAR-FBE-206, Thursday, 10:00, 11:00, MCEN90015, YES
+PAR-John Medley-WG05, Thursday, 11:00, 12:00, MCEN90015, NO
+PAR-Engineering E-G02 (Thermodynamics Lab), Thursday, 11:00, 13:00, MCEN90015, YES
+PAR-Engineering E-G02 (Thermodynamics Lab), Thursday, 11:00, 13:00, MCEN90015, NO
+PAR-Engineering E-G02 (Thermodynamics Lab), Thursday, 13:15, 15:15, MCEN90015, YES
+PAR-Engineering E-G02 (Thermodynamics Lab), Thursday, 13:15, 15:15, MCEN90015, YES
+PAR-Engineering E-G02 (Thermodynamics Lab), Thursday, 15:15, 17:15, MCEN90015, NO
+PAR-Engineering E-G02 (Thermodynamics Lab), Thursday, 15:15, 17:15, MCEN90015, NO
+PAR-Alan Gilbert-124, Friday, 14:15, 15:15, MCEN90015, YES
+PAR-Old Engineering-EDS5, Monday, 13:00, 15:00, MCEN90017, NO
+PAR-Alan Gilbert-123, Wednesday, 16:15, 17:15, MCEN90017, NO
+PAR-John Medley-WG05, Thursday, 09:00, 10:00, MCEN90017, YES
+PAR-Old Engineering-EDS5, Friday, 12:00, 14:00, MCEN90017, NO
+PAR-Old Engineering-EDS5, Friday, 14:00, 16:00, MCEN90017, NO
+PAR-207-221 Bouverie St-B131 (Collaborative Learning Space), Thursday, 13:00, 14:00, MCEN90018, YES
+PAR-207-221 Bouverie St-B131 (Collaborative Learning Space), Friday, 11:00, 12:00, MCEN90018, YES
+PAR-Alice Hoy-333, Friday, 14:15, 15:15, MCEN90018, NO
+PAR-Old Metallurgy-210 (Masters EDS Room 10), Wednesday, 12:00, 14:00, MCEN90028, YES
+PAR-Old Metallurgy-209 (Masters EDS Room 9), Wednesday, 12:00, 14:00, MCEN90028, YES
+PAR-Old Metallurgy-209 (Masters EDS Room 9), Thursday, 15:00, 17:00, MCEN90028, NO
+PAR-Alan Gilbert-103, Monday, 09:00, 10:00, MCEN90038, NO
+PAR-Old Engineering-EDS5, Monday, 09:00, 10:00, MCEN90038, YES
+PAR-Old Engineering-EDS5, Monday, 12:00, 13:00, MCEN90038, NO
+PAR-Old Engineering-EDS5, Tuesday, 09:00, 10:00, MCEN90038, NO
+PAR-Alan Gilbert-123, Tuesday, 15:15, 16:15, MCEN90038, NO
+PAR-Old Engineering-EDS5, Tuesday, 18:15, 19:15, MCEN90038, NO
+PAR-Engineering E-311 (Mech Eng Seminar Room), Wednesday, 11:15, 12:15, MCEN90038, NO
+PAR-Old Arts-204, Wednesday, 14:45, 15:45, MCEN90038, NO
+PAR-Engineering B-313, Wednesday, 16:15, 17:15, MCEN90038, NO
+PAR-Old Engineering-EDS5, Thursday, 09:00, 10:00, MCEN90038, NO
+PAR-Alan Gilbert-123, Thursday, 09:00, 10:00, MCEN90038, NO
+PAR-Engineering B-313, Thursday, 10:00, 11:00, MCEN90038, YES
+PAR-Old Engineering-EDS5, Thursday, 18:15, 19:15, MCEN90038, NO
+PAR-Old Engineering-EDS5, Friday, 11:00, 12:00, MCEN90038, YES
+PAR-Old Arts-254, Friday, 13:00, 14:00, MCEN90038, NO
+PAR-Old Engineering-EDS3, Tuesday, 11:00, 13:00, MCEN90048, NO
+PAR-Old Engineering-EDS3, Thursday, 14:15, 16:15, MCEN90048, YES
+PAR-David Caro-Podium 206, Wednesday, 16:15, 17:15, MECM10003, YES
+PAR-Alan Gilbert-101, Wednesday, 16:15, 17:15, MECM10003, YES
+PAR-John Medley-EG61, Wednesday, 17:15, 18:15, MECM10003, NO
+PAR-100 Leicester Street-107, Wednesday, 17:15, 18:15, MECM10003, NO
+PAR-John Medley-WG03, Thursday, 09:00, 10:00, MECM10003, NO
+PAR-100 Leicester Street-109, Thursday, 09:00, 10:00, MECM10003, YES
+PAR-Redmond Barry-1006, Thursday, 10:00, 11:00, MECM10003, YES
+PAR-Redmond Barry-1006, Thursday, 11:00, 12:00, MECM10003, NO
+PAR-Alice Hoy-223, Thursday, 11:00, 12:00, MECM10003, YES
+PAR-Arts West North Wing-256, Thursday, 12:15, 13:15, MECM10003, NO
+PAR-Babel-320, Thursday, 13:15, 14:15, MECM10003, YES
+PAR-780 Elizabeth St-110, Thursday, 13:15, 14:15, MECM10003, YES
+PAR-Alice Hoy-332, Thursday, 14:15, 15:15, MECM10003, NO
+PAR-Alice Hoy-108, Thursday, 14:15, 15:15, MECM10003, YES
+PAR-Babel-104 (The Green Room), Thursday, 15:15, 16:15, MECM10003, NO
+PAR-David Caro-Podium 207, Thursday, 16:15, 17:15, MECM10003, YES
+PAR-Babel-119, Thursday, 16:15, 17:15, MECM10003, YES
+PAR-Sidney Myer Asia Ctr-115, Thursday, 17:15, 18:15, MECM10003, NO
+PAR-Kwong Lee Dow-420, Thursday, 17:15, 18:15, MECM10003, YES
+PAR-Redmond Barry-1120 (Oscar Oeser Room), Thursday, 17:15, 18:15, MECM10003, NO
+PAR-Kwong Lee Dow-213, Friday, 09:00, 10:00, MECM10003, NO
+PAR-100 Leicester Street-108, Friday, 09:00, 10:00, MECM10003, NO
+PAR-Old Arts-209 (Room 2), Friday, 10:00, 11:00, MECM10003, NO
+PAR-David Caro-Podium 209, Friday, 10:00, 11:00, MECM10003, YES
+PAR-David Caro-Podium 208, Friday, 11:00, 12:00, MECM10003, NO
+PAR-Arts West North Wing-555, Friday, 11:00, 12:00, MECM10003, NO
+PAR-Alan Gilbert-G03, Friday, 12:00, 13:00, MECM10003, YES
+PAR-Kwong Lee Dow-416, Friday, 13:15, 14:15, MECM10003, NO
+PAR-100 Leicester Street-108, Friday, 13:15, 14:15, MECM10003, YES
+PAR-Redmond Barry-615, Friday, 14:15, 15:15, MECM10003, YES
+PAR-McCoy-218 (Gregory Room), Friday, 14:15, 15:15, MECM10003, NO
+PAR-Babel-320, Friday, 15:15, 16:15, MECM10003, NO
+PAR-Alice Hoy-225, Friday, 15:15, 16:15, MECM10003, YES
+PAR-Redmond Barry-822, Friday, 16:15, 17:15, MECM10003, NO
+PAR-Redmond Barry-616, Friday, 16:15, 17:15, MECM10003, NO
+PAR-Arts West North Wing-461, Monday, 17:15, 18:45, MECM20006, NO
+PAR-Arts West North Wing-361, Monday, 17:15, 18:45, MECM20006, YES
+PAR-Alan Gilbert-G03, Tuesday, 14:15, 15:45, MECM20006, YES
+PAR-200 Berkeley St-G79 (Seminar Room 1), Tuesday, 15:45, 17:15, MECM20006, YES
+PAR-Sidney Myer Asia Ctr-113, Tuesday, 17:15, 18:45, MECM20006, NO
+PAR-FBE-206, Wednesday, 09:00, 10:30, MECM20006, YES
+PAR-Arts West North Wing-456, Wednesday, 10:30, 12:00, MECM20006, NO
+PAR-Arts West North Wing-453, Wednesday, 12:00, 13:30, MECM20006, YES
+PAR-200 Berkeley St-G79 (Seminar Room 1), Wednesday, 16:15, 17:45, MECM20006, YES
+PAR-John Medley-WG03, Thursday, 17:15, 18:45, MECM20006, YES
+PAR-Arts West North Wing-256, Friday, 15:45, 17:15, MECM20006, YES
+PAR-Arts West North Wing-356, Thursday, 12:00, 13:00, MECM20010, NO
+PAR-Alan Gilbert-101, Thursday, 13:15, 14:15, MECM20010, NO
+PAR-Peter Hall-213, Thursday, 14:15, 15:15, MECM20010, YES
+PAR-100 Leicester Street-106, Thursday, 15:15, 16:15, MECM20010, NO
+PAR-Alan Gilbert-G01, Thursday, 16:15, 17:15, MECM20010, YES
+PAR-Redmond Barry-719, Thursday, 17:15, 18:15, MECM20010, NO
+PAR-McCoy-218 (Gregory Room), Friday, 09:00, 10:00, MECM20010, YES
+PAR-Alan Gilbert-G20, Friday, 11:00, 12:00, MECM20010, YES
+PAR-Alan Gilbert-101, Friday, 12:00, 13:00, MECM20010, NO
+PAR-Alan Gilbert-G20, Friday, 13:15, 14:15, MECM20010, YES
+PAR-Alan Gilbert-124, Friday, 15:15, 16:15, MECM20010, YES
+PAR-Alan Gilbert-124, Friday, 16:15, 17:15, MECM20010, YES
+PAR-Arts West North Wing-456, Monday, 13:30, 15:00, MECM20013, NO
+PAR-Arts West North Wing-456, Monday, 16:45, 18:15, MECM20013, YES
+PAR-Old Quad-G18 (Cussonia Court Room 2), Tuesday, 09:00, 10:30, MECM20013, NO
+PAR-Arts West North Wing-253, Tuesday, 09:00, 10:30, MECM20013, NO
+PAR-Arts West North Wing-453, Tuesday, 14:15, 15:45, MECM20013, NO
+PAR-Arts West North Wing-256, Tuesday, 14:15, 15:45, MECM20013, YES
+PAR-Arts West North Wing-456, Wednesday, 09:00, 10:30, MECM20013, YES
+PAR-John Medley-EG63, Wednesday, 10:30, 12:00, MECM20013, YES
+PAR-Old Arts-204, Thursday, 10:00, 11:30, MECM20013, NO
+PAR-Arts West North Wing-361, Thursday, 16:15, 17:45, MECM20013, NO
+PAR-Arts West North Wing-261, Thursday, 17:45, 19:15, MECM20013, YES
+PAR-John Medley-WG03, Friday, 09:00, 10:30, MECM20013, YES
+PAR-John Medley-WG03, Friday, 12:00, 13:30, MECM20013, NO
+PAR-Arts West North Wing-155, Friday, 16:15, 17:45, MECM20013, NO
+PAR-Alan Gilbert-G03, Monday, 13:00, 14:30, MECM30015, YES
+PAR-Old Arts-156, Tuesday, 17:15, 18:45, MECM30015, YES
+PAR-Alice Hoy-242, Wednesday, 12:00, 13:30, MECM30015, NO
+PAR-John Medley-EG61, Thursday, 09:00, 10:30, MECM30016, NO
+PAR-John Medley-EG61, Thursday, 10:30, 12:00, MECM30016, NO
+PAR-John Medley-EG61, Thursday, 13:00, 14:30, MECM30016, YES
+PAR-John Medley-EG61, Thursday, 14:30, 16:00, MECM30016, NO
+PAR-John Medley-EG61, Friday, 09:00, 10:30, MECM30016, YES
+PAR-John Medley-EG61, Friday, 10:30, 12:00, MECM30016, YES
+PAR-John Medley-EG61, Friday, 13:00, 14:30, MECM30016, YES
+PAR-John Medley-EG61, Friday, 14:30, 16:00, MECM30016, NO
+PAR-Alice Hoy-225, Monday, 11:00, 12:00, MECM30018, NO
+PAR-Old Arts-205, Monday, 12:00, 13:00, MECM30018, NO
+PAR-Sidney Myer Asia Ctr-G03, Monday, 17:15, 18:15, MECM30018, NO
+PAR-Elisabeth Murdoch-G04, Tuesday, 09:00, 10:00, MECM30018, NO
+PAR-100 Leicester Street-105, Tuesday, 09:00, 10:00, MECM30018, NO
+PAR-Old Arts-209 (Room 2), Tuesday, 10:00, 11:00, MECM30018, NO
+PAR-Old Arts-209 (Room 2), Tuesday, 11:00, 12:00, MECM30018, NO
+PAR-Alice Hoy-226, Tuesday, 17:15, 18:15, MECM30018, YES
+PAR-Old Quad-G17 (Cussonia Court Room 1), Wednesday, 09:00, 10:00, MECM30018, YES
+PAR-Elisabeth Murdoch-G04, Wednesday, 09:00, 10:00, MECM30018, YES
+PAR-McCoy-218 (Gregory Room), Wednesday, 10:00, 11:00, MECM30018, YES
+PAR-Alice Hoy-333, Wednesday, 11:00, 12:00, MECM30018, YES
+PAR-200 Berkeley St-220, Wednesday, 12:00, 13:00, MECM30018, YES
+PAR-Peter Hall-215, Wednesday, 17:15, 18:15, MECM30018, NO
+PAR-McCoy-218 (Gregory Room), Thursday, 09:00, 10:00, MECM30018, NO
+PAR-Kwong Lee Dow-213, Thursday, 10:00, 11:00, MECM30018, NO
+PAR-The Spot-3032, Friday, 09:00, 10:00, MECM30018, NO
+PAR-Arts West North Wing-454, Thursday, 15:15, 16:15, MECM40003, NO
+PAR-Alice Hoy-225, Thursday, 15:15, 16:15, MECM40003, YES
+PAR-John Medley-EG66, Thursday, 17:15, 18:15, MECM40003, NO
+PAR-200 Berkeley St-220, Thursday, 17:15, 18:15, MECM40003, NO
+PAR-Alan Gilbert-G18, Friday, 09:00, 10:00, MECM40003, YES
+PAR-Arts West North Wing-461, Friday, 10:00, 11:00, MECM40003, YES
+PAR-Arts West North Wing-356, Friday, 11:00, 12:00, MECM40003, YES
+PAR-Arts West North Wing-256, Friday, 12:30, 13:30, MECM40003, YES
+PAR-FVAS-G51 (Kimpton Room), Friday, 15:15, 16:15, MECM40003, NO
+PAR-Old Quad-G17 (Cussonia Court Room 1), Friday, 16:15, 17:15, MECM40003, NO
+PAR-Doug McDonell-402, Monday, 17:15, 19:15, MECM40011, NO
+PAR-Babel-217, Tuesday, 09:00, 11:00, MECM40011, NO
+PAR-Old Arts-152, Tuesday, 14:15, 16:15, MECM40011, YES
+PAR-Elisabeth Murdoch-G04, Tuesday, 17:15, 19:15, MECM40011, YES
+PAR-Doug McDonell-403, Wednesday, 17:15, 19:15, MECM40011, NO
+PAR-Old Arts-227 (Cecil Scutt Room), Thursday, 14:15, 16:15, MECM40011, NO
+PAR-Old Arts-152, Thursday, 17:15, 19:15, MECM40011, NO
+PAR-John Medley-WG03, Friday, 14:15, 16:15, MECM40011, YES
+PAR-Arts West North Wing-263, Thursday, 10:00, 11:00, MECM50001, YES
+PAR-Arts West North Wing-461, Thursday, 11:00, 12:00, MECM50001, NO
+PAR-Arts West North Wing-461, Thursday, 13:00, 14:00, MECM50001, YES
+PAR-Kwong Lee Dow-417, Thursday, 14:15, 15:15, MECM50001, NO
+PAR-Arts West North Wing-354, Thursday, 15:15, 16:15, MECM50001, YES
+PAR-Kwong Lee Dow-417, Thursday, 16:15, 17:15, MECM50001, NO
+PAR-Alan Gilbert-G20, Friday, 10:00, 11:00, MECM50001, YES
+PAR-Alice Hoy-225, Friday, 12:00, 13:00, MECM50001, NO
+PAR-Arts West North Wing-461, Friday, 13:00, 14:00, MECM50001, NO
+PAR-Elisabeth Murdoch-G04, Friday, 14:15, 15:15, MECM50001, NO
+PAR-John Medley-EG66, Tuesday, 11:00, 12:00, MECM90002, NO
+PAR-Alan Gilbert-124, Tuesday, 16:15, 17:15, MECM90002, YES
+PAR-Peter Hall-215, Tuesday, 17:15, 18:15, MECM90002, YES
+PAR-Alan Gilbert-124, Wednesday, 09:00, 10:00, MECM90002, NO
+PAR-Arts West North Wing-456, Wednesday, 12:00, 13:00, MECM90002, NO
+PAR-Chemistry-158, Wednesday, 17:15, 18:15, MECM90002, YES
+PAR-Sidney Myer Asia Ctr-113, Thursday, 09:00, 10:00, MECM90002, NO
+PAR-Old Arts-227 (Cecil Scutt Room), Thursday, 10:00, 11:00, MECM90002, YES
+PAR-Engineering B-313, Thursday, 16:15, 17:15, MECM90002, YES
+PAR-Doug McDonell-402, Thursday, 17:15, 18:15, MECM90002, YES
+PAR-The Spot-3013, Monday, 18:15, 19:45, MECM90007, YES
+PAR-Alan Gilbert-G20, Tuesday, 09:00, 10:30, MECM90007, NO
+PAR-Alan Gilbert-G03, Tuesday, 09:00, 10:30, MECM90007, YES
+PAR-FBE-206, Tuesday, 14:15, 15:45, MECM90007, YES
+PAR-Alan Gilbert-G18, Tuesday, 14:15, 15:45, MECM90007, YES
+PAR-Old Arts-152, Tuesday, 17:45, 19:15, MECM90007, YES
+PAR-Old Arts-209 (Room 2), Wednesday, 13:00, 14:30, MECM90007, YES
+PAR-Sidney Myer Asia Ctr-118, Wednesday, 17:45, 19:15, MECM90007, NO
+PAR-100 Leicester Street-105, Thursday, 17:15, 18:45, MECM90007, YES
+PAR-Old Arts-209 (Room 2), Friday, 14:45, 16:15, MECM90007, YES
+PAR-FVAS-G51 (Kimpton Room), Friday, 16:15, 17:45, MECM90007, NO
+PAR-Redmond Barry-1120 (Oscar Oeser Room), Tuesday, 17:15, 18:15, MECM90016, NO
+PAR-Alice Hoy-332, Wednesday, 09:00, 10:00, MECM90016, NO
+PAR-780 Elizabeth St-110, Wednesday, 15:15, 16:15, MECM90016, YES
+PAR-Alice Hoy-242, Wednesday, 17:15, 18:15, MECM90016, YES
+PAR-Old Quad-G17 (Cussonia Court Room 1), Thursday, 09:00, 10:00, MECM90016, YES
+PAR-Sidney Myer Asia Ctr-115, Thursday, 15:15, 16:15, MECM90016, NO
+PAR-Chemistry-158, Thursday, 17:15, 18:15, MECM90016, YES
+PAR-Arts West North Wing-354, Friday, 14:15, 15:15, MECM90016, YES
+PAR-Arts West North Wing-456, Monday, 18:15, 20:15, MECM90037, YES
+PAR-Arts West North Wing-456, Wednesday, 18:15, 20:15, MECM90037, NO
+DOO-Gavin Gibson-G01 (B Classroom), Monday, 15:00, 16:00, MGMT10003, YES
+PAR-The Spot-5019, Friday, 11:00, 12:00, MGMT20002, YES
+PAR-The Spot-5019, Friday, 12:00, 13:00, MGMT20002, NO
+PAR-Sidney Myer Asia Ctr-114, Friday, 14:15, 15:15, MGMT20002, YES
+PAR-Sidney Myer Asia Ctr-114, Friday, 15:15, 16:15, MGMT20002, NO
+PAR-Sidney Myer Asia Ctr-115, Friday, 16:15, 17:15, MGMT20002, NO
+PAR-The Spot-3013, Tuesday, 14:15, 15:15, MGMT20003, NO
+PAR-The Spot-3032, Tuesday, 15:15, 16:15, MGMT20003, NO
+PAR-100 Leicester Street-107, Tuesday, 17:15, 18:15, MGMT20003, NO
+PAR-Alan Gilbert-G03, Thursday, 13:00, 14:00, MGMT20003, YES
+PAR-The Spot-3012, Friday, 12:00, 13:00, MGMT20003, NO
+PAR-The Spot-3012, Friday, 13:00, 14:00, MGMT20003, YES
+PAR-The Spot-3012, Friday, 14:15, 15:15, MGMT20003, YES
+PAR-The Spot-5015, Wednesday, 11:00, 12:00, MGMT30006, YES
+PAR-The Spot-5015, Wednesday, 12:00, 13:00, MGMT30006, NO
+PAR-The Spot-3013, Wednesday, 13:00, 14:00, MGMT30006, NO
+PAR-Alice Hoy-332, Thursday, 15:15, 16:15, MGMT30006, YES
+PAR-Alice Hoy-333, Thursday, 16:15, 17:15, MGMT30006, YES
+PAR-200 Berkeley St-151, Thursday, 17:15, 18:15, MGMT30006, NO
+PAR-Babel-119, Monday, 09:00, 10:00, MGMT30013, YES
+PAR-Babel-217, Monday, 10:00, 11:00, MGMT30013, YES
+PAR-Alice Hoy-242, Monday, 11:00, 12:00, MGMT30013, YES
+PAR-The Spot-3013, Wednesday, 10:00, 11:00, MGMT30013, NO
+PAR-The Spot-3012, Wednesday, 11:00, 12:00, MGMT30013, YES
+PAR-The Spot-5019, Wednesday, 12:00, 13:00, MGMT30013, YES
+PAR-The Spot-5015, Wednesday, 13:00, 14:00, MGMT30013, YES
+PAR-The Spot-3012, Wednesday, 15:15, 16:15, MGMT30013, NO
+PAR-The Spot-3012, Wednesday, 16:15, 17:15, MGMT30013, YES
+PAR-The Spot-3032, Wednesday, 17:15, 18:15, MGMT30013, NO
+PAR-The Spot-5018, Thursday, 10:00, 11:00, MGMT30013, YES
+PAR-The Spot-3013, Thursday, 11:00, 12:00, MGMT30013, NO
+PAR-The Spot-6015, Tuesday, 09:00, 12:00, MGMT90013, YES
+PAR-The Spot-6015, Tuesday, 14:15, 17:15, MGMT90013, YES
+PAR-The Spot-4012, Thursday, 14:15, 17:15, MGMT90017, NO
+PAR-The Spot-4012, Thursday, 18:15, 21:15, MGMT90017, NO
+PAR-The Spot-4014, Wednesday, 14:15, 17:15, MGMT90026, YES
+PAR-The Spot-3008, Thursday, 18:15, 21:15, MGMT90026, NO
+PAR-The Spot-3008, Monday, 10:00, 13:00, MGMT90111, NO
+PAR-The Spot-1022 (Level 1 Theatre), Tuesday, 16:15, 19:15, MGMT90111, YES
+PAR-WEBS-127 (127 Dry Lab), Tuesday, 11:00, 14:00, MGMT90171, NO
+PAR-Peter Doherty Institute-GM027 (Classroom), Tuesday, 10:30, 12:00, MIIM20001, NO
+PAR-Peter Doherty Institute-GM027 (Classroom), Tuesday, 14:00, 15:30, MIIM20001, YES
+PAR-Peter Doherty Institute-GM027 (Classroom), Tuesday, 15:45, 17:15, MIIM20001, NO
+PAR-Peter Doherty Institute-GM027 (Classroom), Wednesday, 10:30, 12:00, MIIM20001, NO
+PAR-Peter Doherty Institute-GM027 (Classroom), Wednesday, 14:00, 15:30, MIIM20001, NO
+PAR-Peter Doherty Institute-GM027 (Classroom), Wednesday, 15:45, 17:15, MIIM20001, YES
+PAR-Peter Doherty Institute-G0004 (Auditorium), Friday, 13:00, 14:00, MIIM30016, NO
+PAR-Peter Doherty Institute-GM003 (Seminar 2), Friday, 10:00, 12:00, MIIM40002, YES

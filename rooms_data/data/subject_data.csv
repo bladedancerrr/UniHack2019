@@ -1,0 +1,2181 @@
+code,name,offered
+ABPL10003,Visualising Environments,"['Semester 1', 'Semester 2']"
+ABPL10004,Global Foundations of Design,"['Semester 1', 'Semester 2']"
+ABPL10005,Understanding the Built Environment,['Semester 1']
+ABPL20004,Principles of Property Valuation,['Semester 1']
+ABPL20027,Architecture Design Studio: Earth,['Semester 1']
+ABPL20030,Foundations of Architecture,['Semester 1']
+ABPL20033,Construction Analysis,"['Semester 1', 'Semester 2']"
+ABPL20034,Urban History,['Semester 1']
+ABPL20035,Cities: From Local to Global,['Semester 1']
+ABPL20036,Environmental Building Systems,"['Semester 1', 'Semester 2']"
+ABPL20037,Urban Design Studies,['Semester 1']
+ABPL20042,Construction of Residential Buildings,['Semester 1']
+ABPL20047,Site Tectonics,['Semester 1']
+ABPL20048,Visual Communications,['Semester 1']
+ABPL30006,Property Resource Analysis,['Semester 1']
+ABPL30037,Architecture Design Studio: Fire,"['Semester 1', 'Semester 2']"
+ABPL30041,Construction Design,"['Semester 1', 'Semester 2']"
+ABPL30042,Landscape Studio 3: Urban Open Space,['Semester 1']
+ABPL30046,Steel and Concrete Structural Systems,['Semester 1']
+ABPL30048,Architecture Design Studio: Air,"['Semester 1', 'Semester 2']"
+ABPL30049,Case Studies in Landscape Architecture,['Semester 1']
+ABPL30050,Modern Architecture: MoMo to PoMo,['Semester 1']
+ABPL30051,Morphological Mapping,['Semester 1']
+ABPL30053,Formative Ideas in Architecture,['Semester 1']
+ABPL30055,Construction Management,['Semester 1']
+ABPL30058,Architecture Design Studio: Sparks,"['Semester 1', 'Semester 2']"
+ABPL30059,Property Case Studies,['Semester 1']
+ABPL30067,Design Workshop,['Semester 1']
+ABPL30068,Design Internship,"['Semester 1', 'Semester 2']"
+ABPL30069,Installations and Happenings,['Semester 1']
+ABPL90010,Advanced Construction Technology,['Semester 1']
+ABPL90016,Asset Management,['Semester 1']
+ABPL90017,Urban Design Theory,['Semester 1']
+ABPL90020,Measured Drawings & Digital Heritage,['Semester 1']
+ABPL90026,Property Development,['Semester 1']
+ABPL90028,Project Management,['Semester 1']
+ABPL90032,Building Services and Operations,"['Semester 1', 'Semester 2']"
+ABPL90034,Property Securitisation,['Semester 1']
+ABPL90035,Risk in Construction,['Semester 1']
+ABPL90041,Property Law (PG),['Semester 1']
+ABPL90056,Urban Transport Politics,['Semester 1']
+ABPL90061,Urban Design Studio A,['Semester 1']
+ABPL90065,Managing Global City Regions,['Semester 1']
+ABPL90066,MSD Research Project Short (12.5 Points),['Semester 1']
+ABPL90067,MSD Thesis -Semester Long (25 Points),"['Semester 1', 'Semester 2']"
+ABPL90072,Landscape Studio 5:Sustainable Urbanism,"['Semester 1', 'Semester 2']"
+ABPL90077,Introduction to Transport and Land Use,['Semester 1']
+ABPL90078,Contemporary Landscape Theory,['Semester 1']
+ABPL90086,Environmental Systems,['Semester 1']
+ABPL90089,Australian Architecture (PG),['Semester 1']
+ABPL90107,Landscape Studio 1: Design Techniques,['Semester 1']
+ABPL90114,Travelling Studio (Sweden),['Semester 1']
+ABPL90115,Master of Architecture Studio E,"['Summer Term', 'Semester 1', 'Semester 2']"
+ABPL90118,Applied Architectural Technology,['Semester 1']
+ABPL90129,Advanced Cost Management,['Semester 1']
+ABPL90130,Planning Law & Statutory Planning,['Semester 1']
+ABPL90134,Planning Theory and History,['Semester 1']
+ABPL90135,Analytical Methods,['Semester 1']
+ABPL90140,Architectural Practice,"['Semester 1', 'Semester 2']"
+ABPL90142,Master of Architecture Studio C,"['Summer Term', 'Semester 1', 'Semester 2']"
+ABPL90143,Master of Architecture Studio D,"['Summer Term', 'Semester 1', 'Semester 2']"
+ABPL90146,Architectural Conservation in East Asia,['Semester 1']
+ABPL90147,Speculative Systems,['Semester 1']
+ABPL90149,Contemporary Digital Practice,['Semester 1']
+ABPL90167,Design Communications Workshop (P/G),"['Semester 1', 'Semester 2']"
+ABPL90169,Design Thesis,"['Semester 1', 'Semester 2']"
+ABPL90172,Landscape Studio 3 Speculations,['Semester 1']
+ABPL90236,Design Approaches and Methods (PG),['Semester 1']
+ABPL90246,The Economies of Cities and Regions,['Semester 1']
+ABPL90263,Constructed Ecologies,['Semester 1']
+ABPL90271,Shaping the Landscape,['Semester 1']
+ABPL90274,Property Markets and Valuations,['Semester 1']
+ABPL90284,Master of Architecture Studio A,['Semester 1']
+ABPL90286,Construction Methods A,['Semester 1']
+ABPL90288,Architectural Cultures 1: Modernism,['Semester 1']
+ABPL90292,Construction of Buildings,['Semester 1']
+ABPL90295,Construction Regulations and Control,['Semester 1']
+ABPL90306,MUP Independent Study,"['Summer Term', 'Semester 1', 'Semester 2']"
+ABPL90307,MSD Vocational Placement,"['Summer Term', 'Semester 1', 'Semester 2']"
+ABPL90309,Supply Chains in Construction,['Semester 1']
+ABPL90313,Management of Construction,['Semester 1']
+ABPL90314,Property Agency and Marketing (PG),['Semester 1']
+ABPL90316,The Shaping of Urban Design,['Semester 1']
+ABPL90319,"GIS In Planning, Design & Development",['Semester 1']
+ABPL90324,Materials and Structures,['Semester 1']
+ABPL90330,Economics of Building,['Semester 1']
+ABPL90334,Means and Methods in Construction,['Semester 1']
+ABPL90339,International Real Estate Economics,['Semester 1']
+ABPL90340,Landscape Materialities,['Semester 1']
+ABPL90341,Urban Environmental Policy and Planning,['Semester 1']
+ABPL90356,Bower Studio,['Semester 1']
+ABPL90357,Forms and Politics in Architecture,['Semester 1']
+ABPL90359,Research Practicum in Construction,"['Semester 1', 'Semester 2']"
+ABPL90360,MUCH Heritage Industry Internship,"['Semester 1', 'Semester 2']"
+ABPL90361,Ex-Lab: Experimental Design Lab,"['Semester 1', 'Semester 2']"
+ABPL90363,Property Research and Analysis,['Semester 1']
+ABPL90368,Architecture and Media,['Semester 1']
+ABPL90369,Architecture as Spectacle,['Semester 1']
+ABPL90370,Design Management,['Semester 1']
+ABPL90375,Landscape Architecture Design Thesis,"['Semester 1', 'Semester 2']"
+ABPL90376,Urban Design Thesis,"['Semester 1', 'Semester 2']"
+ABPL90381,Urban and Cultural Heritage Internship,"['Semester 1', 'Semester 2']"
+ABPL90382,Urban and Cultural Heritage Minor Thesis,"['Semester 1', 'Semester 2']"
+ABPL90383,Urban & Cultural Heritage Research Proj,"['Semester 1', 'Semester 2']"
+ABPL90384,MUP Studio,"['Semester 1', 'Semester 2']"
+ABPL90389,Urban Design Studio C,"['Semester 1', 'Semester 2']"
+ABPL90396,MSD Minor Thesis Part 1,"['Semester 1', 'Semester 2']"
+ABPL90397,MSD Minor Thesis Part 2,"['Semester 1', 'Semester 2']"
+ABPL90405,Energy & Carbon in the Built Environment,['Semester 1']
+ABPL90409,Realising The Knowledge Economy,['Semester 1']
+ACCT10001,Accounting Reports and Analysis,"['Summer Term', 'Semester 1', 'Semester 2']"
+ACCT10002,Introductory Financial Accounting,"['Summer Term', 'Semester 1', 'Semester 2']"
+ACCT20001,Cost Management,"['Semester 1', 'Semester 2']"
+ACCT20002,Intermediate Financial Accounting,"['Summer Term', 'Semester 1', 'Semester 2']"
+ACCT20007,Accounting Information: Risks & Controls,"['Semester 1', 'Semester 2']"
+ACCT30001,Financial Accounting Theory,"['Semester 1', 'Semester 2']"
+ACCT30002,Enterprise Performance Management,"['Semester 1', 'Semester 2']"
+ACCT30004,Auditing and Assurance Services,"['Semester 1', 'Semester 2']"
+ACCT40001,Research in Financial Accounting,['Semester 1']
+ACCT40002,Research in Management Accounting,['Semester 1']
+ACCT40008,Honours Research Essay Part 1,['Semester 1']
+ACCT90002,Financial Statement Analysis,"['Semester 1', 'Semester 2']"
+ACCT90004,Accounting for Decision Making,"['Summer Term', 'Semester 1', 'Semester 2']"
+ACCT90007,Assurance Practices,['Semester 1']
+ACCT90009,Strategic Cost Management,"['Semester 1', 'Semester 2']"
+ACCT90010,Strategic Performance Management,"['Semester 1', 'Semester 2']"
+ACCT90012,Corporate Reporting,"['Semester 1', 'Semester 2']"
+ACCT90013,Theory of Financial Accounting,"['Semester 1', 'Semester 2']"
+ACCT90014,Auditing and Assurance Services,"['Semester 1', 'Semester 2']"
+ACCT90015,Legal Issues for Accountants,"['Semester 1', 'Semester 2']"
+ACCT90016,Taxation for Business Decision Making,"['Semester 1', 'Semester 2']"
+ACCT90019,Financial Accounting Research,['Semester 1']
+ACCT90020,Management Accounting Research,['Semester 1']
+ACCT90030,Information Processes & Control,"['Semester 1', 'Semester 2']"
+ACCT90033,Integrated Accounting Studies,"['Semester 1', 'Semester 2']"
+ACCT90041,Fundamentals in Accounting,"['Semester 1', 'Semester 2']"
+ACTL20001,Financial Mathematics I,['Semester 1']
+ACTL30001,Actuarial Modelling I,['Semester 1']
+ACTL30002,Actuarial Modelling II,['Semester 1']
+ACTL30006,Financial Mathematics III,['Semester 1']
+ACTL40001,Actuarial Studies Research Essay,"['Semester 1', 'Semester 2']"
+ACTL40002,Risk Theory I,['Semester 1']
+ACTL40004,Advanced Financial Mathematics I,['Semester 1']
+ACTL40006,Actuarial Practice and Control I,['Semester 1']
+ACTL40010,Actuarial Studies Projects Part 1,['Semester 1']
+ACTL90001,Mathematics of Finance I,['Semester 1']
+ACTL90003,Mathematics of Finance III,['Semester 1']
+ACTL90004,Insurance Risk Models,['Semester 1']
+ACTL90006,Life Insurance Models I,['Semester 1']
+ACTL90009,Actuarial Practice and Control III,"['Semester 1', 'Semester 2']"
+ACTL90010,Actuarial Practice And Control I,['Semester 1']
+ACTL90013,Actuarial Studies Projects,"['Semester 1', 'Semester 2']"
+ACTL90016,Actuarial Science Research Report Part 1,"['Semester 1', 'Semester 2']"
+ACTL90017,Actuarial Science Research Report Part 2,"['Semester 1', 'Semester 2']"
+ACTL90018,General Insurance Practice,['Semester 1']
+ACUR90002,Art Museums and Curatorship,['Semester 1']
+ACUR90006,Exhibition Management,"['Semester 1', 'Semester 2']"
+ACUR90007,Collection Management,['Semester 1']
+ACUR90009,Art Curatorship Thesis Part 1,"['Semester 1', 'Semester 2']"
+ACUR90010,Art Curatorship Thesis Part 2,"['Semester 1', 'Semester 2']"
+AGRI10045,Foundations of Agricultural Sciences 1,['Semester 1']
+AGRI10047,Agriculture in Australia,['Semester 1']
+AGRI10050,Agricultural Systems Biology,['Semester 1']
+AGRI20026,Plant Growth Processes,['Semester 1']
+AGRI20042,Agricultural Economics,['Semester 1']
+AGRI20043,Biochemistry in Agricultural Systems,['Semester 1']
+AGRI20044,Microbiology in Agriculture,['Semester 1']
+AGRI30002,Industry Project,"['Semester 1', 'Semester 2']"
+AGRI30022,Special Studies,"['Summer Term', 'Semester 1']"
+AGRI30030,Livestock Production Systems,['Semester 1']
+AGRI30033,Farm Management Economics,['Semester 1']
+AGRI30037,Soil Management,['Semester 1']
+AGRI30042,Plant Pathology,['Semester 1']
+AGRI40017,Agric.Science Research Project Part 1,['Semester 1']
+AGRI90013,Financial Management for Agribusiness,['Semester 1']
+AGRI90034,Special Studies in Viticulture/Oenology,"['Semester 1', 'Semester 2']"
+AGRI90066,Soil Science and Management,['Semester 1']
+AGRI90070,Minor Research Project,"['Semester 1', 'Semester 2']"
+AGRI90072,Major Research Project,"['Semester 1', 'Semester 2']"
+AGRI90075,Research Methods For Life Sciences,['Semester 1']
+AGRI90078,Internship for Agricultural Sciences,"['Semester 1', 'Semester 2']"
+AGRI90079,Minor Research Project Part 1,"['Semester 1', 'Semester 2']"
+AGRI90080,Major Research Project Part 1,"['Semester 1', 'Semester 2']"
+AGRI90081,Minor Research Project Part 2,"['Semester 1', 'Semester 2']"
+AGRI90082,Major Research Project Part 2,"['Semester 1', 'Semester 2']"
+AGRI90083,Internship for Agricultural Sciences Pt1,"['Semester 1', 'Semester 2']"
+AGRI90084,Internship for Agricultural Sciences Pt2,"['Semester 1', 'Semester 2']"
+AGRI90086,Communicating Agricultural Sciences,['Semester 1']
+AGRI90089,Human Resource Management,['Semester 1']
+AGRI90091,Advanced Plant Breeding and Improvement,['Semester 1']
+AGRI90092,Agricultural Advisory Practice & Theory,['Semester 1']
+AHIS10001,Art History: Theory and Controversy,['Semester 1']
+AHIS20002,Australian Art,['Semester 1']
+AHIS20011,European Renaissance Art,['Semester 1']
+AHIS20016,Art and Revolution,['Semester 1']
+AHIS20021,Arts of East Asia,['Semester 1']
+AHIS30005,Contemporary Aboriginal Art,['Semester 1']
+AHIS40002,"Indigenous Photography, New Media, Film",['Semester 1']
+AHIS40006,Postcolonial Visual Art,['Semester 1']
+AHIS40008,Twentieth-Century Italian Art: 1909-1969,['Semester 1']
+AHIS40023,Art History Thesis Part 1,"['Semester 1', 'Semester 2']"
+AHIS40024,Art History Thesis Part 2,"['Semester 1', 'Semester 2']"
+AHIS90005,History and Philosophy of Museums,['Semester 1']
+AIND10001,Communication and Performance 1,['Semester 1']
+AIND10004,Art and Indigenous Voice,['Semester 1']
+AIND20007,Key Thinkers and Concepts,['Semester 1']
+AIND20008,Aboriginal Women and Coloniality,['Semester 1']
+AIND20009,Racial Literacy: Indigeneity & Whiteness,['Semester 1']
+AIND30010,Aboriginal Cultural Studies,['Semester 1']
+AIND30011,Aboriginal Writing,['Semester 1']
+AIND40005,Textual Revelations,['Semester 1']
+AIND40007,Australian Indigenous Studies Thesis Pt1,"['Semester 1', 'Semester 2']"
+AIND40008,Australian Indigenous Studies Thesis Pt2,"['Semester 1', 'Semester 2']"
+AMGT90001,Principles of Arts Management,"['Semester 1', 'Semester 2']"
+AMGT90002,Arts Law,['Semester 1']
+AMGT90004,"States, Governments and the Arts","['Semester 1', 'Semester 2']"
+AMGT90007,Advanced Arts Management,['Semester 1']
+AMGT90013,Finance and Budgeting,"['Semester 1', 'Semester 2']"
+AMGT90015,Cultural Management Project (Sem Long),"['Semester 1', 'Semester 2']"
+AMGT90017,Communicating the Arts,['Semester 1']
+AMGT90024,Cultural Festivals and Special Events,"['Semester 1', 'Semester 2']"
+AMGT90025,Cultural Management Project Part 1,"['Semester 1', 'Semester 2']"
+AMGT90026,Cultural Management Project Part 2,"['Semester 1', 'Semester 2']"
+AMGT90027,Arts Management Thesis Part 1,"['Semester 1', 'Semester 2']"
+AMGT90028,Arts Management Thesis Part 2,"['Semester 1', 'Semester 2']"
+AMGT90030,Philanthropy and Development in the Arts,['Semester 1']
+ANAT20006,Principles of Human Structure,"['Semester 1', 'Semester 2']"
+ANAT30007,Human Locomotor Systems,['Semester 1']
+ANAT40001,Anatomy & Neurosci Research Proj Part 1,['Semester 1']
+ANAT40002,Seminars in Anatomy and Neuroscience,['Semester 1']
+ANAT90004,Anatomy and Physiology for Audiology,['Semester 1']
+ANAT90011,Anatomy and Physiology,['Semester 1']
+ANAT90012,Project in Anatomy,"['Semester 1', 'Semester 2']"
+ANAT90013,Project in Anatomy,"['Semester 1', 'Semester 2']"
+ANAT90014,Project in Anatomy,"['Semester 1', 'Semester 2']"
+ANAT90015,Project in Anatomy,"['Semester 1', 'Semester 2']"
+ANCW10001,Ancient Egypt and Mesopotamia,['Semester 1']
+ANCW10006,Ancient Egyptian 1,['Semester 1']
+ANCW20015,Classical Mythology,"['Semester 1', 'Winter Term']"
+ANCW20019,The Rise and Fall of the Roman Republic,['Semester 1']
+ANCW20023,Ancient Egyptian 3,['Semester 1']
+ANCW30011,Underworld and Afterlife,['Semester 1']
+ANCW30016,The Age of Alexander the Great,['Semester 1']
+ANCW40007,Problems in Greek Prehistory,['Semester 1']
+ANCW40012,The Roman Way of Life,['Semester 1']
+ANCW40014,Research in Ancient World Studies,['Semester 1']
+ANCW40016,Ancient World Studies Thesis Part 1,"['Semester 1', 'Semester 2']"
+ANCW40017,Ancient World Studies Thesis Part 2,"['Semester 1', 'Semester 2']"
+ANSC20001,Animal Physiology and Growth,['Semester 1']
+ANSC20005,Companion Animal Biology,['Semester 1']
+ANSC30001,Animal Disease Biotechnology 1,['Semester 1']
+ANSC30003,Applied Animal Behaviour,['Semester 1']
+ANSC30004,Applied Animal Reproduction & Genetics,['Semester 1']
+ANSC30006,Production Animal Health,['Semester 1']
+ANSC40001,Animal Sci & Mgt Research Project Part 1,['Semester 1']
+ANSC90001,Wildlife Management,['Semester 1']
+ANTH10001,Anthropology: Studying Self and Other,['Semester 1']
+ANTH20001,Keeping the Body in Mind,['Semester 1']
+ANTH20012,"Self, Culture and Society",['Semester 1']
+ANTH20013,"Diplomat, Soldier, Spy: The Deep State",['Semester 1']
+ANTH20014,Fieldwork: Anthropology in Practice,['Semester 1']
+ANTH30003,"Society, Politics, and the Sacred",['Semester 1']
+ANTH30005,"Power, Ideology and Inequality",['Semester 1']
+ANTH30009,Anthropology of More-Than-Human Worlds,['Semester 1']
+ANTH30018,Cultures of Law,['Semester 1']
+ANTH40001,Philosophy and Scope of Anthropology,['Semester 1']
+ANTH40007,Anthropology & Social Theory Thesis,"['Semester 1', 'Semester 2']"
+ANTH40009,Anthropology Thesis Part 1,"['Semester 1', 'Semester 2']"
+ANTH40010,Anthropology Thesis Part 2,"['Semester 1', 'Semester 2']"
+ANTH90004,Migration and Development,['Semester 1']
+ARBC10001,Arabic 3,['Semester 1']
+ARBC10003,Arabic 5,['Semester 1']
+ARBC10005,Arabic 1,['Semester 1']
+ARBC20001,Arabic in Context 1,['Semester 1']
+ARBC20002,Arabic 7,['Semester 1']
+ARBC20004,Arabic 3,['Semester 1']
+ARBC20006,Arabic 5,['Semester 1']
+ARBC30002,Arabic 9,['Semester 1']
+ARBC30004,Arabic 5,['Semester 1']
+ARBC30006,Arabic 7,['Semester 1']
+ARBC40001,Honours Arabic A,['Semester 1']
+ARBC40007,Arabic Studies Thesis Part 1,"['Semester 1', 'Semester 2']"
+ARBC40008,Arabic Studies Thesis Part 2,"['Semester 1', 'Semester 2']"
+ARBC90003,Graduate Arabic A,['Semester 1']
+ARCH10001,Foundations of Design: Representation,"['Semester 1', 'Semester 2']"
+ARCH10002,Construction as Alchemy,"['Semester 1', 'Semester 2']"
+ARCH10003,Design Studio Alpha,"['Semester 1', 'Semester 2']"
+ARCH20001,Design Studio Beta,['Semester 1']
+ARCH20003,Modern Architecture: MoMo to PoMo,['Semester 1']
+ARCH20004,Digital Design,['Semester 1']
+ARCH30001,Design Studio Delta,"['Semester 1', 'Semester 2']"
+ARTS30002,Introduction to Language Translation,['Semester 1']
+ARTS90008,Researching the Past,['Semester 1']
+ARTS90009,Researching Texts,['Semester 1']
+ARTS90010,Researching Society and Culture,['Semester 1']
+ARTS90011,Researching Images,['Semester 1']
+ARTS90012,Researching Ideas,['Semester 1']
+ARTS90013,Researching Media and Culture,['Semester 1']
+ARTS90014,Researching Politics and Policy,['Semester 1']
+ARTS90015,Researching Language,['Semester 1']
+ASIA10001,Language and Power in Asian Societies,['Semester 1']
+ASIA10002,Asian Century: Meaning and Impact,['Semester 1']
+ASIA20001,Media and Urban Culture in Asia,['Semester 1']
+ASIA20003,Genders and Desires in Asia,['Semester 1']
+ASIA30003,Asian Religions in Societal Context,['Semester 1']
+ASIA30004,Corruption in Asia,['Semester 1']
+ASIA40004,Asian Studies Thesis Part 1,"['Semester 1', 'Semester 2']"
+ASIA40005,Asian Studies Thesis Part 2,"['Semester 1', 'Semester 2']"
+ASIA90004,Critical Asian Perspectives,['Semester 1']
+ASIA90012,International Relations Thesis Part 1,"['Semester 1', 'Semester 2']"
+ASIA90013,International Relations Thesis Part 2,"['Semester 1', 'Semester 2']"
+ATOC20001,Weather and Climate Systems,['Semester 1']
+ATOC30004,Dynamical Meteorology and Oceanography,['Semester 1']
+ATOC30008,Atmospheric Processes and Composition,['Semester 1']
+ATOC90002,Climate Science for Decision-Making,['Semester 1']
+ATOC90004,Current Topics in Atmospheric Research,['Semester 1']
+AUDI90001,Electrophysiological Assessment B,['Semester 1']
+AUDI90002,Research for Hearing and Speech Sciences,['Semester 1']
+AUDI90015,Acoustics,['Semester 1']
+AUDI90016,Pathologies of the Auditory System,['Semester 1']
+AUDI90017,Perception Of Sound & Speech,['Semester 1']
+AUDI90025,Communication Across the Lifespan,['Semester 1']
+AUDI90027,Clinical Processes A,['Semester 1']
+AUDI90034,Planning and Integrating Intervention,['Semester 1']
+AUDI90035,Speech and Language Disorders - Advanced,['Semester 1']
+AUDI90036,Disorders of Fluency,['Semester 1']
+BCMB20002,Biochemistry and Molecular Biology,"['Semester 1', 'Semester 2']"
+BCMB20005,Techniques in Molecular Science,"['Semester 1', 'Semester 2']"
+BCMB30002,Functional Genomics and Bioinformatics,['Semester 1']
+BCMB30003,Molecular Aspects of Cell Biology,['Semester 1']
+BCMB30010,Advanced Techniques in Molecular Science,"['Semester 1', 'Semester 2']"
+BCMB30011,Metabolism and Nutrition,['Semester 1']
+BCMB40002,Advanced Studies in Biochemistry,['Semester 1']
+BCMB40009,Biochemistry Research Project Part 1,['Semester 1']
+BCMB40012,Biochemistry Research Project Part 2,['Semester 1']
+BIEN90001,Biochemical Engineering Research Project,"['Summer Term', 'Semester 1', 'July']"
+BIEN90003,Biochemical Engineering Minor Thesis,"['Summer Term', 'Semester 1', 'Semester 2']"
+BINF90001,Statistics for Bioinformatics,['Semester 1']
+BINF90002,Elements of Bioinformatics,['Semester 1']
+BIOL10002,Biomolecules and Cells,['Semester 1']
+BIOL10004,Biology of Cells and Organisms,['Semester 1']
+BIOL10006,Systems Biology,['Semester 1']
+BIOL40010,Research Project - RMH Part 1,['Semester 1']
+BIOL40013,Research Project - RMH Part 2,['Semester 1']
+BIOL90001,Microscopy for Biological Sciences,['Semester 1']
+BIOM20001,Molecular and Cellular Biomedicine,['Semester 1']
+BIOM30002,Biomedicine: Molecule to Malady,['Semester 1']
+BIOM30003,Biomedical Science Research Project,"['Summer Term', 'Semester 1', 'Semester 2']"
+BIOM90012,Project in Biomedical Science,"['Semester 1', 'Semester 2']"
+BIOM90013,Project in Biomedical Science,"['Semester 1', 'Semester 2']"
+BIOM90014,Project in Biomedical Science,"['Semester 1', 'Semester 2']"
+BIOM90015,Project in Biomedical Science,"['Semester 1', 'Semester 2']"
+BISY90009,Managing Information Technology,"['Semester 1', 'Semester 2']"
+BLAW10001,Principles of Business Law,"['Semester 1', 'Semester 2']"
+BLAW20001,Corporate Law,['Semester 1']
+BLAW30003,Taxation Law II,['Semester 1']
+BMEN20001,Biomechanical Physics & Computation,['Semester 1']
+BMEN30005,Introduction to Biomechanics,['Semester 1']
+BMEN30006,Circuits and Systems,['Semester 1']
+BMEN90012,Soft Matter Engineering,['Semester 1']
+BMEN90018,Biomedical Engineering Capstone Project,"['Semester 1', 'Year Long', 'Semester 2']"
+BMEN90019,Biomedical Engineering Management,['Semester 1']
+BMEN90021,Medical Imaging,['Semester 1']
+BMEN90026,Clinical Trials and Regulations,['Semester 1']
+BMEN90029,Soft Tissue and Cellular Biomechanics,['Semester 1']
+BMEN90032,Biomed Eng Capstone Proj Part 2,['Semester 1']
+BMEN90033,Bioinstrumentation,['Semester 1']
+BMSC40003,Medical Biology Research Project Part 1,['Semester 1']
+BMSC90012,Fundamentals in Eye Banking,['Semester 1']
+BOTA20001,Green Planet: Plants and the Environment,['Semester 1']
+BOTA40001,Botany Research Project,"['Semester 1', 'Semester 2']"
+BOTA40006,Botany Research Project,"['Semester 1', 'Semester 2']"
+BOTA40007,Botany Research Project,"['Semester 1', 'Semester 2']"
+BOTA90014,Botany Research Project Minor,"['Semester 1', 'Semester 2']"
+BTCH30001,Methods in Agrifood Biotechnology,['Semester 1']
+BTCH30002,Trends & Issues in Agrifood Biotech,['Semester 1']
+BTCH30003,Biotechnology in Practice,['Semester 1']
+BTCH90009,Genomics and Bioinformatics,['Semester 1']
+BTCH90010,Genetically Modified Organisms,['Semester 1']
+BUSA30000,Business Judgement,"['Semester 1', 'Semester 2']"
+BUSA90518,Business & Economics Internship,"['January', 'Semester 1', 'July', 'Semester 2']"
+BUSA90520,Business Data Management,['Semester 1']
+CCDP10002,The Electronic Arts: Vision and Sound,"['Semester 1', 'Semester 2']"
+CCDP10003,Video Games: Remaking Reality,"['Semester 1', 'Semester 2']"
+CCDP20001,Street Art,"['Semester 1', 'Semester 2']"
+CCDP40001,Research Methods (Social Practice),['Semester 1']
+CCDP90011,Project A,['Semester 1']
+CEDB20003,Fundamentals of Cell Biology,['Semester 1']
+CEDB30002,Concepts in Cell & Developmental Biology,['Semester 1']
+CHEM10003,Chemistry 1,"['Semester 1', 'Semester 2']"
+CHEM10006,Chemistry for Biomedicine,['Semester 1']
+CHEM10007,Fundamentals of Chemistry,['Semester 1']
+CHEM10008,Foundation Studies in Chemistry,['Semester 1']
+CHEM10009,Chemistry for BioSciences,['Semester 1']
+CHEM20011,Environmental Chemistry,['Semester 1']
+CHEM20018,Chemistry: Reactions and Synthesis,['Semester 1']
+CHEM20026,Principles of Chemical Biology,['Semester 1']
+CHEM30015,Advanced Practical Chemistry,['Semester 1']
+CHEM30016,Reactivity and Mechanism,['Semester 1']
+CHEM30017,Specialised Topics in Chemistry A,['Semester 1']
+CHEM90007,Environmental Chemistry,['Semester 1']
+CHEM90055,Chemical Regulations and Safety,['Semester 1']
+CHEN20009,Transport Processes,"['Semester 1', 'Semester 2']"
+CHEN20010,Material and Energy Balances,"['Semester 1', 'Semester 2']"
+CHEN30001,Reactor Engineering,['Semester 1']
+CHEN30005,Heat and Mass Transport Processes,"['Semester 1', 'Semester 2']"
+CHEN90007,Chemical Engineering Thermodynamics,['Semester 1']
+CHEN90012,Process Equipment Design,"['Semester 1', 'Semester 2']"
+CHEN90013,Process Engineering,['Semester 1']
+CHEN90018,Particle Mechanics and Processing,['Semester 1']
+CHEN90019,Advanced Heat & Mass Transport Processes,['Semester 1']
+CHEN90020,Chemical Engineering Management,['Semester 1']
+CHEN90023,Chemical Engineering Research Project,"['Summer Term', 'Semester 1', 'July']"
+CHEN90026,Chemical Engineering Minor Research Proj,"['Summer Term', 'Semester 1', 'Semester 2']"
+CHEN90027,Carbon Capture and Storage,['Semester 1']
+CHEN90028,Industry Project,"['Summer Term', 'Semester 1', 'July']"
+CHEN90030,Chemical Engineering Minor Thesis,"['Summer Term', 'Semester 1', 'Semester 2']"
+CHEN90031,Bioprocess Engineering,"['Summer Term', 'Semester 1']"
+CHEN90034,Research Methods,['Semester 1']
+CHIN10001,Chinese 9,['Semester 1']
+CHIN10003,Chinese 7,['Semester 1']
+CHIN10005,Chinese 1,['Semester 1']
+CHIN10015,Chinese 3,['Semester 1']
+CHIN10017,Chinese 5,['Semester 1']
+CHIN10019,Contemporary Chinese Literature,['Semester 1']
+CHIN20001,Chinese 3,['Semester 1']
+CHIN20003,Chinese 5,['Semester 1']
+CHIN20005,Modern Chinese Literature,['Semester 1']
+CHIN20006,Great Chinese Classics,['Semester 1']
+CHIN20007,Chinese Studies: Culture and Empire,['Semester 1']
+CHIN20009,Chinese Economic Documents,['Semester 1']
+CHIN20010,Chinese in Context 1,['Semester 1']
+CHIN20012,Chinese 9,['Semester 1']
+CHIN20022,Advanced Seminar in Chinese,['Semester 1']
+CHIN20027,Chinese 7,['Semester 1']
+CHIN20029,Understanding the New Media in China,['Semester 1']
+CHIN30002,Taiwan & Beyond: Chinese Settler Culture,['Semester 1']
+CHIN30007,Advanced Seminar in Chinese,['Semester 1']
+CHIN30008,Chinese 5,['Semester 1']
+CHIN30010,Modern Chinese Literature,['Semester 1']
+CHIN30011,Great Chinese Classics,['Semester 1']
+CHIN30012,Chinese Economic Documents,['Semester 1']
+CHIN30024,Understanding the New Media in China,['Semester 1']
+CHIN40006,Chinese Thesis Part 1,"['Semester 1', 'Semester 2']"
+CHIN40007,Chinese Thesis Part 2,"['Semester 1', 'Semester 2']"
+CHIN90001,Honours Chinese A,['Semester 1']
+CHIN90003,Topics in Chinese Studies,['Semester 1']
+CHIN90005,Graduate Chinese A,['Semester 1']
+CLAS10004,Ancient Greek 1,"['Semester 1', 'Winter Term']"
+CLAS10006,Latin 1,"['Summer Term', 'Semester 1']"
+CLAS10012,Latin 3,['Semester 1']
+CLAS10020,Ancient Greek 3,['Semester 1']
+CLAS20013,Ancient Greek 5,['Semester 1']
+CLAS20015,Ancient Greek 3,['Semester 1']
+CLAS20029,Latin 3,['Semester 1']
+CLAS20030,Latin 5,['Semester 1']
+CLAS30013,Latin 5,['Semester 1']
+CLAS30024,Ancient Greek 5,['Semester 1']
+CLAS40034,Classics Honours Seminar 1,['Semester 1']
+CLAS40036,Classics Thesis Part 1,"['Semester 1', 'Semester 2']"
+CLAS40037,Classics Thesis Part 2,"['Semester 1', 'Semester 2']"
+CLRS90004,Clinical Research Thesis,"['Semester 1', 'Year Long', 'Semester 2']"
+COMP10001,Foundations of Computing,"['Semester 1', 'Semester 2']"
+COMP10002,Foundations of Algorithms,"['Semester 1', 'Semester 2']"
+COMP10003,Media Computation,['Semester 1']
+COMP20005,Engineering Computation,"['Semester 1', 'Semester 2']"
+COMP20007,Design of Algorithms,['Semester 1']
+COMP20008,Elements of Data Processing,"['Semester 1', 'Semester 2']"
+COMP30013,Advanced Studies in Computing 3A,"['Summer Term', 'Semester 1', 'Semester 2']"
+COMP30014,Advanced Studies in Computing 3B,"['Summer Term', 'Semester 1', 'Semester 2']"
+COMP30023,Computer Systems,['Semester 1']
+COMP30024,Artificial Intelligence,['Semester 1']
+COMP30027,Machine Learning,['Semester 1']
+COMP60003,Computer Science Research Project,"['Semester 1', 'Semester 2']"
+COMP90005,Advanced Studies in Computing 6B,"['Summer Term', 'Semester 1', 'Semester 2']"
+COMP90007,Internet Technologies,"['Semester 1', 'Semester 2']"
+COMP90015,Distributed Systems,"['Semester 1', 'Semester 2']"
+COMP90016,Computational Genomics,['Semester 1']
+COMP90019,Distributed Computing Project,"['Semester 1', 'Semester 2']"
+COMP90020,Distributed Algorithms,['Semester 1']
+COMP90024,Cluster and Cloud Computing,['Semester 1']
+COMP90028,Information Technology Research Project,"['Semester 1', 'Semester 2']"
+COMP90030,Minor Research Project,"['Semester 1', 'Semester 2']"
+COMP90038,Algorithms and Complexity,"['Semester 1', 'Semester 2']"
+COMP90041,Programming and Software Development,"['Semester 1', 'Semester 2']"
+COMP90042,Web Search and Text Analysis,['Semester 1']
+COMP90044,Research Methods,"['Semester 1', 'Semester 2']"
+COMP90045,Programming Language Implementation,['Semester 1']
+COMP90048,Declarative Programming,['Semester 1']
+COMP90049,Knowledge Technologies,"['Semester 1', 'Semester 2']"
+COMP90050,Advanced Database Systems,['Semester 1']
+COMP90055,Computing Project,"['Summer Term', 'Semester 1', 'Semester 2']"
+COMP90059,Introduction to Programming,"['Summer Term', 'Semester 1', 'Semester 2']"
+COMP90060,Computer Science Research Project Pt1,"['Semester 1', 'Semester 2']"
+COMP90061,Computer Science Research Project Pt1,"['Semester 1', 'Semester 2']"
+COMP90062,Computer Science Research Project Pt1,"['Semester 1', 'Semester 2']"
+COMP90063,Computer Science Research Project Pt1,"['Semester 1', 'Semester 2']"
+COMP90064,Computer Science Research Project Pt2,"['Semester 1', 'Semester 2']"
+COMP90065,Computer Science Research Project Pt2,"['Semester 1', 'Semester 2']"
+COMP90066,Computer Science Research Project Pt2,"['Semester 1', 'Semester 2']"
+COMP90067,Computer Science Research Project Pt2,"['Semester 1', 'Semester 2']"
+COMP90068,Computer Science Research Project Pt3,"['Semester 1', 'Semester 2']"
+COMP90069,Computer Science Research Project Pt3,"['Semester 1', 'Semester 2']"
+COMP90070,Computer Science Research Project Pt3,"['Semester 1', 'Semester 2']"
+COMP90071,Computer Science Research Project Pt3,"['Semester 1', 'Semester 2']"
+COMP90072,The Art of Scientific Computation,"['Semester 1', 'Semester 2']"
+COMP90074,Web Security,['Semester 1']
+CONS30001,Building Information Modelling,['Semester 1']
+CREA90001,Research Methods 1,['Semester 1']
+CRIM10001,From Graffiti to Terrorism,['Semester 1']
+CRIM20002,Criminal Law and Political Justice,['Semester 1']
+CRIM20003,Policing,['Semester 1']
+CRIM30006,Crime and Culture,['Semester 1']
+CRIM30010,Managing Justice: Agencies and the State,['Semester 1']
+CRIM30011,"Young People, Crime and Justice",['Semester 1']
+CRIM40002,Qualitative Research Methods,['Semester 1']
+CRIM40003,Drugs and Justice,['Semester 1']
+CRIM40008,Criminology Thesis Part 1,"['Semester 1', 'Semester 2']"
+CRIM40009,Criminology Thesis Part 2,"['Semester 1', 'Semester 2']"
+CRIM90004,"Taming Business? Crime, Law and Politics",['Semester 1']
+CRIM90009,Judging Crime,['Semester 1']
+CRIM90011,Research and Criminal Justice Governance,['Semester 1']
+CRIM90018,Making Sense of Crime and Justice,['Semester 1']
+CRIM90028,Criminology Thesis Part 1,"['Semester 1', 'Semester 2']"
+CRIM90029,Criminology Thesis Part 2,"['Semester 1', 'Semester 2']"
+CRIM90030,Criminology & Sociology Internship Pt 1,"['Semester 1', 'Semester 2']"
+CRIM90031,Criminology & Sociology Internship Pt 2,"['Semester 1', 'Semester 2']"
+CULS20015,Rock to Rave,['Semester 1']
+CULS20016,Media Histories,['Semester 1']
+CULS30002,Asian Cinema and Media,['Semester 1']
+CULS30004,Thinking Sex,['Semester 1']
+CULS40001,Cultural Policy and Power,['Semester 1']
+CUMC90006,Conservation Internship and Projects,"['Semester 1', 'Semester 2']"
+CUMC90035,Conservation Thesis Part 1,"['Semester 1', 'Semester 2']"
+CUMC90036,Conservation Thesis Part 2,"['Semester 1', 'Semester 2']"
+CVEN30008,Engineering Risk Analysis,"['Semester 1', 'Semester 2']"
+CVEN30010,Systems Modelling and Design,"['Semester 1', 'Semester 2']"
+CVEN90017,Earthquake Resistant Design of Buildings,['Semester 1']
+CVEN90019,Sustainable Water Resources Systems,['Semester 1']
+CVEN90024,High Rise Structures,['Semester 1']
+CVEN90026,Extreme Loading of Structures,['Semester 1']
+CVEN90043,Sustainable Infrastructure Engineering,['Semester 1']
+CVEN90044,Engineering Site Characterisation,['Semester 1']
+CVEN90047,IE Research Project 2,"['Semester 1', 'Semester 2']"
+CVEN90049,Structural Theory and Design 2,['Semester 1']
+CVEN90050,Geotechnical Engineering,['Semester 1']
+CVEN90056,IE Research Project 3,"['Semester 1', 'Semester 2']"
+CVEN90059,Integrated Design - Infrastructure,['Semester 1']
+CVEN90061,Freight Systems,['Semester 1']
+CVEN90064,IE Research Project 1 Part 1,"['Semester 1', 'Semester 2']"
+CVEN90065,IE Research Project 1 Part 2,"['Semester 1', 'Semester 2']"
+CVEN90068,Port Access and Navigation,"['Semester 1', 'September']"
+CWRI10001,Creative Writing: Ideas and Practice,['Semester 1']
+CWRI20005,Creative Non Fiction,['Semester 1']
+CWRI20007,Poetry,['Semester 1']
+CWRI30006,Poetry and Poetics,['Semester 1']
+CWRI30014,Advanced Screenwriting,['Semester 1']
+CWRI30015,Writing Radical Performance,['Semester 1']
+CWRI40010,Contemporary Eco-Fictions,['Semester 1']
+CWRI40015,Creative Writing Thesis Part 1,"['Semester 1', 'Semester 2']"
+CWRI40016,Creative Writing Thesis Part 2,"['Semester 1', 'Semester 2']"
+CWRI40017,Serial Storytelling,['Semester 1']
+CWRI90009,Young Adult Fiction,['Semester 1']
+CWRI90015,Creative Writing Thesis Part 1,"['Semester 1', 'Semester 2']"
+CWRI90016,Creative Writing Thesis Part 2,"['Semester 1', 'Semester 2']"
+CWRI90017,Advanced Writing Project Part 1,"['Semester 1', 'Semester 2']"
+CWRI90018,Advanced Writing Project Part 2,"['Semester 1', 'Semester 2']"
+DENT40003,Advances in Oral Health Research,"['Semester 1', 'Semester 2']"
+DENT40010,Oral Health Sci Research Proj Part 1,"['Semester 1', 'Semester 2']"
+DENT40011,Oral Health Sci Research Proj Part 2,"['Semester 1', 'Semester 2']"
+DENT90011,Research Design 1,['Semester 1']
+DENT90013,Research Proposal 1,['Semester 1']
+DENT90014,Research Proposal 2,"['Semester 1', 'Semester 2']"
+DENT90015,Principles of Specialty 1,['Semester 1']
+DENT90016,Principles of Specialty 2,"['Semester 1', 'Semester 2']"
+DENT90017,Clinical Practice in Specialty 1,['Semester 1']
+DENT90018,Clinical Practice in Specialty 2,"['Semester 1', 'Semester 2']"
+DENT90019,Minor Thesis 1,['Semester 1']
+DENT90021,Advanced Seminars in Specialty 1,['Semester 1']
+DENT90023,Adv Clinical Practice in Specialty 1,"['Semester 1', 'Semester 2']"
+DENT90024,Adv Clinical Practice in Specialty 2,"['Semester 1', 'Semester 2']"
+DENT90025,Minor Thesis 3,['Semester 1']
+DENT90026,Minor Thesis 4,"['Semester 1', 'Semester 2']"
+DENT90027,Advanced Seminars in Specialty 3,['Semester 1']
+DENT90029,Adv Clinical Practice in Specialty 3,"['Semester 1', 'Semester 2']"
+DENT90030,Adv Clinical Practice in Specialty 4,"['Semester 1', 'Semester 2']"
+DENT90031,Research Design 1,['Semester 1']
+DENT90032,Research Design 2,"['Semester 1', 'Semester 2']"
+DENT90033,Research Project 1,['Semester 1']
+DENT90035,Advanced Clinical Practice 1,['Semester 1']
+DENT90037,Advanced Clinical Practice 3,['Semester 1']
+DENT90038,Advanced Clinical Practice 4,"['Semester 1', 'Semester 2']"
+DENT90039,Forensic Odontology 1,['Semester 1']
+DENT90041,Casework/Research Report 1,['Semester 1']
+DENT90045,Research Project 1,['Semester 1']
+DENT90047,OMS Clinical Practice 1,['Semester 1']
+DEVT10001,The Developing World,['Semester 1']
+DEVT40009,Development Studies Thesis Part 1,"['Semester 1', 'Semester 2']"
+DEVT40010,Development Studies Thesis Part 2,"['Semester 1', 'Semester 2']"
+DEVT90002,Internship in Development,"['January', 'Semester 1', 'Semester 2']"
+DEVT90008,International Internship in Development,"['January', 'Semester 1', 'Semester 2']"
+DEVT90009,Development Theories,"['Semester 1', 'Semester 2']"
+DEVT90039,"Civil Society, NGOs and the State",['Semester 1']
+DEVT90045,Political Economy of Development,['Semester 1']
+DEVT90053,Intervening in Development,['Semester 1']
+DEVT90054,Development Studies Thesis Part 1,"['Semester 1', 'Semester 2']"
+DEVT90055,Development Studies Thesis Part 2,"['Semester 1', 'Semester 2']"
+DEVT90060,Internship in Development,"['January', 'Semester 1', 'Semester 2']"
+DNCE10012,Dance 1,['Semester 1']
+DNCE10016,Choreographic Process into Performance 1,['Semester 1']
+DNCE10017,Dance Technique 1,['Semester 1']
+DNCE10018,Integrated Body Mind Practices 1,['Semester 1']
+DNCE10027,Dancing the Dance 1,"['Semester 1', 'Semester 2']"
+DNCE10028,The Dancer as Artist,['Semester 1']
+DNCE20013,Dance Technique 3,['Semester 1']
+DNCE20014,Choreographic Process into Performance 3,['Semester 1']
+DNCE20015,Dance Technique Extension 2,['Semester 1']
+DNCE20016,Integrated Body Mind Practices 2,['Semester 1']
+DNCE20017,Dance Lineages 2,['Semester 1']
+DNCE30002,Special Study,['Semester 1']
+DNCE30010,Choreographic Processes 5 Screen Dance,['Semester 1']
+DNCE30011,Dance Technique 5,['Semester 1']
+DNCE30013,Independent Dance Contract B,['Semester 1']
+DNCE30015,Performance Project A,['Semester 1']
+DNCE30019,Dance Industry Project,"['Semester 1', 'Semester 2']"
+DNCE30020,Dance Technique Extension 4,['Semester 1']
+DNCE40005,Research Methods (Dance),['Semester 1']
+DNCE60047,Cross Disciplinary Laboratory,['Semester 1']
+DNCE90003,Collaboration Laboratory 1,['Semester 1']
+DNCE90005,Performance Research Approaches 1,['Semester 1']
+DNCE90009,Process and Practice 3,['Semester 1']
+DNCE90012,Project 3,['Semester 1']
+DPSS10001,Production Practice 1,['Semester 1']
+DPSS10002,Foundations of Design and Production 1,['Semester 1']
+DPSS20002,Frontiers in Design and Technology,['Semester 1']
+DPSS20003,Design Studio 1,['Semester 1']
+DPSS20004,Technical Studio 1,['Semester 1']
+DPSS30006,Professional Practice and Promotion,['Semester 1']
+DRAM10012,Acting 1,['Semester 1']
+DRAM10013,Base Skills 1,['Semester 1']
+DRAM10026,Up Close and Personal with MTC,"['Semester 1', 'June', 'Semester 2']"
+DRAM10027,Body and Voice 1,['Semester 1']
+DRAM10028,Acting and Performance 1,['Semester 1']
+DRAM10029,Contextual Studies 1 History Matters,['Semester 1']
+DRAM20022,Acting Lab 1,['Semester 1']
+DRAM20023,Contextual Studies 2 Theory in Action,['Semester 1']
+DRAM20026,Theatre Lab 1,['Semester 1']
+DRAM30021,Acting Lab 3,['Semester 1']
+DRAM30022,Industry Practice 1,['Semester 1']
+DRAM30025,Theatre Lab 3,['Semester 1']
+DRAM40001,Research Methods (Theatre Practice),['Semester 1']
+DRAM90010,Performing Arts Research Methodologies,['Semester 1']
+DRAM90011,Applied Dramaturgy,['Semester 1']
+DRAM90019,"Dramaturgy, Text and Performance",['Semester 1']
+DRAM90020,Directing Methodologies,['Semester 1']
+ECOL30006,Ecology in Changing Environments,['Semester 1']
+ECOL30007,Marine Ecosystems: Ecology & Management,['Semester 1']
+ECOM20001,Econometrics 1,"['Semester 1', 'Semester 2']"
+ECOM20002,Forecasting in Economics and Business,['Semester 1']
+ECOM30001,Basic Econometrics,['Semester 1']
+ECOM30002,Econometrics 2,"['Semester 1', 'Semester 2']"
+ECOM40003,Macroeconometrics,['Semester 1']
+ECOM40006,Econometrics 3,['Semester 1']
+ECOM90001,Basic Econometrics,['Semester 1']
+ECOM90002,Econometrics 2,"['Semester 1', 'Semester 2']"
+ECOM90005,Advanced Econometric Techniques,['Semester 1']
+ECOM90007,Macroeconometrics,['Semester 1']
+ECOM90009,Quantitative Methods for Business,"['Semester 1', 'Semester 2']"
+ECOM90013,Econometrics 3,['Semester 1']
+ECOM90015,Special Topics in Adv. Econometrics 2,['Semester 1']
+ECOM90018,Advanced Studies in Econometrics 1,['Semester 1']
+ECOM90020,Computational Economics and Business,['Semester 1']
+ECOM90022,Research Methods,['Semester 1']
+ECOM90023,Treatment Effects and Program Evaluation,['Semester 1']
+ECON10003,Introductory Macroeconomics,"['Summer Term', 'Semester 1', 'Semester 2']"
+ECON10004,Introductory Microeconomics,"['Semester 1', 'Semester 2']"
+ECON10005,Quantitative Methods 1,"['Semester 1', 'Semester 2']"
+ECON20002,Intermediate Microeconomics,"['Summer Term', 'Semester 1']"
+ECON20003,Quantitative Methods 2,"['Summer Term', 'Semester 1', 'Semester 2']"
+ECON20007,Globalisation and the World Economy,"['Semester 1', 'Semester 2']"
+ECON30001,International Trade Policy,['Semester 1']
+ECON30005,Money and Banking,['Semester 1']
+ECON30010,Microeconomics,['Semester 1']
+ECON30013,Economic Analysis and Policy,['Semester 1']
+ECON30018,Economics of the Law,['Semester 1']
+ECON30020,Mathematical Economics,['Semester 1']
+ECON30024,Economics of Financial Markets,['Semester 1']
+ECON30025,Computational Economics and Business,['Semester 1']
+ECON40001,Advanced Microeconomics,['Semester 1']
+ECON40002,Advanced Macroeconomics,['Semester 1']
+ECON40018,Economics Research Essay Part 1,['Semester 1']
+ECON90002,Microeconomics,['Semester 1']
+ECON90003,Macroeconomics,['Semester 1']
+ECON90010,Quantitative Analysis of Finance II,"['Semester 1', 'Semester 2']"
+ECON90015,Managerial Economics,"['Semester 1', 'Semester 2']"
+ECON90016,Environmental Economics and Strategy,['Semester 1']
+ECON90029,Economics For Public Policy,['Semester 1']
+ECON90032,Macroeconomics for Managers,['Semester 1']
+ECON90033,Quantitative Analysis of Finance I,"['Semester 1', 'Semester 2']"
+ECON90034,Economics of Finance,"['Semester 1', 'Semester 2']"
+ECON90047,Macroeconomics 2,['Semester 1']
+ECON90052,Special Reading Topics in Economics,['Semester 1']
+ECON90053,Mathematics for Economists,"['Semester 1', 'Semester 2']"
+ECON90054,Special Reading Topics in Economics 2,['Semester 1']
+ECON90055,Computational Economics,['Semester 1']
+ECON90063,Advanced Microeconomics,['Semester 1']
+ECON90064,Advanced Studies in Economics 1,['Semester 1']
+ECON90071,Economics Research Report Part 1,['Semester 1']
+ECON90073,Economics Thesis Workshop Part 1,['Semester 1']
+ECON90075,Economic Analysis and Policy,['Semester 1']
+ECON90079,Topics in Experimental Economics,['Semester 1']
+EDUC10048,"Creativity, Play and the Arts","['Semester 1', 'Semester 2']"
+EDUC10051,Sports Coaching: Theory and Practice,"['Summer Term', 'Semester 1', 'Semester 2']"
+EDUC10054,"Drawing, Painting and Sensory Knowing","['Semester 1', 'Semester 2']"
+EDUC10056,Learning and the Digital Generations,['Semester 1']
+EDUC10057,"Wellbeing, Motivation and Performance","['Summer Term', 'Semester 1']"
+EDUC10058,"Music, Learning and Popular Musicians",['Semester 1']
+EDUC10060,Introduction to Indigenous Education,['Semester 1']
+EDUC20064,Concepts of Childhood,['Semester 1']
+EDUC20065,"Knowledge, Learning and Culture",['Semester 1']
+EDUC20068,"Sport, Education and the Media","['Semester 1', 'Semester 2']"
+EDUC20070,Learning via Sport and Outdoor Education,"['Semester 1', 'Semester 2']"
+EDUC20073,Links Between Health and Learning,['Semester 1']
+EDUC20077,"Printing, Collage and Social Engagement",['Semester 1']
+EDUC20080,School Experience as Breadth,"['Semester 1', 'Semester 2']"
+EDUC20084,Enacting Shakespeare,['Semester 1']
+EDUC20085,"Singing, Song Writing and Youth Music",['Semester 1']
+EDUC90001,Teaching in Practice,['Semester 1']
+EDUC90002,Effective University Teaching,['Semester 1']
+EDUC90057,Education Capstone Research Project,"['Semester 1', 'July']"
+EDUC90222,Intervention in Problems of Young People,['Semester 1']
+EDUC90223,Exceptionality:Assessment & Intervention,['Semester 1']
+EDUC90319,Doctor of Education Thesis Proposal,"['Semester 1', 'Semester 2']"
+EDUC90334,Minor Project in Education 2,"['Semester 1', 'Semester 2']"
+EDUC90335,Minor Project in Education,"['Semester 1', 'Semester 2']"
+EDUC90369,Professional Practice and Seminar Prim 2,"['Summer Term', 'Semester 1', 'Semester 2']"
+EDUC90391,Science and Mathematics in EC,['Semester 1']
+EDUC90408,Professional Practice & Seminar Sec 2,"['Semester 1', 'February', 'Semester 2', 'November']"
+EDUC90414,Professional Practice & Seminar Sec 4a,"['Semester 1', 'Semester 2']"
+EDUC90607,Arts Practice and Evaluation,['Semester 1']
+EDUC90620,Research Methods in Education,"['Semester 1', 'March', 'Semester 2']"
+EDUC90700,The Early Childhood Profession,['Semester 1']
+EDUC90707,Professional Practice and Seminar (EC) 2,"['Summer Term', 'Semester 1', 'Semester 2']"
+EDUC90709,Professional Practice and Seminar (EC) 3,"['Semester 1', 'Semester 2']"
+EDUC90759,Education Research Project (Sec),"['February', 'Semester 1', 'July', 'Semester 2']"
+EDUC90771,Professional Practice & Seminar Prim 4,"['Semester 1', 'Semester 2']"
+EDUC90869,Doctor of Education Thesis Proposal,"['Semester 1', 'July']"
+EDUC90872,Foundations of the Science of Learning,['Semester 1']
+EDUC90877,Clinical Teaching Practice (Prim) 1,"['Semester 1', 'August']"
+EDUC90878,Clinical Teaching Practice (Prim) 2,"['Semester 1', 'August']"
+EDUC90893,Clinical Teaching Practice (EC) 2,"['Semester 1', 'Year Long', 'August']"
+EDUC90929,Understanding Education in Context,['Semester 1']
+EDUC90932,Education Research Design Part 2,['Semester 1']
+EDUC90989,Capstone Professional Project,"['Semester 1', 'July']"
+ELEN20005,Foundations of Electrical Networks,"['Semester 1', 'Semester 2']"
+ELEN30009,Electrical Network Analysis and Design,"['Semester 1', 'Semester 2']"
+ELEN30010,Digital System Design,['Semester 1']
+ELEN30012,Signals and Systems,"['Semester 1', 'Semester 2']"
+ELEN30014,Analog and Digital Electronics Concepts,['Semester 1']
+ELEN90006,Internet Engineering,['Semester 1']
+ELEN90011,Directed Studies,"['Semester 1', 'Semester 2']"
+ELEN90013,Mobile and Wireless Networks and Design,['Semester 1']
+ELEN90014,Multimedia Content Delivery,['Semester 1']
+ELEN90027,Linear Systems Theory,['Semester 1']
+ELEN90028,Nonlinear Systems Theory,['Semester 1']
+ELEN90046,Major Design Project,"['Semester 1', 'Semester 2']"
+ELEN90051,Advanced Communication Systems,['Semester 1']
+ELEN90052,Advanced Signal Processing,['Semester 1']
+ELEN90054,Probability and Random Models,"['Semester 1', 'Semester 2']"
+ELEN90055,Control Systems,"['Semester 1', 'Semester 2']"
+ELEN90056,Electronic Circuit Design,"['Semester 1', 'Semester 2']"
+ELEN90059,Lightwave Systems,['Semester 1']
+ELEN90060,Power System Analysis,['Semester 1']
+ELEN90068,Business of Telecommunications,['Semester 1']
+ELEN90069,Electrical Power Systems,['Semester 1']
+ELEN90074,Introduction to Power Engineering,['Semester 1']
+ELEN90082,Elect Eng Capstone Proj Part 2,['Semester 1']
+ELEN90083,Electrical Engineering Research Project,"['Summer Term', 'Semester 1', 'Semester 2']"
+ELEN90084,Microwave Photonics,['Semester 1']
+ELEN90088,System Optimisation & Machine Learning,['Semester 1']
+ENEN20002,Earth Processes for Engineering,"['Semester 1', 'Semester 2']"
+ENEN90006,Solid Wastes to Sustainable Resources,['Semester 1']
+ENEN90027,Energy for Sustainable Development,['Semester 1']
+ENEN90030,Groundwater Hydrology,['Semester 1']
+ENEN90031,Quantitative Environmental Modelling,['Semester 1']
+ENEN90033,Solar Energy,['Semester 1']
+ENEN90034,Environmental Applied Hydrology,['Semester 1']
+ENGL10002,Literature and Performance,['Semester 1']
+ENGL10004,Introduction to Indigenous Literature,['Semester 1']
+ENGL10005,English for Academic Purposes,['Semester 1']
+ENGL20022,Modernism and Avant Garde,['Semester 1']
+ENGL20023,American Classics,['Semester 1']
+ENGL20030,Modern and Contemporary Theatre,['Semester 1']
+ENGL20031,"Literature, Adaptation, Media",['Semester 1']
+ENGL30013,Gothic Fictions,['Semester 1']
+ENGL30046,Romancing the Medieval,['Semester 1']
+ENGL30047,"Literature, Ecology, Catastrophe",['Semester 1']
+ENGL30048,Performance and the World,['Semester 1']
+ENGL40007,Romanticism and Modernity,['Semester 1']
+ENGL40015,American Fiction: The 20th Century,['Semester 1']
+ENGL40020,Australian Theatre and Performance,['Semester 1']
+ENGL40026,English & Theatre Studies Thesis Part 1,"['Semester 1', 'Semester 2']"
+ENGL40027,English & Theatre Studies Thesis Part 2,"['Semester 1', 'Semester 2']"
+ENGL90002,Writing as Women: Critical Readings,['Semester 1']
+ENGM90007,Project Management Practices,['Semester 1']
+ENGM90011,Economic Analysis for Engineers,['Semester 1']
+ENGM90013,Strategy Execution for Engineers,"['Semester 1', 'Semester 2']"
+ENGM90014,The World of Engineering Management,"['Semester 1', 'Semester 2']"
+ENGM90015,Management and Leadership for Engineers,['Semester 1']
+ENGM90016,Engineering Management Capstone,"['Semester 1', 'Semester 2']"
+ENGR10004,Engineering Systems Design 1,"['Semester 1', 'Semester 2']"
+ENGR20004,Engineering Mechanics,"['Summer Term', 'Semester 1', 'Semester 2']"
+ENGR30002,Fluid Mechanics,"['Semester 1', 'Semester 2']"
+ENGR90021,Engineering Practice and Communication,"['Semester 1', 'Semester 2']"
+ENGR90024,Computational Fluid Dynamics,['Semester 1']
+ENGR90028,Introduction to Energy Systems,['Semester 1']
+ENGR90029,Analysing Energy Systems,['Semester 1']
+ENGR90031,Energy Systems Project,"['Semester 1', 'Semester 2']"
+ENGR90032,Energy Supply and Value Chains,['Semester 1']
+ENGR90033,Internship,"['Summer Term', 'Semester 1', 'Semester 2']"
+ENGR90034,Creating Innovative Engineering,"['Semester 1', 'Semester 2']"
+ENGR90035,Graduate Research Internship,"['Semester 1', 'Semester 2']"
+ENGR90036,Leadership for Innovation,['Semester 1']
+ENST10002,Reading Western Literature,['Semester 1']
+ENST10004,Climate Change and Impacts,['Semester 1']
+ENST20001,Human Behaviour and Environment,['Semester 1']
+ENST30002,Land And Environment Research Project,"['Semester 1', 'Semester 2']"
+ENST90006,Environmental Research Review (12.5),"['Summer Term', 'Semester 1', 'Semester 2']"
+ENST90007,Environmental Research Project (25),"['Summer Term', 'Semester 1', 'Semester 2']"
+ENST90016,Environmental Research Project (50),"['Semester 1', 'Semester 2']"
+ENST90020,Environmental Industry Research (50),"['Semester 1', 'Semester 2']"
+ENST90025,Environmental Industry Research (25),"['Semester 1', 'Semester 2']"
+ENST90032,Sustainability and Behaviour Change,['Semester 1']
+ENST90033,Climate Change Mitigation,['Semester 1']
+ENST90043,Sustainable Landscapes,['Semester 1']
+ENST90044,Analysing Ecosystems and Their Values,['Semester 1']
+ENST90045,Spatial Tools for Ecosystem Management,['Semester 1']
+ENVS10001,Natural Environments,['Semester 1']
+ENVS10004,Designing Environments,"['Semester 1', 'Semester 2']"
+ENVS10006,Mapping Environments,['Semester 1']
+ERTH30001,Hydrogeology/Environmental Geochemistry,['Semester 1']
+ESLA10003,Academic English 1,"['Semester 1', 'Semester 2']"
+ESLA10005,Academic English: Economics and Business,['Semester 1']
+EURO20003,Memory & Memoirs of 20th Century Europe,['Semester 1']
+EURO30002,Memory & Memoirs of 20th Century Europe,['Semester 1']
+EURO40002,Seminars in Languages and Linguistics A,"['Semester 1', 'Semester 2']"
+EURO40003,Seminars in Languages and Linguistics B,"['Semester 1', 'Semester 2']"
+EVSC10001,The Global Environment,['Semester 1']
+EVSC20004,Blue Planet-Intro to Marine Environments,['Semester 1']
+EVSC20006,Energy and the Environment,['Semester 1']
+EVSC20007,Modelling the Real World,['Semester 1']
+EVSC30003,Environmental Risk Assessment,['Semester 1']
+EVSC30006,Ecology of Urban Landscapes,['Semester 1']
+EVSC90015,Environmental Impact Assessment,['Semester 1']
+EVSC90017,Global Environmental Change,['Semester 1']
+EVSC90020,Environmental Modelling,['Semester 1']
+FINA10025,Studio Studies 1,['Semester 1']
+FINA10026,Critical and Theoretical Studies 1,['Semester 1']
+FINA10028,Related Studies Painting,['Semester 1']
+FINA10030,Related Studies Photography,['Semester 1']
+FINA10031,Related Studies Sculpture & Spatial Prac,['Semester 1']
+FINA10036,Life Drawing: The Body,['Semester 1']
+FINA10039,Related Studies Drawing & Printmedia,['Semester 1']
+FINA20026,Painting Techniques,"['Summer Term', 'February', 'Semester 1', 'June', 'Winter Term', 'Semester 2']"
+FINA20027,Studio Studies 3,['Semester 1']
+FINA20028,Studio Options 1,['Semester 1']
+FINA20029,Critical and Theoretical Studies 3,['Semester 1']
+FINA20033,Introduction to Printmaking Processes,"['Summer Term', 'February', 'Semester 1', 'June', 'Winter Term', 'Semester 2']"
+FINA20043,Light in Performance,['Semester 1']
+FINA20045,Introduction to Screenprinting,"['Summer Term', 'February', 'Semester 1', 'June', 'Winter Term', 'Semester 2']"
+FINA30001,Studio Studies 5,['Semester 1']
+FINA30017,Critical and Theoretical Studies 5,"['Semester 1', 'Semester 2']"
+FINA30018,Critical and Theoretical Studies 6,"['Semester 1', 'Semester 2']"
+FINA30022,Space Studio,['Semester 1']
+FINA30023,Space in Performance,['Semester 1']
+FINA40004,Research Methods (Visual Art),['Semester 1']
+FINA60008,Studio Materials and Methods A,['Semester 1']
+FINA60011,Contemporary Art Practice A,['Semester 1']
+FINA60013,Critical Issues in Contemporary Art A,['Semester 1']
+FINA70006,Studio Practice 1,['Semester 1']
+FINA70007,Perspectives in Art & Cultural Theory 1,['Semester 1']
+FINA70008,Professional Perspectives,['Semester 1']
+FINA70012,Perspectives in Art & Cultural Theory 3,['Semester 1']
+FINA90002,Research Methods,['Semester 1']
+FLTV10005,Languages of the Screen 1,['Semester 1']
+FLTV10006,Screen Practice 1A,['Semester 1']
+FLTV10007,Screenwriting 1,['Semester 1']
+FLTV10010,Making Movies 1,"['Semester 1', 'Semester 2']"
+FLTV10012,Screenwriting Practices 1A,['Semester 1']
+FLTV10013,Industry Perspectives,['Semester 1']
+FLTV10014,"Pictures, Sounds, Words",['Semester 1']
+FLTV10016,Animation Studio 1A,['Semester 1']
+FLTV10017,Animation Research 1,['Semester 1']
+FLTV10018,Writing Animation 1,['Semester 1']
+FLTV10021,Interactive Art Media 1,"['Semester 1', 'Semester 2']"
+FLTV10023,Introduction to Screenwriting Practices,"['Semester 1', 'Semester 2']"
+FLTV20005,Making Movies 2,['Semester 1']
+FLTV20006,Screen Practice 2A,['Semester 1']
+FLTV20007,Languages of the Screen 2,['Semester 1']
+FLTV20008,Screenwriting 2,['Semester 1']
+FLTV20011,Gaming and the Writer,['Semester 1']
+FLTV20012,Screenwriting Practices 2A,['Semester 1']
+FLTV20014,Animation Research 2,['Semester 1']
+FLTV20015,Animation Studio 2A,['Semester 1']
+FLTV20019,Writing Animation 2,['Semester 1']
+FLTV30009,Languages of the Screen 3,['Semester 1']
+FLTV30011,Screen Culture and Aesthetics 3,['Semester 1']
+FLTV30015,Screen Adaptation,['Semester 1']
+FLTV30018,Animation Lab 3,['Semester 1']
+FLTV30021,Collaborative Production,['Semester 1']
+FLTV40005,Research Methods (Animation),['Semester 1']
+FLTV40008,Research Methods (Film and Television),['Semester 1']
+FLTV40011,Research Methods (Screenwriting),['Semester 1']
+FLTV70016,Screen Language 1A,['Semester 1']
+FLTV70018,Documentary Projects 1A,['Semester 1']
+FLTV70020,Narrative Projects 1A,['Semester 1']
+FLTV70026,Scriptwriting 2,['Semester 1']
+FLTV70028,Documentary Projects 2A,['Semester 1']
+FLTV70030,Narrative Projects 2A,['Semester 1']
+FLTV70039,Business of Producing 2,['Semester 1']
+FLTV70040,Producing and the Industry,['Semester 1']
+FLTV70041,Storytelling Workshop,['Semester 1']
+FLTV70042,Cinematic Writing,['Semester 1']
+FLTV70043,Writing for Television,['Semester 1']
+FLTV70044,Writing and Rewriting,['Semester 1']
+FLTV70045,Business of Screenwriting,['Semester 1']
+FLTV70049,Producing and Creative Development,['Semester 1']
+FLTV90003,Design Processes and Principles A,['Semester 1']
+FLTV90004,Design Realisation and Collaboration A,['Semester 1']
+FLTV90005,Design Documentation and Communication A,['Semester 1']
+FLTV90006,Studies in Screen,['Semester 1']
+FLTV90011,Graphics for Stage and Screen,['Semester 1']
+FLTV90014,Screen Design Projects A,['Semester 1']
+FLTV90015,Industry Investigation Project A,['Semester 1']
+FLTV90022,Business of Producing 2,['Semester 1']
+FNCE10002,Principles of Finance,"['Summer Term', 'Semester 1', 'Semester 2']"
+FNCE20001,Business Finance,"['Summer Term', 'Semester 1']"
+FNCE20004,Introduction to Real Estate Analysis,['Semester 1']
+FNCE20005,Corporate Financial Decision Making,"['Summer Term', 'Semester 1', 'Semester 2']"
+FNCE30001,Investments,"['Semester 1', 'Semester 2']"
+FNCE30003,International Finance,['Semester 1']
+FNCE30006,Entrepreneurial Finance,['Semester 1']
+FNCE30007,Derivative Securities,"['Semester 1', 'Semester 2']"
+FNCE30008,Street Finance,['Semester 1']
+FNCE40001,Advanced Corporate Finance,['Semester 1']
+FNCE40002,Advanced Investments,['Semester 1']
+FNCE40003,Numerical Techniques in Finance,['Semester 1']
+FNCE40004,Research Methods in Finance,['Semester 1']
+FNCE90007,Studies in Empirical Finance,['Semester 1']
+FNCE90009,Research Report (Finance),['Semester 1']
+FNCE90011,Derivative Securities,"['Semester 1', 'Semester 2']"
+FNCE90012,Mergers and Value Enhancing Strategies,"['Semester 1', 'Semester 2']"
+FNCE90013,Case Studies in Finance,"['Semester 1', 'Semester 2']"
+FNCE90016,International Financial Management,"['Semester 1', 'Semester 2']"
+FNCE90018,Corporate Financial Policy,"['Semester 1', 'Semester 2']"
+FNCE90045,Financial Spreadsheeting,"['Semester 1', 'Semester 2']"
+FNCE90046,Treasury Management,"['Semester 1', 'Semester 2']"
+FNCE90047,Financial Markets and Instruments,"['Semester 1', 'Semester 2']"
+FNCE90048,Project Finance,"['Summer Term', 'Semester 1', 'Semester 2']"
+FNCE90049,"Property Investment, Development Finance",['Semester 1']
+FNCE90056,Investment Management,"['Semester 1', 'Semester 2']"
+FNCE90060,Financial Management,"['Semester 1', 'Semester 2']"
+FNCE90062,Capstone Studies in Finance,"['Semester 1', 'Semester 2']"
+FNCE90064,Emerging Markets Finance,"['Semester 1', 'Semester 2']"
+FNCE90065,Fundamentals of Finance,"['Semester 1', 'Semester 2']"
+FNCE90071,DRFS Research Report Part 1,"['Semester 1', 'Semester 2']"
+FNCE90072,DRFS Research Report Part 2,"['Semester 1', 'Semester 2']"
+FNCE90074,Laboratory Rotation 2,['Semester 1']
+FNCE90077,Empirical Investments,['Semester 1']
+FOOD10001,Beer Styles and Sensory Analysis,['Semester 1']
+FOOD20003,"Food Chemistry, Biology and Nutrition",['Semester 1']
+FOOD30007,Food Processing & Preservation,['Semester 1']
+FOOD30008,Advanced Food Analysis,['Semester 1']
+FOOD40001,Food Science Research Project Part 1,['Semester 1']
+FOOD90010,Meat and Meat Products,['Semester 1']
+FOOD90022,Food Chemistry,['Semester 1']
+FOOD90023,Food Microbiology,['Semester 1']
+FOOD90029,Food Engineering,['Semester 1']
+FOOD90036,MFPI Internship,"['Semester 1', 'Semester 2']"
+FOOD90037,MFPI Internship Part 1,"['Semester 1', 'Semester 2']"
+FOOD90038,MFPI Internship Part 2,"['Semester 1', 'Semester 2']"
+FOOD90039,Securing Sufficient and Healthy Food,['Semester 1']
+FOOD90041,The Politics of Food,['Semester 1']
+FOOD90042,Special Studies in Food,"['Summer Term', 'Semester 1', 'Semester 2']"
+FREN10001,French 3,['Semester 1']
+FREN10004,French 1,"['Semester 1', 'Winter Term']"
+FREN10006,French 5,['Semester 1']
+FREN20001,French 5,['Semester 1']
+FREN20011,French Cinema: The New Wave and Beyond,['Semester 1']
+FREN20015,French 3,['Semester 1']
+FREN20019,French 7,['Semester 1']
+FREN20022,From Page to Stage: French Theatre,['Semester 1']
+FREN30001,French 7,['Semester 1']
+FREN30003,French 5,['Semester 1']
+FREN30013,French Cinema: The New Wave and Beyond,['Semester 1']
+FREN30020,From Page to Stage: French Theatre,['Semester 1']
+FREN40003,Medieval and Renaissance French,['Semester 1']
+FREN40005,French IV: Honours Language I,['Semester 1']
+FREN40010,French Thesis Part 1,"['Semester 1', 'Semester 2']"
+FREN40011,French Thesis Part 2,"['Semester 1', 'Semester 2']"
+FREN90002,French in a Global World,"['Semester 1', 'Semester 2']"
+FREN90003,Graduate French A,['Semester 1']
+FRST30001,Forest Systems,['Semester 1']
+FRST30003,Urban Forest Ecosystems,['Semester 1']
+FRST90015,Landscape Ecology,['Semester 1']
+FRST90076,Short Research Project B,"['Semester 1', 'Semester 2']"
+FRST90077,Long Research Project B,"['Semester 1', 'Semester 2']"
+GDES20001,Graphic Design Studio 2: Image & Media,['Semester 1']
+GDES30001,Infographics Studio,['Semester 1']
+GDES30002,Branding,['Semester 1']
+GEND20008,Sex and Gender Present and Future,['Semester 1']
+GEND40002,Gender Studies Reading Course,"['Semester 1', 'Semester 2']"
+GEND40006,Gender Studies Thesis Part 1,"['Semester 1', 'Semester 2']"
+GEND40007,Gender Studies Thesis Part 2,"['Semester 1', 'Semester 2']"
+GEND90006,"Gender, Globalisation and Development",['Semester 1']
+GEND90011,Gender and Development Thesis Part 1,"['Semester 1', 'Semester 2']"
+GEND90012,Gender and Development Thesis Part 2,"['Semester 1', 'Semester 2']"
+GENE10001,Genetics in the Media,['Semester 1']
+GENE20001,Principles of Genetics,['Semester 1']
+GENE30001,Evolutionary Genetics and Genomics,['Semester 1']
+GENE30002,Genes: Organisation and Function,['Semester 1']
+GENE90001,Human Genetics & Genomics in Healthcare,['Semester 1']
+GENE90018,Advanced Topics in Genetics,['Semester 1']
+GENE90019,Genes Molecules and Cells,['Semester 1']
+GENE90021,Advanced Clinical Genomics 1,['Semester 1']
+GENP40000,Primary Care Research Project Part 1,['Semester 1']
+GENP40002,Introduction to Primary Care Research,['Semester 1']
+GENP60001,Significant Issues in Women's Health,"['Semester 1', 'Semester 2']"
+GENP90017,Immunisation and Travel Health,"['Semester 1', 'Semester 2']"
+GEOG10001,Famine: The Geography of Scarcity,['Semester 1']
+GEOG20001,Society and Environments,['Semester 1']
+GEOG20002,Landscapes and Environmental Change,['Semester 1']
+GEOG20003,Environmental Politics and Management,['Semester 1']
+GEOG20010,China in Transition,['Semester 1']
+GEOG20012,Post-Conflict Development and Difference,['Semester 1']
+GEOG20014,Climate Change: Why People Disagree,['Semester 1']
+GEOG20016,"Fertility, Mortality and Social Change",['Semester 1']
+GEOG30001,Geomorphology: Catchment to Coast,['Semester 1']
+GEOG30019,Sustainable Development,['Semester 1']
+GEOG30022,Riverine Landscapes: Hydrology & Ecology,['Semester 1']
+GEOG40002,Geography - Environmental Studies Thesis,"['Semester 1', 'Semester 2']"
+GEOG40003,Advancing Geography & Environmental Stud,['Semester 1']
+GEOG40007,Geography - Environmental Studies Thesis,"['Semester 1', 'Semester 2']"
+GEOG40008,Geography - Environmental Studies Thesis,"['Semester 1', 'Semester 2']"
+GEOG90003,Integrated River & Catchment Management,['Semester 1']
+GEOG90010,Geography Research Project,"['Semester 1', 'Semester 2']"
+GEOG90011,Geography Research Project,"['Semester 1', 'Semester 2']"
+GEOG90012,Geography Research Project,"['Semester 1', 'Semester 2']"
+GEOG90013,Geography Research Project,"['Semester 1', 'Semester 2']"
+GEOG90015,Geography Research Project,"['Semester 1', 'Semester 2']"
+GEOG90018,Contemporary Geographical Thought,['Semester 1']
+GEOG90021,Conservation and Cultural Environments,['Semester 1']
+GEOG90022,International Internship in Environment,"['Summer Term', 'Semester 1', 'Semester 2']"
+GEOG90028,Geography Practical,"['Semester 1', 'Semester 2']"
+GEOG90030,Geography Minor Research Project Part 1,"['Semester 1', 'Semester 2']"
+GEOG90031,Geography Minor Research Project Part 1,"['Semester 1', 'Semester 2']"
+GEOG90032,Geography Minor Research Project Part 2,"['Semester 1', 'Semester 2']"
+GEOG90033,Geography Minor Research Project Part 2,"['Semester 1', 'Semester 2']"
+GEOG90052,Riverine Landscapes: Hydrology & Ecology,['Semester 1']
+GEOL20002,Structural and Metamorphic Geology,['Semester 1']
+GEOL20003,"Earth Composition, Minerals and Magmas",['Semester 1']
+GEOL30004,Geochemistry & Petrogenesis,['Semester 1']
+GEOL30007,Geomicrobiology and Biogeochemistry,['Semester 1']
+GEOL90005,Hydrogeology/Environmental Geochemistry,['Semester 1']
+GEOL90022,Practical Earth Science A,"['Semester 1', 'Semester 2']"
+GEOL90023,Practical Earth Science B,"['Semester 1', 'Semester 2']"
+GEOL90024,Project In Geoscience,"['Semester 1', 'Semester 2']"
+GEOL90025,Research Project In Geoscience,"['Semester 1', 'Semester 2']"
+GEOM20013,Applications of GIS,['Semester 1']
+GEOM30009,Imaging the Environment,['Semester 1']
+GEOM90008,Foundations of Spatial Information,"['Semester 1', 'Semester 2']"
+GEOM90010,Spatial Information Research Project A,"['Summer Term', 'Semester 1', 'Winter Term', 'Semester 2']"
+GEOM90013,Spatial Information Research Project C,"['Summer Term', 'Semester 1', 'Winter Term', 'Semester 2']"
+GEOM90018,Spatial Databases,['Semester 1']
+GEOM90020,Spatial Information Research Project,"['Summer Term', 'Semester 1', 'Winter Term', 'Semester 2']"
+GEOM90023,Spatial Information Research Project B,"['Summer Term', 'Semester 1', 'Winter Term', 'Semester 2']"
+GEOM90031,Spatial Information Research Project D,"['Summer Term', 'Semester 1', 'Semester 2']"
+GEOM90038,Advanced Imaging,['Semester 1']
+GEOM90042,Spatial Information Programming,['Semester 1']
+GEOM90043,Spatial IT Project,"['Summer Term', 'Semester 1', 'Semester 2']"
+GEOM90045,Residential Land Development,['Semester 1']
+GERM10001,German 3,['Semester 1']
+GERM10004,German 1,"['Summer Term', 'Semester 1']"
+GERM10006,German 5,['Semester 1']
+GERM10008,German 7,['Semester 1']
+GERM20001,German 7,['Semester 1']
+GERM20003,German Cultural Studies B,"['Semester 1', 'Semester 2']"
+GERM20004,German 3,['Semester 1']
+GERM20007,German 5,['Semester 1']
+GERM20009,German 9,['Semester 1']
+GERM30001,German Cultural Studies B,"['Semester 1', 'Semester 2']"
+GERM30002,German Cultural Studies C,['Semester 1']
+GERM30003,German 9,['Semester 1']
+GERM30005,German 5,['Semester 1']
+GERM30021,German 7,['Semester 1']
+GERM40002,German 4: Research Project,"['Semester 1', 'Semester 2']"
+GERM40010,German Honours Language,['Semester 1']
+GERM40016,German Thesis Part 1,"['Semester 1', 'Semester 2']"
+GERM40017,German Thesis Part 2,"['Semester 1', 'Semester 2']"
+GERM90002,German in a Global World,"['Semester 1', 'Semester 2']"
+GERM90003,Graduate German A,['Semester 1']
+HEBR10001,Hebrew 1,['Semester 1']
+HEBR10005,Hebrew 3,['Semester 1']
+HEBR10011,Hebrew 5,['Semester 1']
+HEBR20005,Hebrew 3,['Semester 1']
+HEBR20007,Hebrew 5,['Semester 1']
+HEBR30003,Hebrew 5,['Semester 1']
+HIST10012,The World Since World War II,['Semester 1']
+HIST10016,Europe: From Black Death to New Worlds,['Semester 1']
+HIST20010,The First Centuries of Islam,['Semester 1']
+HIST20013,The Holocaust & Genocide,['Semester 1']
+HIST20059,American History: Revolution to WWII,['Semester 1']
+HIST20065,Rebels and Revolutionaries,['Semester 1']
+HIST20069,Modern European History 1789 to 1914,['Semester 1']
+HIST20077,Britain in the Wider World 1603-1815,['Semester 1']
+HIST20081,Reacting to the Past,['Semester 1']
+HIST30004,A History of Sexualities,['Semester 1']
+HIST30006,The Renaissance in Italy,['Semester 1']
+HIST30015,The Modern Middle East,['Semester 1']
+HIST30065,USA and the World,['Semester 1']
+HIST30066,Cold War Cultures in Asia,['Semester 1']
+HIST40030,History for Historians,['Semester 1']
+HIST40039,History Thesis Part 1,"['Semester 1', 'Semester 2']"
+HIST40040,History Thesis Part 2,"['Semester 1', 'Semester 2']"
+HIST90023,The Writing of Australian History,['Semester 1']
+HIST90024,International History,"['Semester 1', 'Semester 2']"
+HIST90034,International Relations Thesis Part 1,"['Semester 1', 'Semester 2']"
+HIST90035,International Relations Thesis Part 2,"['Semester 1', 'Semester 2']"
+HIST90037,Russia and the World,['Semester 1']
+HLTH90006,Basics of Digital Health for Clinicians,"['Semester 1', 'Semester 2']"
+HLTH90014,Healthcare Research-Principles & Designs,['Semester 1']
+HLTH90019,Indigenous Health and Nursing,['Semester 1']
+HORT20014,Landscape Design 1,['Semester 1']
+HORT20026,Designing with Plants,['Semester 1']
+HORT20029,Urban Horticulture Internship,['Semester 1']
+HORT90008,Horticultural Plant Science,['Semester 1']
+HORT90033,Plants in the Landscape,['Semester 1']
+HORT90034,Landscape Design,['Semester 1']
+HORT90038,Food Production for Urban Landscapes,['Semester 1']
+HPSC10002,Science and Pseudoscience,['Semester 1']
+HPSC20009,Technology & Contemporary Life,['Semester 1']
+HPSC20020,God and the Natural Sciences,['Semester 1']
+HPSC20023,Sex in Science,['Semester 1']
+HPSC30023,Science and Society,['Semester 1']
+HPSC30034,"Magic, Reason, New Worlds, 1450-1750",['Semester 1']
+HPSC40016,Historical Epistemology,['Semester 1']
+HPSC40018,HPS Thesis Part 1,"['Semester 1', 'Semester 2']"
+HPSC40019,HPS Thesis Part 2,"['Semester 1', 'Semester 2']"
+HPSC90010,Environment and Knowledge,['Semester 1']
+HPSC90013,"Science, Controversy and Public Policy",['Semester 1']
+IBUS90001,Global Corporate Strategy,"['Semester 1', 'Semester 2']"
+IBUS90002,Asian Business and Management,"['Semester 1', 'August']"
+IBUS90003,Issues in Managing the Multinational,"['Semester 1', 'Semester 2']"
+IBUS90006,Advanced International Business,['Semester 1']
+INDO10001,Indonesian 3,['Semester 1']
+INDO10003,Indonesian 5,['Semester 1']
+INDO10005,Indonesian 1,['Semester 1']
+INDO10012,Literature: Reading Indonesian Lives,['Semester 1']
+INDO10014,Indonesia in the World,['Semester 1']
+INDO20006,Indonesian 3,['Semester 1']
+INDO20008,Indonesian 5,['Semester 1']
+INDO20015,Literature: Reading Indonesian Lives,['Semester 1']
+INDO20017,Indonesia in the World,['Semester 1']
+INDO30006,Literature: Reading Indonesian Lives,['Semester 1']
+INDO30011,Indonesian 5,['Semester 1']
+INDO30020,Indonesia in the World,['Semester 1']
+INDO40001,Honours Indonesian A,['Semester 1']
+INDO40003,Topics in Indonesian Studies,['Semester 1']
+INDO40008,Indonesian Thesis Part 1,"['Semester 1', 'Semester 2']"
+INDO40009,Indonesian Thesis Part 2,"['Semester 1', 'Semester 2']"
+INDO90002,Graduate Indonesian A,['Semester 1']
+INFO20003,Database Systems,"['Semester 1', 'Semester 2']"
+INFO30004,Usability Engineering,['Semester 1']
+INFO30005,Web Information Technologies,['Semester 1']
+INFO30009,Game Design,['Semester 1']
+INFO90002,Database Systems & Information Modelling,"['Semester 1', 'Semester 2']"
+INFO90003,Designing Novel Interactions,['Semester 1']
+INFO90004,Evaluating the User Experience,['Semester 1']
+INFO90008,HCI Project,"['Semester 1', 'Semester 2']"
+INFO90009,HCI Project (Advanced),"['Semester 1', 'Semester 2']"
+INFO90010,Technology Innovation Project,"['Semester 1', 'Semester 2']"
+INTS90008,Education and State Power in China,['Semester 1']
+ISLM10001,Understanding Islam and Muslim Societies,['Semester 1']
+ISLM20016,Introduction to Islamic Spirituality,['Semester 1']
+ISLM30018,Crisis Zone: Age of Uprisings,['Semester 1']
+ISLM40001,Topics in Arabic & Islamic Studies,"['Semester 1', 'Semester 2']"
+ISLM40011,Islamic Studies Thesis Part 1,"['Semester 1', 'Semester 2']"
+ISLM40012,Islamic Studies Thesis Part 2,"['Semester 1', 'Semester 2']"
+ISYS90026,Fundamentals of Information Systems,"['Semester 1', 'Semester 2']"
+ISYS90032,Emerging Technologies and Issues,"['Semester 1', 'Semester 2']"
+ISYS90035,Knowledge Management Systems,['Semester 1']
+ISYS90036,Enterprise Systems,['Semester 1']
+ISYS90038,IS Strategy and Governance,"['Semester 1', 'Semester 2']"
+ISYS90043,Enterprise Applications & Architectures,"['Semester 1', 'Semester 2']"
+ISYS90045,Professional IS Consulting,"['Semester 1', 'Semester 2']"
+ISYS90048,Managing ICT Infrastructure,"['Semester 1', 'Semester 2']"
+ISYS90049,Business Analysis Modelling and Design,"['Semester 1', 'Semester 2']"
+ISYS90050,IT Project and Change Management,"['Semester 1', 'Semester 2']"
+ISYS90051,Impact of Digitisation,"['Semester 1', 'Semester 2']"
+ISYS90069,eHealth & Biomedical Informatics Systems,['Semester 1']
+ISYS90076,IT Infrastructure for eHealth,['Semester 1']
+ISYS90077,EHealth Applications and Solutions,['Semester 1']
+ISYS90079,Health IT Project,"['Summer Term', 'Semester 1', 'Semester 2']"
+ISYS90081,Business Process Management,"['Semester 1', 'Semester 2']"
+ISYS90087,Service Management and Innovation,['Semester 1']
+ISYS90100,Information Systems Maj Res Project Pt 1,"['Semester 1', 'Semester 2']"
+ISYS90101,Information Systems Maj Res Project Pt 1,"['Semester 1', 'Semester 2']"
+ISYS90102,Information Systems Maj Res Project Pt 1,"['Semester 1', 'Semester 2']"
+ISYS90103,Information Systems Maj Res Project Pt 1,"['Semester 1', 'Semester 2']"
+ISYS90104,Information Systems Maj Res Project Pt 2,"['Semester 1', 'Semester 2']"
+ISYS90105,Information Systems Maj Res Project Pt 2,"['Semester 1', 'Semester 2']"
+ISYS90106,Information Systems Maj Res Project Pt 2,"['Semester 1', 'Semester 2']"
+ISYS90107,Information Systems Maj Res Project Pt 3,"['Semester 1', 'Semester 2']"
+ISYS90108,Information Systems Maj Res Project Pt 3,"['Semester 1', 'Semester 2']"
+ISYS90109,Information Systems Min Res Project Pt 1,"['Semester 1', 'Semester 2']"
+ISYS90110,Information Systems Min Res Project Pt 2,"['Semester 1', 'Semester 2']"
+ITAL10001,Italian 3,['Semester 1']
+ITAL10004,Italian 1,['Semester 1']
+ITAL10006,Italian 5,['Semester 1']
+ITAL10009,Italian 7,['Semester 1']
+ITAL20002,Italian 7,['Semester 1']
+ITAL20007,Italian 3,['Semester 1']
+ITAL20011,Italian 5,['Semester 1']
+ITAL20012,Italian 9,['Semester 1']
+ITAL30001,Italian 9,['Semester 1']
+ITAL30003,Italian 5A,['Semester 1']
+ITAL30007,To Hell with Dante,['Semester 1']
+ITAL30013,Italian 5,['Semester 1']
+ITAL30015,Italian 7,['Semester 1']
+ITAL40001,Italian Honours Language Seminar 1,['Semester 1']
+ITAL40009,Research in Italian Studies,"['Semester 1', 'Semester 2']"
+ITAL40015,Italian Thesis Part 1,"['Semester 1', 'Semester 2']"
+ITAL40016,Italian Thesis Part 2,"['Semester 1', 'Semester 2']"
+ITAL90002,Italian in a Global World,"['Semester 1', 'Semester 2']"
+ITAL90003,Graduate Italian A,['Semester 1']
+JAPN10001,Japanese 1,['Semester 1']
+JAPN10003,Japanese 5,['Semester 1']
+JAPN10005,Japanese 7,['Semester 1']
+JAPN10007,Japanese 3,['Semester 1']
+JAPN10010,Variation in Japanese Language,['Semester 1']
+JAPN20003,Japanese 7,['Semester 1']
+JAPN20005,Contemporary Japan,"['Semester 1', 'Winter Term']"
+JAPN20007,Japanese 3,['Semester 1']
+JAPN20009,Signs and Symbols in Japanese,['Semester 1']
+JAPN20012,Variation in Japanese Language,['Semester 1']
+JAPN20013,Japanese 5,['Semester 1']
+JAPN20018,Japanese Through the Media,['Semester 1']
+JAPN30004,Japanese through the Media,['Semester 1']
+JAPN30005,Japanese 7,['Semester 1']
+JAPN30007,Japanese 5,['Semester 1']
+JAPN30010,Signs and Symbols in Japanese,['Semester 1']
+JAPN30012,Variation in Japanese Language,['Semester 1']
+JAPN40001,Honours Japanese A,['Semester 1']
+JAPN40003,Topics in Japanese Studies,['Semester 1']
+JAPN40008,Japanese Thesis Part 1,"['Semester 1', 'Semester 2']"
+JAPN40009,Japanese Thesis Part 2,"['Semester 1', 'Semester 2']"
+JAPN90002,Graduate Japanese A,['Semester 1']
+JEWI20007,Modern Israel: Good Bad and Disputed,['Semester 1']
+JOUR90001,Researching/Writing Stories,"['Semester 1', 'Semester 2']"
+JOUR90003,Journalism Internship,"['Semester 1', 'Semester 2']"
+JOUR90005,Audio Journalism,['Semester 1']
+JOUR90010,Newsroom-Applied Professional Practice,"['Semester 1', 'Semester 2']"
+JOUR90015,Journalism Thesis Part 1,"['Semester 1', 'Semester 2']"
+JOUR90016,Journalism Thesis Part 2,"['Semester 1', 'Semester 2']"
+JOUR90017,Journalism Project Part 1,"['Summer Term', 'Semester 1', 'Semester 2']"
+JOUR90018,Journalism Project Part 2,"['Summer Term', 'Semester 1', 'Semester 2']"
+JOUR90019,Journalism Project Part 3,"['Summer Term', 'Semester 1', 'Semester 2']"
+JOUR90020,International Journalism - Key Skills,"['Semester 1', 'Semester 2']"
+JOUR90021,International Traditions in Journalism,['Semester 1']
+KORE10001,Korean 1,['Semester 1']
+LANG40003,Seminar in Languages 1,"['Semester 1', 'Semester 2']"
+LANG40004,Seminar in Languages 2,"['Semester 1', 'Semester 2']"
+LARC30001,Site Tectonics,['Semester 1']
+LAWS10006,Comparative Legal Traditions,['Semester 1']
+LAWS20008,Legal Language,['Semester 1']
+LAWS20009,Environmental Rights & Responsibilities,['Semester 1']
+LAWS20011,Sport and the Law,['Semester 1']
+LAWS50024,Principles of Public Law,['Semester 1']
+LAWS50025,Torts,['Semester 1']
+LAWS50026,Obligations,['Semester 1']
+LAWS50027,Dispute Resolution,['Semester 1']
+LAWS50030,Property,['Semester 1']
+LAWS50032,Administrative Law,['Semester 1']
+LAWS50036,Remedies,"['Semester 1', 'November']"
+LAWS50037,Evidence and Proof,"['Semester 1', 'Winter Term']"
+LAWS50038,Legal Ethics,"['Semester 1', 'July']"
+LAWS50039,Legal Research,"['Semester 1', 'Semester 2']"
+LAWS50041,Public International Law,['Semester 1']
+LAWS50046,Taxation Law and Policy,"['Semester 1', 'Semester 2']"
+LAWS50055,Advocacy,"['Summer Term', 'Semester 1', 'November']"
+LAWS50058,Melbourne University Law Review,"['Summer Term', 'Semester 1', 'Semester 2']"
+LAWS50059,Legal Internship,"['January', 'Semester 1', 'July', 'Semester 2', 'November']"
+LAWS50060,Melbourne Journal of International Law,"['Summer Term', 'Semester 1', 'Semester 2']"
+LAWS50064,Employment Law,"['February', 'Semester 1']"
+LAWS50067,European Civil Law,['Semester 1']
+LAWS50084,Construction Law,['Semester 1']
+LAWS50094,International Commercial Law & Disputes,['Semester 1']
+LAWS50116,Public Interest Law Clinic,"['Semester 1', 'Semester 2']"
+LAWS50119,Sports Law,['Semester 1']
+LAWS50127,Philosophical Foundations of Law,['Semester 1']
+LAWS50130,Advanced Torts,['Semester 1']
+LAWS70002,Tax of Business and Investment Income,"['Semester 1', 'September']"
+LAWS70003,Minor Thesis (LLM) # P/T,"['Semester 1', 'Semester 2']"
+LAWS70005,Tax Avoidance and Planning,['Semester 1']
+LAWS70015,Minor Thesis F/T LLM,"['Semester 1', 'Semester 2']"
+LAWS70067,International Legal Internship,"['Semester 1', 'Semester 2']"
+LAWS70121,International Commercial Arbitration,"['Semester 1', 'November']"
+LAWS70140,Accounting for Commercial Lawyers,['Semester 1']
+LAWS70217,Fundamentals of the Common Law,"['February', 'March', 'Semester 1', 'July', 'Semester 2']"
+LAWS70469,Construction Law,['Semester 1']
+LAWS90033,Law Apps,"['Semester 1', 'Semester 2']"
+LAWS90039,Mediation,['Semester 1']
+LAWS90077,Not for Profits and the Law,['Semester 1']
+LAWS90078,Corporate Governance,['Semester 1']
+LAWS90159,Tax in Practice,['Semester 1']
+LAWS90161,Advanced Constitutional Law,['Semester 1']
+LAWS90162,Law of Commercial Cyberspace,['Semester 1']
+LAWS90163,Why Tax Systems Differ Between Countries,['Semester 1']
+LING10002,Intercultural Communication,['Semester 1']
+LING20005,Phonetics,['Semester 1']
+LING20009,Language in Aboriginal Australia,['Semester 1']
+LING30003,First Language Acquisition,['Semester 1']
+LING30007,Semantics,['Semester 1']
+LING30013,Morphology,['Semester 1']
+LING40002,Issues in Linguistic Research,['Semester 1']
+LING40008,Experimental Phonetics,['Semester 1']
+LING40015,LAL Thesis Part 1,"['Semester 1', 'Semester 2']"
+LING40016,LAL Thesis Part 2,"['Semester 1', 'Semester 2']"
+LING90002,Presenting Academic Discourse,"['Semester 1', 'Semester 2']"
+LING90003,Research in Applied Linguistics,"['Semester 1', 'Semester 2']"
+LING90005,Quantitative Methods in Language Studies,['Semester 1']
+LING90009,Language Testing,['Semester 1']
+LING90010,Applied Linguistics Thesis,"['Semester 1', 'Semester 2']"
+LING90012,Second Language Acquisition,"['Semester 1', 'Semester 2']"
+LING90015,English Phonetics and Phonology,['Semester 1']
+LING90018,Sociolinguistics and Language Learning,['Semester 1']
+LING90020,Second Language Writing,['Semester 1']
+LING90021,Bilingualism,['Semester 1']
+LING90031,Advanced Linguistics Analysis A,"['Semester 1', 'Semester 2']"
+LING90032,Advanced Linguistics Analysis B,"['Semester 1', 'Semester 2']"
+LING90033,Linguistics and Phonetics,['Semester 1']
+MAST10005,Calculus 1,"['Semester 1', 'Semester 2']"
+MAST10006,Calculus 2,"['Semester 1', 'Semester 2']"
+MAST10007,Linear Algebra,"['Summer Term', 'Semester 1', 'Semester 2']"
+MAST10008,Accelerated Mathematics 1,['Semester 1']
+MAST10011,Experimental Design and Data Analysis,"['Semester 1', 'Semester 2']"
+MAST10012,Introduction to Mathematics,"['Summer Term', 'Semester 1']"
+MAST10014,Foundation Mathematics 1,['Semester 1']
+MAST10016,Mathematics for Biomedicine,"['Semester 1', 'Semester 2']"
+MAST20004,Probability,"['Semester 1', 'Semester 2']"
+MAST20006,Probability for Statistics,['Semester 1']
+MAST20009,Vector Calculus,"['Semester 1', 'Semester 2']"
+MAST20026,Real Analysis,"['Semester 1', 'Semester 2']"
+MAST20029,Engineering Mathematics,"['Summer Term', 'Semester 1', 'Semester 2']"
+MAST20031,Analysis of Biological Data,['Semester 1']
+MAST30005,Algebra,['Semester 1']
+MAST30011,Graph Theory,['Semester 1']
+MAST30013,Techniques in Operations Research,['Semester 1']
+MAST30020,Probability for Inference,['Semester 1']
+MAST30021,Complex Analysis,"['Semester 1', 'Semester 2']"
+MAST30025,Linear Statistical Models,['Semester 1']
+MAST30030,Applied Mathematical Modelling,['Semester 1']
+MAST30032,Biological Modelling and Simulation,['Semester 1']
+MAST90012,Measure Theory,['Semester 1']
+MAST90014,Optimisation for Industry,['Semester 1']
+MAST90029,Differential Topology and Geometry,['Semester 1']
+MAST90031,Enumerative Combinatorics,['Semester 1']
+MAST90042,Research Project,"['Semester 1', 'Semester 2']"
+MAST90044,Thinking and Reasoning with Data,['Semester 1']
+MAST90045,Systems Modelling and Simulation,['Semester 1']
+MAST90046,Research Project,"['Semester 1', 'Semester 2']"
+MAST90047,Research Project,"['Semester 1', 'Semester 2']"
+MAST90048,Research Project,"['Semester 1', 'Semester 2']"
+MAST90057,Elements of Probability,['Semester 1']
+MAST90059,Stochastic Calculus with Applications,['Semester 1']
+MAST90060,Mathematical Statistical Mechanics,['Semester 1']
+MAST90064,Advanced Methods: Differential Equations,['Semester 1']
+MAST90072,Data and Decision Making,['Semester 1']
+MAST90073,Minor Research Project Part A,"['Semester 1', 'Semester 2']"
+MAST90074,Minor Research Project Part B,"['Semester 1', 'Semester 2']"
+MAST90075,Research Project Part A,"['Semester 1', 'Semester 2']"
+MAST90076,Research Project Part B,"['Semester 1', 'Semester 2']"
+MAST90077,Research Project Part C,"['Semester 1', 'Semester 2']"
+MAST90081,Advanced Probability,['Semester 1']
+MAST90082,Mathematical Statistics,['Semester 1']
+MAST90084,Statistical Modelling,['Semester 1']
+MAST90101,Introduction to Statistical Computing,['Semester 1']
+MAST90105,Methods of Mathematical Statistics,['Semester 1']
+MAST90106,Data Science Project Pt1,['Semester 1']
+MAST90108,Data Science Research Project Pt1,"['Summer Term', 'Semester 1', 'Semester 2']"
+MAST90109,Data Science Research Project Pt2,"['Summer Term', 'Semester 1', 'Semester 2']"
+MAST90122,Inference for Spatio-Temporal Processes,['Semester 1']
+MAST90127,Advanced Biological Modelling: Dynamics,['Semester 1']
+MAST90133,Partial Differential Equations,['Semester 1']
+MCEN30014,Mechanical Design,"['Semester 1', 'Semester 2']"
+MCEN30017,Mechanics & Materials,"['Semester 1', 'Semester 2']"
+MCEN30018,Thermodynamics and Fluid Mechanics,"['Semester 1', 'Semester 2']"
+MCEN30020,Systems Modelling and Analysis,"['Semester 1', 'Semester 2']"
+MCEN90012,Design for Manufacture,['Semester 1']
+MCEN90014,Materials,['Semester 1']
+MCEN90015,Thermodynamics,['Semester 1']
+MCEN90017,Advanced Motion Control,['Semester 1']
+MCEN90018,Advanced Fluid Dynamics,['Semester 1']
+MCEN90028,Robotics Systems,['Semester 1']
+MCEN90029,Advanced Solid Mechanics,['Semester 1']
+MCEN90036,Capstone Project A,"['Semester 1', 'Semester 2']"
+MCEN90038,Dynamics,['Semester 1']
+MCEN90042,Capstone Proj Part 1,"['Semester 1', 'Semester 2']"
+MCEN90043,Capstone Proj Part 2,"['Semester 1', 'Semester 2']"
+MCEN90045,Aerospace Dynamics and Control,['Semester 1']
+MCEN90048,Artificial Intelligence for Mechatronics,['Semester 1']
+MECM10003,Media and Society,['Semester 1']
+MECM10005,Academic Writing and Communication,"['Semester 1', 'Semester 2']"
+MECM20006,Understanding Australian Media,['Semester 1']
+MECM20010,Comparing Media Systems,['Semester 1']
+MECM20013,Text and Audio Journalism,['Semester 1']
+MECM30015,Media and Communications Project,['Semester 1']
+MECM30016,Digital Media Research,['Semester 1']
+MECM30018,Media Psychology,['Semester 1']
+MECM40003,Researching Audiences and Reception,['Semester 1']
+MECM40006,Public Relations and Communications,"['Semester 1', 'Semester 2']"
+MECM40011,Writing for the Media,['Semester 1']
+MECM40018,Media & Communications Thesis Part 1,"['Semester 1', 'Semester 2']"
+MECM40019,Media & Communications Thesis Part 2,"['Semester 1', 'Semester 2']"
+MECM50001,Political Economy of the Network Society,['Semester 1']
+MECM90002,Global Media Policy & Governance,['Semester 1']
+MECM90007,Media Convergence and Digital Culture,['Semester 1']
+MECM90016,Digital Politics,['Semester 1']
+MECM90024,Strategic Content Creation,"['Semester 1', 'Semester 2']"
+MECM90026,Advanced Practice 1,['Semester 1']
+MECM90029,Media and Communications Thesis Part 1,"['Semester 1', 'Semester 2']"
+MECM90030,Media and Communications Thesis Part 2,"['Semester 1', 'Semester 2']"
+MECM90031,Audiovisual Communication,"['Semester 1', 'Winter Term', 'Semester 2']"
+MECM90032,Marketing Communications Thesis Part 1,"['Semester 1', 'Semester 2']"
+MECM90033,Marketing Communications Thesis Part 2,"['Semester 1', 'Semester 2']"
+MECM90034,Marketing & Media in a Global Context,"['Semester 1', 'Semester 2']"
+MECM90035,Integrated Marketing Communications,"['Semester 1', 'Semester 2']"
+MECM90036,Foundations of Marketing & Communication,"['Semester 1', 'Semester 2']"
+MECM90037,Online Community Management,['Semester 1']
+MECM90038,Researching Media & Communications,"['Semester 1', 'Semester 2']"
+MECM90039,Understanding Media & Communications,"['Semester 1', 'Semester 2']"
+MEDI40002,Advanced Studies in Biomedicine,['Semester 1']
+MEDI40004,Seminars in Translational Medicine,['Semester 1']
+MEDI40005,Research Project - SVHM Part 1,['Semester 1']
+MEDI40006,Biomedical Advanced Coursework,['Semester 1']
+MEDI40014,Biomedicine Research Project Part 1,['Semester 1']
+MEDI90088,Graduate Research Internship,"['Semester 1', 'Semester 2']"
+MGMT10002,Principles of Management,"['Semester 1', 'Semester 2']"
+MGMT10003,Organisation and Management,['Semester 1']
+MGMT20001,Organisational Behaviour,"['Summer Term', 'Semester 1', 'Semester 2']"
+MGMT20002,Managing Operations,['Semester 1']
+MGMT20003,Project Management,['Semester 1']
+MGMT20004,Managing Human Resources,"['Semester 1', 'Semester 2']"
+MGMT30006,Managing Entrepreneurship and Innovation,['Semester 1']
+MGMT30012,Management Consulting,"['Semester 1', 'Semester 2']"
+MGMT30013,Strategic Management,['Semester 1']
+MGMT30015,Managing Work and Your Career,['Semester 1']
+MGMT90010,Strategic Human Resources,"['Semester 1', 'Semester 2']"
+MGMT90011,Managing Stakeholders,['Semester 1']
+MGMT90012,Managing Diversity,"['Semester 1', 'Semester 2']"
+MGMT90013,Leadership and Team Dynamics,['Semester 1']
+MGMT90014,Emerging Issues in Work and HRM,['Semester 1']
+MGMT90015,Managing People,"['Semester 1', 'Semester 2']"
+MGMT90016,Performance & Reward Management,['Semester 1']
+MGMT90017,HR Consulting,['Semester 1']
+MGMT90018,Managerial Psychology,"['Semester 1', 'Semester 2']"
+MGMT90025,People and Change,"['Semester 1', 'Semester 2']"
+MGMT90026,Supply Chain Management,['Semester 1']
+MGMT90027,International Human Resources,"['Semester 1', 'Semester 2']"
+MGMT90030,Managing Innovation and Entrepreneurship,"['Semester 1', 'Semester 2']"
+MGMT90031,Project Management,"['Semester 1', 'Semester 2']"
+MGMT90038,Global Corporate Governance,"['Semester 1', 'Semester 2']"
+MGMT90111,Management and Business Communication,['Semester 1']
+MGMT90129,Group Project,"['Semester 1', 'Semester 2']"
+MGMT90130,Internship I,"['Semester 1', 'Semester 2']"
+MGMT90131,Internship II,"['Semester 1', 'Semester 2']"
+MGMT90140,Management Competencies,"['Summer Term', 'Semester 1', 'Semester 2']"
+MGMT90141,Business Analysis & Decision Making,"['Summer Term', 'Semester 1', 'Semester 2']"
+MGMT90146,Strategic Management,"['Summer Term', 'Semester 1', 'Semester 2']"
+MGMT90148,Consulting Fundamentals,"['Semester 1', 'Semester 2']"
+MGMT90164,EMA Special Project,"['Semester 1', 'Semester 2']"
+MGMT90171,Leadership in Science,['Semester 1']
+MGMT90196,Advanced Operations Management,['Semester 1']
+MGMT90201,Foundations of Entrepreneurial Practice,['Semester 1']
+MGMT90204,Leading for Strategic Advantage,"['Semester 1', 'Semester 2']"
+MGMT90206,Management & Marketing Special Topics 1,"['Semester 1', 'Semester 2']"
+MGMT90207,Management & Marketing Special Topics 2,"['Semester 1', 'Semester 2']"
+MGMT90208,Sustainable Business Practices,['Semester 1']
+MGMT90209,EMA Career Project,"['Semester 1', 'Semester 2']"
+MGMT90223,Design Thinking,['Semester 1']
+MGMT90224,Garage Project,['Semester 1']
+MGMT90225,Creating a Successful Business Model,['Semester 1']
+MGMT90226,Business Acumen for Entrepreneurs,['Semester 1']
+MGMT90235,EMA Special Project (Year Long) Part 1,"['Semester 1', 'Semester 2']"
+MGMT90236,EMA Special Project (Year Long) Part 2,"['Semester 1', 'Semester 2']"
+MGMT90237,Research Report Part 1,"['Semester 1', 'Semester 2']"
+MGMT90238,Research Report Part 2,"['Semester 1', 'Semester 2']"
+MIIM20001,Principles of Microbiology & Immunology,['Semester 1']
+MIIM30002,Principles of Immunology,['Semester 1']
+MIIM30011,Medical Microbiology: Bacteriology,['Semester 1']
+MIIM30016,Techniques in Microbiology,['Semester 1']
+MIIM40002,Advanced Microbiology and Immunology I,['Semester 1']
+MIIM40005,Micro & Immuno Research Project Part 1,['Semester 1']
+MIIM40007,Advanced Microbiology and Immunology II,['Semester 1']
+MKTG10001,Principles of Marketing,"['Semester 1', 'Semester 2']"
+MKTG20001,Consumer Behaviour,['Semester 1']
+MKTG20006,Brand Management,['Semester 1']
+MKTG20009,Global Marketing,['Semester 1']
+MKTG30003,Service and Relationship Marketing,['Semester 1']
+MKTG30006,Retail Management,['Semester 1']
+MKTG30011,Product Management,['Semester 1']
+MKTG30012,Business Ethics,['Semester 1']
+MKTG90001,Retail Management,['Semester 1']
+MKTG90002,Product Management,['Semester 1']
+MKTG90004,Marketing Management,"['Summer Term', 'Semester 1', 'Semester 2']"
+MKTG90005,Marketing Strategy,"['Semester 1', 'Semester 2']"
+MKTG90006,Brand Management,['Semester 1']
+MKTG90007,Service Management,['Semester 1']
+MKTG90008,Consumer Behaviour,"['Semester 1', 'Semester 2']"
+MKTG90011,Marketing Research,"['Semester 1', 'Semester 2']"
+MKTG90012,International Marketing Management,"['Semester 1', 'Semester 2']"
+MKTG90026,Marketing Metrics,"['Semester 1', 'Semester 2']"
+MKTG90032,Applied Syndicate Project,"['Semester 1', 'Semester 2']"
+MKTG90033,Neuromarketing,['Semester 1']
+MKTG90037,Managing for Value Creation,"['Summer Term', 'Semester 1', 'Semester 2']"
+MREN90001,Polymers and Composites,['Semester 1']
+MREN90003,Electronic and Magnetic Materials,['Semester 1']
+MREN90005,Materials Engineering Research Project,"['Semester 1', 'Semester 2']"
+MULT10011,"Introduction to Life, Earth and Universe",['Semester 1']
+MULT10014,Identity,['Semester 1']
+MULT10015,Language,['Semester 1']
+MULT10016,Reason,['Semester 1']
+MULT10018,Power,['Semester 1']
+MULT20003,Critical Analytical Skills,['Semester 1']
+MULT20008,Australian Indigenous Politics,['Semester 1']
+MULT20010,Arts Internship,"['Summer Term', 'Semester 1', 'Semester 2']"
+MULT20012,Community Volunteering,"['Semester 1', 'Semester 2']"
+MULT20013,Australia Now,"['Semester 1', 'Winter Term', 'Semester 2']"
+MULT30015,Independent Research,"['Summer Term', 'Semester 1', 'Winter Term', 'Semester 2']"
+MULT30019,Arts Internship,"['Summer Term', 'Semester 1', 'Semester 2']"
+MULT30020,Community Volunteering,"['Semester 1', 'Semester 2']"
+MULT40007,Special Research Topics,['Semester 1']
+MULT40008,Special Research Subject A,"['Semester 1', 'Semester 2']"
+MULT50001,Research Principles and Practices,"['Semester 1', 'Semester 2']"
+MULT90002,Supervised Reading (Asia Institute),"['Semester 1', 'Semester 2']"
+MULT90018,Internship I (Placement Only),"['Semester 1', 'Semester 2']"
+MULT90019,Internship II (Semester Long),"['Semester 1', 'Semester 2']"
+MULT90059,Social Enterprise Incubator,"['Semester 1', 'Semester 2']"
+MULT90061,Internship II (Year Long) Part 1,"['Semester 1', 'Semester 2']"
+MULT90062,Internship II (Year Long) Part 2,"['Semester 1', 'Semester 2']"
+MUSI10001,Language and Diction German,['Semester 1']
+MUSI10011,Music Performance 1D,"['Semester 1', 'Semester 2']"
+MUSI10012,Music Performance 2D,"['Semester 1', 'Semester 2']"
+MUSI10016,Art of Piano Teaching,['Semester 1']
+MUSI10017,Riffs: Guitar Cultures & Practice 1,"['Summer Term', 'Semester 1']"
+MUSI10021,MCM African Music and Dance Ensemble 1,"['Summer Term', 'Semester 1']"
+MUSI10037,Music in Everyday Life,['Semester 1']
+MUSI10041,Baroque Ensemble 1,['Semester 1']
+MUSI10047,Music History 1: Monteverdi to Mozart,['Semester 1']
+MUSI10052,Brass Ensemble 1,['Semester 1']
+MUSI10056,Early Voices 1,['Semester 1']
+MUSI10058,Conservatorium Choir 1,['Semester 1']
+MUSI10060,Orchestral Ensembles 1,['Semester 1']
+MUSI10066,Guitar Ensemble 1,['Semester 1']
+MUSI10068,String Ensemble 1,['Semester 1']
+MUSI10076,Piano Duo and Duet 1,['Semester 1']
+MUSI10092,Vocal Ensemble 1,['Semester 1']
+MUSI10148,African Music and Dance Ensemble,"['Summer Term', 'Semester 1', 'Semester 2']"
+MUSI10159,Choir 1,['Semester 1']
+MUSI10173,Guitar Group 1,['Semester 1']
+MUSI10180,Contextual Studies 1,['Semester 1']
+MUSI10181,Ensemble Studies 1,['Semester 1']
+MUSI10182,Individual Performance Studies 1,['Semester 1']
+MUSI10184,Pop Song Writing 1,"['Semester 1', 'Semester 2']"
+MUSI10191,Interactive Composition 1,['Semester 1']
+MUSI10192,Ensemble Studies 2,"['Semester 1', 'Semester 2']"
+MUSI10195,Music Making Laboratory 1,['Semester 1']
+MUSI10197,Individual Performance Studies 2,"['Semester 1', 'Semester 2']"
+MUSI10202,Jazz: The Improvisatory Spirit,['Semester 1']
+MUSI10204,Audiation through Solfège,['Semester 1']
+MUSI10207,Medieval and Renaissance Ensemble 1,['Semester 1']
+MUSI10220,Practical Music 1,"['Semester 1', 'Semester 2']"
+MUSI10221,Practical Music 2,"['Semester 1', 'Semester 2']"
+MUSI10225,Chamber Choir 1,['Semester 1']
+MUSI10229,Sound Studies 1,['Semester 1']
+MUSI20008,Music Technology,['Semester 1']
+MUSI20013,Chamber Music 1,"['Semester 1', 'Semester 2']"
+MUSI20014,Chamber Music 2,"['Semester 1', 'Semester 2']"
+MUSI20025,Minor Music Performance 1,"['Semester 1', 'Semester 2']"
+MUSI20026,Minor Music Performance 2,"['Semester 1', 'Semester 2']"
+MUSI20055,Composition 1,"['Semester 1', 'Semester 2']"
+MUSI20056,Composition 2,"['Semester 1', 'Semester 2']"
+MUSI20058,Music Performance 3D,"['Semester 1', 'Semester 2']"
+MUSI20060,Music Performance 4D,"['Semester 1', 'Semester 2']"
+MUSI20069,Baroque Ensemble 1,['Semester 1']
+MUSI20071,Big Band 1,['Semester 1']
+MUSI20073,Brass Ensemble 1,['Semester 1']
+MUSI20080,Early Voices 1,['Semester 1']
+MUSI20082,Conservatorium Choir 1,['Semester 1']
+MUSI20087,MCM Indonesian Gamelan Ensemble 1,['Semester 1']
+MUSI20089,Guitar Ensemble 3,['Semester 1']
+MUSI20091,String Ensemble 1,['Semester 1']
+MUSI20093,Orchestral Ensembles 3,['Semester 1']
+MUSI20099,Piano Duo and Duet 1,['Semester 1']
+MUSI20104,Shakuhachi 1,"['Semester 1', 'Semester 2']"
+MUSI20105,Shakuhachi 2,"['Semester 1', 'Semester 2']"
+MUSI20108,MCM Chinese Music Ensemble,"['Semester 1', 'Semester 2']"
+MUSI20112,Vocal Ensemble 1,['Semester 1']
+MUSI20122,Composition Studies,['Semester 1']
+MUSI20124,University Orchestral Ensembles 1,['Semester 1']
+MUSI20134,Melbourne Big Band 1,['Semester 1']
+MUSI20135,Chinese Music Ensemble 1,"['Summer Term', 'Semester 1', 'Semester 2']"
+MUSI20138,Indonesian Gamelan Ensemble,"['Semester 1', 'Semester 2']"
+MUSI20143,World Music Choir 1,"['Summer Term', 'Semester 1', 'Semester 2']"
+MUSI20149,Music Psychology,['Semester 1']
+MUSI20156,Practical Anatomy for Classical Voice 1,['Semester 1']
+MUSI20160,Aural Studies 2,['Semester 1']
+MUSI20163,Samba Band,"['Semester 1', 'Semester 2']"
+MUSI20164,Free Play New Music Improvisation Ensem,"['Semester 1', 'Semester 2']"
+MUSI20167,Creating Music For Advertising,['Semester 1']
+MUSI20173,The Art of Game Music,['Semester 1']
+MUSI20174,The Laptop Recording Studio,"['Semester 1', 'Semester 2']"
+MUSI20175,Individual Performance Studies 3,"['Semester 1', 'Semester 2']"
+MUSI20176,Ensemble Studies 3,"['Semester 1', 'Semester 2']"
+MUSI20177,Contextual Studies 3,['Semester 1']
+MUSI20178,Individual Performance Studies 4,"['Semester 1', 'Semester 2']"
+MUSI20179,Ensemble Studies 4,"['Semester 1', 'Semester 2']"
+MUSI20181,Interactive Composition 3,['Semester 1']
+MUSI20182,Music Making Laboratory 3,['Semester 1']
+MUSI20192,"R&B, Soul & Gospel Choir","['Semester 1', 'Semester 2']"
+MUSI20198,Music History 2: C19th Music and Ideas,"['Summer Term', 'Semester 1']"
+MUSI20199,Practical Music 3,"['Semester 1', 'Semester 2']"
+MUSI20200,Practical Music 4,"['Semester 1', 'Semester 2']"
+MUSI20201,Performance 3,"['Semester 1', 'Semester 2']"
+MUSI20202,Performance 4,"['Semester 1', 'Semester 2']"
+MUSI20209,Chinese Music Ensemble 2,"['Semester 1', 'Semester 2']"
+MUSI20213,Chamber Choir 3,['Semester 1']
+MUSI20215,Medieval and Renaissance Ensemble 3,['Semester 1']
+MUSI20218,Area Studies in Ethnomusicology,['Semester 1']
+MUSI20220,Sound Studies 3,['Semester 1']
+MUSI20222,"Creativity, Genius, Expertise and Talent","['Semester 1', 'Semester 2']"
+MUSI20223,Music Performance Science,['Semester 1']
+MUSI30008,Performance Study 6,"['Semester 1', 'Semester 2']"
+MUSI30009,Performance Study 5,"['Semester 1', 'Semester 2']"
+MUSI30019,Chamber Music 3,"['Semester 1', 'Semester 2']"
+MUSI30020,Chamber Music 4,"['Semester 1', 'Semester 2']"
+MUSI30025,Orchestration,['Semester 1']
+MUSI30031,Electro-Acoustic Music,['Semester 1']
+MUSI30032,Music Research,['Semester 1']
+MUSI30047,Music Analysis,['Semester 1']
+MUSI30050,Minor Music Performance 3,"['Semester 1', 'Semester 2']"
+MUSI30051,Minor Music Performance 4,"['Semester 1', 'Semester 2']"
+MUSI30053,The Ethnography of Music,['Semester 1']
+MUSI30139,Shakuhachi Ensemble 1,"['Semester 1', 'Semester 2']"
+MUSI30159,Acting for Singers 1,['Semester 1']
+MUSI30163,Baroque Ensemble 1,['Semester 1']
+MUSI30165,Big Band 3,['Semester 1']
+MUSI30167,Brass Ensemble 1,['Semester 1']
+MUSI30172,Early Voices 1,['Semester 1']
+MUSI30174,Conservatorium Choir 1,['Semester 1']
+MUSI30181,Guitar Ensemble 5,['Semester 1']
+MUSI30183,String Ensemble 1,['Semester 1']
+MUSI30185,Orchestral Ensembles 5,['Semester 1']
+MUSI30193,Piano Duo and Duet 1,['Semester 1']
+MUSI30206,Vocal Ensemble 1,['Semester 1']
+MUSI30213,Composition 3,"['Semester 1', 'Semester 2']"
+MUSI30214,Composition 4,"['Semester 1', 'Semester 2']"
+MUSI30215,Music Performance 5D,"['Semester 1', 'Semester 2']"
+MUSI30216,Music Performance 6D,"['Semester 1', 'Semester 2']"
+MUSI30217,Music Performance 5,"['Semester 1', 'Semester 2']"
+MUSI30218,Music Performance 6,"['Semester 1', 'Semester 2']"
+MUSI30223,Contextual Studies 5,['Semester 1']
+MUSI30225,Ensemble Studies 5,"['Semester 1', 'Semester 2']"
+MUSI30226,Ensemble Studies 6,"['Semester 1', 'Semester 2']"
+MUSI30227,Individual Performance Studies 5,"['Semester 1', 'Semester 2']"
+MUSI30228,Individual Performance Studies 6,"['Semester 1', 'Semester 2']"
+MUSI30229,Interactive Composition 5,['Semester 1']
+MUSI30231,Music Making Laboratory 5,['Semester 1']
+MUSI30236,The Music Producer: From Brass to Beats,['Semester 1']
+MUSI30238,Advanced Harmonic and Rhythmic Studies,['Semester 1']
+MUSI30244,Chamber Choir 5,['Semester 1']
+MUSI30246,Music as Noise: Making Sound Art,['Semester 1']
+MUSI30249,Music History 3:Impressionism to Present,['Semester 1']
+MUSI30250,Practical Music 5,"['Semester 1', 'Semester 2']"
+MUSI30251,Practical Music 6,"['Semester 1', 'Semester 2']"
+MUSI30252,Performance 5,"['Semester 1', 'Semester 2']"
+MUSI30253,Performance 6,"['Semester 1', 'Semester 2']"
+MUSI30256,The Romantic Piano,['Semester 1']
+MUSI30260,Medieval and Renaissance Ensemble 5,['Semester 1']
+MUSI30262,French Lyric Diction,['Semester 1']
+MUSI40012,GradDip Composition 1,"['Semester 1', 'Semester 2']"
+MUSI40013,GradDip Composition 2,"['Semester 1', 'Semester 2']"
+MUSI40016,Practical Study 1,"['Semester 1', 'Semester 2']"
+MUSI40017,Practical Study 2,"['Semester 1', 'Semester 2']"
+MUSI40036,Conducting,['Semester 1']
+MUSI40055,Music Analysis,['Semester 1']
+MUSI40056,Special Study,"['Semester 1', 'Semester 2']"
+MUSI40060,Concerto,"['Semester 1', 'Semester 2']"
+MUSI40061,Recital,"['Semester 1', 'Semester 2']"
+MUSI40062,Honours Chamber Music 1,"['Semester 1', 'Semester 2']"
+MUSI40063,Honours Ensemble 1,"['Semester 1', 'Semester 2']"
+MUSI40064,The Research Process for Musicians,"['Semester 1', 'Semester 2']"
+MUSI40067,Honours Composition 1,"['Semester 1', 'Semester 2']"
+MUSI40068,Honours Composition 2,"['Semester 1', 'Semester 2']"
+MUSI40070,Professional Project (Ethnomusicology),['Semester 1']
+MUSI40071,Professional Project (Musicology),['Semester 1']
+MUSI40073,Composition Studies,['Semester 1']
+MUSI40075,Music Psychology,['Semester 1']
+MUSI40078,Music Research (Honours),['Semester 1']
+MUSI40079,The Ethnography of Music (Honours),['Semester 1']
+MUSI40080,Honours Ensemble 2,"['Semester 1', 'Semester 2']"
+MUSI40081,Honours Chamber Music 2,"['Semester 1', 'Semester 2']"
+MUSI40083,Research Methods,['Semester 1']
+MUSI40088,Integrated Musical Practice 1,"['Semester 1', 'Semester 2']"
+MUSI40089,Integrated Musical Practice 2,"['Semester 1', 'Semester 2']"
+MUSI40092,Music Management and Enterprise,['Semester 1']
+MUSI40094,Music as Noise: Making Sound Art,['Semester 1']
+MUSI40098,The Romantic Piano,['Semester 1']
+MUSI40101,Thesis Part 1,"['Semester 1', 'Semester 2']"
+MUSI40102,Thesis Part 2,"['Semester 1', 'Semester 2']"
+MUSI40103,Figured Bass Realisation 1,['Semester 1']
+MUSI40104,Dissertation Part 1,"['Semester 1', 'Semester 2']"
+MUSI40105,Dissertation Part 2,"['Semester 1', 'Semester 2']"
+MUSI40107,Capstone Music Project Part 1,"['Semester 1', 'Semester 2']"
+MUSI90006,Studies in Ethnomusicology 1,"['Semester 1', 'Semester 2']"
+MUSI90018,Studies in Musicology 1,"['Semester 1', 'Semester 2']"
+MUSI90019,Studies in Musicology 2,"['Semester 1', 'Semester 2']"
+MUSI90026,Studies in Ethnomusicology 2,"['Semester 1', 'Semester 2']"
+MUSI90032,Music Therapy Methods 1,['Semester 1']
+MUSI90034,Music Therapy Methods 3,['Semester 1']
+MUSI90036,Music Psychology Research,['Semester 1']
+MUSI90038,Clinical Training in Music Therapy 1,['Semester 1']
+MUSI90040,Clinical Training in Music Therapy 3,['Semester 1']
+MUSI90041,Applications of Music in Therapy A,['Semester 1']
+MUSI90043,Applications of Music in Therapy C,['Semester 1']
+MUSI90044,Objectivist Research in Music Therapy,['Semester 1']
+MUSI90067,Composition Seminar,"['Semester 1', 'Semester 2']"
+MUSI90092,Postgraduate Seminar,"['Semester 1', 'Semester 2']"
+MUSI90093,Ensemble A,"['Semester 1', 'Semester 2']"
+MUSI90094,Ensemble B,"['Semester 1', 'Semester 2']"
+MUSI90100,Recital 1,"['Semester 1', 'Semester 2']"
+MUSI90144,The Teacher as Conductor,"['Semester 1', 'Semester 2']"
+MUSI90147,Performing to Teach 1,"['Semester 1', 'Semester 2']"
+MUSI90148,Ensemble,"['Semester 1', 'Semester 2']"
+MUSI90149,Applied Instrumental and Vocal Teaching,"['Semester 1', 'Semester 2']"
+MUSI90150,"Music Learning, Teaching and Research","['Semester 1', 'Semester 2']"
+MUSI90151,Music Performance Curriculum& Assessment,"['Semester 1', 'Semester 2']"
+MUSI90152,Second Instrument / Vocal Study 2,"['Semester 1', 'Semester 2']"
+MUSI90153,Professional Practice 2,"['Semester 1', 'Semester 2']"
+MUSI90154,Professional Practice 1,"['Semester 1', 'Semester 2']"
+MUSI90155,Second Instrument / Vocal Study 1,"['Semester 1', 'Semester 2']"
+MUSI90156,Performing to Teach 2,"['Semester 1', 'Semester 2']"
+MUSI90157,Pedagogue Recital,"['Semester 1', 'Semester 2']"
+MUSI90185,Research Essay,"['Semester 1', 'Semester 2']"
+MUSI90191,The Research Process For Musicians (RHD),"['Semester 1', 'Semester 2']"
+MUSI90192,Studio Teaching 1,"['Semester 1', 'Semester 2']"
+MUSI90193,Studio Teaching 2,"['Semester 1', 'Semester 2']"
+MUSI90194,Instrumental Pedagogy,"['Semester 1', 'Semester 2']"
+MUSI90195,Professional Practice 3,"['Semester 1', 'Semester 2']"
+MUSI90196,Orchestration,['Semester 1']
+MUSI90197,Professional Research Project Part 1,"['Semester 1', 'Semester 2']"
+MUSI90198,Professional Research Project Part 2,"['Semester 1', 'Semester 2']"
+MUSI90199,Suzuki Practicum Part 1,"['Semester 1', 'Semester 2']"
+MUSI90200,Suzuki Practicum Part 2,"['Semester 1', 'Semester 2']"
+MUSI90217,Orchestral Experience 1,['Semester 1']
+MUSI90218,Musician's Health,['Semester 1']
+MUSI90219,Orchestra Administration,['Semester 1']
+MUSI90224,Orchestral Experience 3,['Semester 1']
+MUSI90225,Music Outreach & Social Entrepreneurship,['Semester 1']
+MUSI90227,Orchestral Performance Practicum 2,['Semester 1']
+MUSI90231,Core Skills In Opera 1,['Semester 1']
+MUSI90232,Repetiteur Skills,['Semester 1']
+MUSI90234,Core Skills in Opera 3,['Semester 1']
+MUSI90238,"Music, Learning & Technology","['Semester 1', 'Semester 2']"
+MUST10001,Dance Skills 1,['Semester 1']
+MUST10002,Acting Skills 1,['Semester 1']
+MUST10003,Voice Skills 1,['Semester 1']
+MUST10004,Music Theatre Contextual Studies,['Semester 1']
+MUST10010,Singing 1,['Semester 1']
+MUST20003,Voice Skills 3,['Semester 1']
+MUST20004,Music Theatre Combination Class 2,['Semester 1']
+MUST20007,Bollywood: a cross-disciplinary study,"['Semester 1', 'Semester 2']"
+MUST20010,Glee Singing: The Power Of Pop Music,"['Semester 1', 'Semester 2']"
+MUST30001,Dance Skills 4,['Semester 1']
+MUST30002,Acting Skills 4,['Semester 1']
+MUST30003,Voice Skills 5,['Semester 1']
+MUST30004,Music Theatre Combination Class 4,['Semester 1']
+MUST30005,New Work,['Semester 1']
+MUST30012,Music Theatre: Singing Rock Musicals,['Semester 1']
+NEUR30002,Neurophysiology: Neurons and Circuits,['Semester 1']
+NEUR30003,Principles of Neuroscience,['Semester 1']
+NEUR90015,Project in Neuroscience,"['Semester 1', 'Semester 2']"
+NEUR90016,Project in Neuroscience,"['Semester 1', 'Semester 2']"
+NEUR90017,Project in Neuroscience,"['Semester 1', 'Semester 2']"
+NEUR90018,Project in Neuroscience,"['Semester 1', 'Semester 2']"
+NRMT10007,Land Resources and Management,['Semester 1']
+NRMT20016,Plant Protection,['Semester 1']
+NRMT40005,Social Research Methods,['Semester 1']
+NRMT90003,Social Research Methods,['Semester 1']
+NURS90002,Independent Study,"['Semester 1', 'Semester 2']"
+NURS90025,Child and Family Health,['Semester 1']
+NURS90026,Independent Study Unit,"['Semester 1', 'Semester 2']"
+NURS90052,Nursing Science 3,['Semester 1']
+NURS90053,Clients with Complex Health States,['Semester 1']
+NURS90059,Nursing Research,['Semester 1']
+NURS90066,Foundations of Nursing,['Semester 1']
+NURS90067,Health Assessment for Advanced Practice1,['Semester 1']
+NURS90068,Health Assessment for Adv. Practice 2,['Semester 1']
+NURS90069,Clinical Leadership in Context,['Semester 1']
+NURS90086,Quality and Safety in Healthcare,['Semester 1']
+NURS90103,Research in Practice,['Semester 1']
+NURS90104,Chronic Disease Management: Foundations,"['Semester 1', 'Semester 2']"
+NURS90106,Advanced Nursing Practice: Primary Care,"['Semester 1', 'Semester 2']"
+NURS90108,Minor Thesis Part 1,"['Semester 1', 'Semester 2']"
+NURS90109,Minor Thesis Part 2,"['Semester 1', 'Semester 2']"
+NURS90129,Nursing Science 1,['Semester 1']
+NURS90130,Nursing Assessment & Care,['Semester 1']
+NURS90133,Preparing for Advanced Practice Nursing,['Semester 1']
+OPTO20004,"Perception, Illusions and Art",['Semester 1']
+OPTO40012,Vision Science Research Project Part 1,['Semester 1']
+OPTO90009,Management of Contact Lens Patients,['Semester 1']
+OPTO90016,Glaucoma and Retinal Disease,['Semester 1']
+OPTO90018,The Eye and Vision: A Window to Disease,['Semester 1']
+OPTO90019,Vision Science Project A,"['Semester 1', 'Semester 2']"
+OPTO90020,Vision Science Project B,"['Semester 1', 'Semester 2']"
+OPTO90021,Vision Science Project C,"['Semester 1', 'Semester 2']"
+OPTO90022,Vision Science Project D,"['Semester 1', 'Semester 2']"
+OPTO90031,Research Studies in Optometry,"['Semester 1', 'Semester 2']"
+ORAL10001,Society and Health 1A,['Semester 1']
+ORAL10003,Oral Health Sciences 1A,['Semester 1']
+ORAL20001,Health Promotion 2A,['Semester 1']
+ORAL40001,Oral Health Research Project 4A,"['Semester 1', 'Semester 2']"
+ORAL40002,Oral Health Research Project 4B,"['Semester 1', 'Semester 2']"
+OTOL40001,Otolaryngology Research Project Part 1,['Semester 1']
+OTOL40002,Otolaryngology Advanced Coursework,['Semester 1']
+PADM90004,Public Administration Thesis,"['Semester 1', 'Semester 2']"
+PAED40001,Paediatrics Research Project Part 1,['Semester 1']
+PAED90007,Professional Practice in Context,['Semester 1']
+PAED90015,Adolescent Health Minor Thesis,"['Semester 1', 'Semester 2']"
+PATH30001,Mechanisms of Human Disease,['Semester 1']
+PATH30002,Techniques for Investigation of Disease,['Semester 1']
+PATH40001,Pathology Research Project Part 1,['Semester 1']
+PATH40002,Critical Analysis of Pathology Research,['Semester 1']
+PATH40006,Clinical Path Research Project Part 1,['Semester 1']
+PHIL10002,Philosophy: The Big Questions,['Semester 1']
+PHIL20008,Ethical Theory,['Semester 1']
+PHIL20033,The Philosophy of Mind,['Semester 1']
+PHIL20038,Nietzsche and Critics,['Semester 1']
+PHIL20039,The Nature of Reality,['Semester 1']
+PHIL30016,Knowledge and Reality,['Semester 1']
+PHIL30024,The Foundations of Interpretation,['Semester 1']
+PHIL30043,The Power and Limits of Logic,['Semester 1']
+PHIL30047,Objectivity and Value,['Semester 1']
+PHIL40002,Recent European Philosophy,['Semester 1']
+PHIL40003,Topics in Moral Psychology,['Semester 1']
+PHIL40017,Early Modern Philosophy,['Semester 1']
+PHIL40020,Reading and Writing Philosophy,['Semester 1']
+PHIL40021,Philosophy Thesis Part 1,"['Semester 1', 'Semester 2']"
+PHIL40022,Philosophy Thesis Part 2,"['Semester 1', 'Semester 2']"
+PHIL90004,Ethical Theory and Practice,['Semester 1']
+PHIL90005,Applied Ethics: Directed Research,"['Semester 1', 'Semester 2']"
+PHIL90007,Literature Review,['Semester 1']
+PHIL90010,Global Justice,['Semester 1']
+PHIL90021,Critical and Creative Thinking,['Semester 1']
+PHIL90024,Philosophy Methods,['Semester 1']
+PHIL90030,Professional & Applied Ethics Internship,"['Semester 1', 'Semester 2']"
+PHIL90034,Philosophical Methodology,['Semester 1']
+PHIL90036,Professional Ethics Thesis Part 1,"['Semester 1', 'Semester 2']"
+PHIL90037,Professional Ethics Thesis Part 2,"['Semester 1', 'Semester 2']"
+PHIL90038,Applied Ethics Thesis Part 1,"['Semester 1', 'Semester 2']"
+PHIL90039,Applied Ethics Thesis Part 2,"['Semester 1', 'Semester 2']"
+PHIL90040,New Research in Practical Ethics,['Semester 1']
+PHRM30003,Drug Treatment of Disease,['Semester 1']
+PHRM30009,Drugs in Biomedical Experiments,"['Semester 1', 'Semester 2']"
+PHRM40001,Pharmacology Research Project Part 1,['Semester 1']
+PHRM40002,Advanced Topics in Pharmacology,['Semester 1']
+PHRM90002,Pharmacology for Health Professionals,['Semester 1']
+PHTY90040,Physiotherapy Professional Portfolio,"['Semester 1', 'Semester 2']"
+PHTY90096,Foundation Physiotherapy Sciences,['Semester 1']
+PHYC10001,Physics 1: Advanced,['Semester 1']
+PHYC10003,Physics 1,['Semester 1']
+PHYC10005,Physics 1: Fundamentals,['Semester 1']
+PHYC20009,Thermal and Classical Physics,['Semester 1']
+PHYC20012,Quantum and Thermal Physics,['Semester 1']
+PHYC20013,Laboratory and Computational Physics 2,"['Semester 1', 'Semester 2']"
+PHYC30014,Laboratory Work A,"['Semester 1', 'Semester 2']"
+PHYC30015,Laboratory Work B,"['Semester 1', 'Semester 2']"
+PHYC30016,Electrodynamics,['Semester 1']
+PHYC30018,Quantum Physics,['Semester 1']
+PHYC30019,Astrophysics,['Semester 1']
+PHYC30021,Laboratory and Computational Physics 3,"['Semester 1', 'Semester 2']"
+PHYC40002,Physics Research Project,"['Semester 1', 'Semester 2']"
+PHYC40004,Physics Research Project,"['Semester 1', 'Semester 2']"
+PHYC40007,Physics Research Project,"['Semester 1', 'Semester 2']"
+PHYC40008,Physics Research Project,"['Semester 1', 'Semester 2']"
+PHYC90007,Quantum Mechanics,['Semester 1']
+PHYC90008,Quantum Field Theory,['Semester 1']
+PHYC90009,Physical Cosmology,['Semester 1']
+PHYC90010,Statistical Mechanics,['Semester 1']
+PHYC90021,Research Project,"['Semester 1', 'Semester 2']"
+PHYC90022,Research Project,"['Semester 1', 'Semester 2']"
+PHYC90023,Research Project,"['Semester 1', 'Semester 2']"
+PHYC90024,Research Project,"['Semester 1', 'Semester 2']"
+PHYS20008,Human Physiology,"['Semester 1', 'Semester 2']"
+PHYS20009,Research-Based Physiology,"['Semester 1', 'Semester 2']"
+PHYS30005,Muscle and Exercise Physiology,['Semester 1']
+PHYS30009,Experimental Physiology,['Semester 1']
+PHYS40005,Physiology Research Project Part 1,['Semester 1']
+PHYS90008,Advanced Seminars in Physiology,['Semester 1']
+PLAN10001,Cities Past and Future,['Semester 1']
+PLAN30001,Planning Scenario and Policy Workshop,['Semester 1']
+PLAN30003,Planning Social Research Workshop,['Semester 1']
+PLAN30004,Transport Oriented Design,['Semester 1']
+POLS10001,Australian Politics,['Semester 1']
+POLS20011,The Politics of Sex,['Semester 1']
+POLS20023,Comparative Politics,['Semester 1']
+POLS20026,Politics and the Media,['Semester 1']
+POLS20030,UQ: Conceptions of World Politics,['Semester 1']
+POLS20032,UQ: Global Security,['Semester 1']
+POLS30001,Parliamentary Internship,['Semester 1']
+POLS30002,Public Affairs Internship (Int.Students),"['Semester 1', 'Semester 2']"
+POLS30003,Public Affairs Internship,"['Semester 1', 'Semester 2']"
+POLS30011,Chinese Politics and Society,['Semester 1']
+POLS30015,International Gender Politics,['Semester 1']
+POLS30033,Democracy and its Dilemmas,['Semester 1']
+POLS30035,Policy Design: From Theory to Practice,['Semester 1']
+POLS40021,Politics & International Thesis Part 1,"['Semester 1', 'Semester 2']"
+POLS40022,Politics & International Thesis Part 2,"['Semester 1', 'Semester 2']"
+POLS40024,Key Debates in Political Science 1,['Semester 1']
+POLS90009,International Relations Internship,"['Summer Term', 'Semester 1', 'Semester 2']"
+POLS90015,Business and Government,['Semester 1']
+POLS90023,International Governance and Law,['Semester 1']
+POLS90030,Nuclear Weapons and Disarmament,['Semester 1']
+POLS90034,International Policymaking in Practice,['Semester 1']
+POLS90042,Latin America in the World,['Semester 1']
+POLS90046,Special Topics B International Relations,['Semester 1']
+POLS90054,International Relations Thesis Part 1,"['Semester 1', 'Semester 2']"
+POLS90055,International Relations Thesis Part 2,"['Semester 1', 'Semester 2']"
+POLS90056,Social Policy and Development,"['Semester 1', 'November']"
+POPH20001,"Genetics, Health, and Society",['Semester 1']
+POPH40005,Population Health Research Project 1,['Semester 1']
+POPH90013,Biostatistics,['Semester 1']
+POPH90014,Epidemiology 1,['Semester 1']
+POPH90058,Health Program Evaluation 1,['Semester 1']
+POPH90094,Health Economics 1,['Semester 1']
+POPH90112,Infectious Disease Epidemiology,['Semester 1']
+POPH90117,Health Indicators and Health Surveys,['Semester 1']
+POPH90118,Clinical Biostatistics,['Semester 1']
+POPH90120,Linear Models,"['Semester 1', 'Semester 2']"
+POPH90122,Survival Analysis,['Semester 1']
+POPH90123,Longitudinal and Correlated Data,['Semester 1']
+POPH90148,Probability and Distribution Theory,"['Semester 1', 'Semester 2']"
+POPH90149,Biostatistics Research Project - S,"['Semester 1', 'Semester 2']"
+POPH90151,Biostatistics Research Project - D,"['Semester 1', 'Semester 2']"
+POPH90167,Young People in Context,['Semester 1']
+POPH90168,Vulnerable Young People,['Semester 1']
+POPH90169,Adolescent Sexuality and Sexual Health,['Semester 1']
+POPH90170,Adolescent Health Project,"['Semester 1', 'Semester 2']"
+POPH90199,Gender and Health,['Semester 1']
+POPH90201,Community-Based Participatory Research,['Semester 1']
+POPH90226,Societal Implications of Genomics,['Semester 1']
+POPH90227,Public Health in Practice,['Semester 1']
+POPH90239,Professional Practice - S,"['Semester 1', 'Semester 2']"
+POPH90255,Research Project in Public Health - S,"['Semester 1', 'Semester 2']"
+POPH90270,Bioethics and Public Health,['Semester 1']
+POPH90276,M.Epidemiology Research Project Part 1,"['Semester 1', 'Semester 2']"
+POPH90277,M.Epidemiology Research Project Part 2,"['Semester 1', 'Semester 2']"
+POPH90284,Research Project in Public Health Part 1,"['Semester 1', 'Semester 2']"
+POPH90285,Research Project in Public Health Part 2,"['Semester 1', 'Semester 2']"
+POPH90286,Professional Practice - Part 1,"['Semester 1', 'Semester 2']"
+POPH90287,Professional Practice - Part 2,"['Semester 1', 'Semester 2']"
+POPH90288,Biostatistics Research Project Part 1,"['Semester 1', 'Semester 2']"
+POPH90289,Biostatistics Research Project Part 2,"['Semester 1', 'Semester 2']"
+POPH90292,M.Epidemiology Research Project - S,"['Semester 1', 'Semester 2']"
+PPMN10001,Tackling Wicked Policy Problems,['Semester 1']
+PPMN40006,Public Policy & Management Thesis Part 1,"['Semester 1', 'Semester 2']"
+PPMN90030,Public Policy in the Asian Century,['Semester 1']
+PPMN90033,Public Budgets and Financial Management,['Semester 1']
+PPMN90039,Executive Internship,"['Semester 1', 'Semester 2']"
+PPMN90049,Public /Social Policy Thesis Part 1,"['Semester 1', 'Semester 2']"
+PPMN90050,Public /Social Policy Thesis Part 2,"['Semester 1', 'Semester 2']"
+PROP20001,Finance for Built Environment,['Semester 1']
+PROP20002,Design and Property Principles,['Semester 1']
+PROP30001,Valuation of Land and Buildings,['Semester 1']
+PSYC10003,"Mind, Brain & Behaviour 1",['Semester 1']
+PSYC20006,Biological Psychology,['Semester 1']
+PSYC20008,Developmental Psychology,['Semester 1']
+PSYC30012,The Unconscious Mind,['Semester 1']
+PSYC30013,Research Methods for Human Inquiry,['Semester 1']
+PSYC30014,The Psychopathology of Everyday Life,['Semester 1']
+PSYC30017,"Perception, Memory and Cognition",['Semester 1']
+PSYC30018,Neuroscience and the Mind,['Semester 1']
+PSYC40005,Advanced Design and Data Analysis,['Semester 1']
+PSYC40006,Ethics and Evidence-Based Practice,['Semester 1']
+PSYC40014,Advanced Research Methods In Psychology,['Semester 1']
+PSYC90005,Thesis (Masters/coursework),"['Semester 1', 'Semester 2']"
+PSYC90006,Basic Interventions,['Semester 1']
+PSYC90007,Cognitive-Behaviour Therapy,['Semester 1']
+PSYC90010,Mental Health Issues Across the Lifespan,['Semester 1']
+PSYC90027,Psychology of Health Problems,['Semester 1']
+PSYC90030,Principles of Psychological Assessment,['Semester 1']
+PSYC90084,Neuroanatomy for Neuropsychologists,['Semester 1']
+PSYC90089,UM-NUS Mental Health Across the Lifespan,"['Semester 1', 'Semester 2']"
+PSYC90090,UM-NUS Ethics and Professional Issues,['Semester 1']
+PSYC90095,Thesis (Masters/coursework) Part 1,['Semester 1']
+PSYC90101,Advanced Social Psychology,['Semester 1']
+PSYC90104,"Thinking, Judgement and Decision Making",['Semester 1']
+PSYC90105,Influence and Persuasion,['Semester 1']
+PSYC90106,Research Project,"['Semester 1', 'Semester 2']"
+PSYC90107,Internship,"['Semester 1', 'Semester 2']"
+PSYT90028,Infant Observation 1,['Semester 1']
+PSYT90032,Foundations of Working with Adolescents,['Semester 1']
+PSYT90038,Foundations of Working with Families,['Semester 1']
+PSYT90040,Clinical Practicum: Families,['Semester 1']
+PSYT90082,Mental Health Disorders in Infancy,['Semester 1']
+PSYT90086,Mental Health Science Research Project 1,['Semester 1']
+PUBL90001,Structural Editing,"['Semester 1', 'Semester 2']"
+PUBL90002,Editorial English,"['Semester 1', 'Semester 2']"
+PUBL90003,The Contemporary Publishing Industry,['Semester 1']
+PUBL90004,Business and Professional Communications,['Semester 1']
+PUBL90006,Writing and Editing for Digital Media,"['Semester 1', 'Semester 2']"
+PUBL90009,Advanced Editing for Digital Media,['Semester 1']
+PUBL90010,Print Production and Design,['Semester 1']
+PUBL90012,Practicum,"['Semester 1', 'Semester 2']"
+PUBL90013,Writing and Editing for Magazines,['Semester 1']
+PUBL90014,Legal Issues in Media and Publishing,['Semester 1']
+PUBL90015,Publishing Project,"['Semester 1', 'Semester 2']"
+PUBL90022,Publishing and Communications Thesis Pt1,"['Semester 1', 'Semester 2']"
+PUBL90023,Publishing and Communications Thesis Pt2,"['Semester 1', 'Semester 2']"
+RADI90003,Minor Thesis (Radiology),"['Semester 1', 'Semester 2']"
+RADI90011,Radiology Part 1,['Semester 1']
+RADI90013,Radiology Part 3,['Semester 1']
+RADI90015,Minor Thesis (Radiology) Part 1,['Semester 1']
+RADI90017,Diagnostic Radiology 1,['Semester 1']
+RADI90019,Diagnostic Radiology 3,['Semester 1']
+RADI90021,Diagnostic Radiology 5,['Semester 1']
+RADI90022,Diagnostic Radiology Minor Thesis 1,['Semester 1']
+RURA90008,Utilising Knowledge in Aboriginal Health,['Semester 1']
+RUSS10001,Russian 1,['Semester 1']
+RUSS20004,Russian 3,['Semester 1']
+RUSS20006,Russian 5,['Semester 1']
+RUSS30001,Russian 5,['Semester 1']
+RUSS40006,Russian Language & Culture 4A,['Semester 1']
+RUSS40009,Russian Thesis Part 1,"['Semester 1', 'Semester 2']"
+SCIE10001,Science: A Study of Life and Environment,['Semester 1']
+SCIE10003,Science: Supporting Health and Wellbeing,['Semester 1']
+SCIE30001,Science Research Project,"['Summer Term', 'Semester 1', 'Semester 2']"
+SCIE30002,Science and Technology Internship,"['Summer Term', 'Semester 1', 'Semester 2']"
+SCIE30003,Science Research Project Abroad,"['Summer Term', 'Semester 1', 'Semester 2']"
+SCIE40001,Critical Thinking in Research,['Semester 1']
+SCIE90005,Ethics and Responsibility in Science,['Semester 1']
+SCIE90011,From Lab to Life,['Semester 1']
+SCIE90013,Communication for Research Scientists,"['Semester 1', 'Semester 2']"
+SCIE90017,Science and Technology Internship,"['Summer Term', 'Semester 1', 'Semester 2']"
+SCIE90018,Science Research Internship,"['Summer Term', 'Semester 1', 'Semester 2']"
+SCIE90027,Ecosystem Internship,"['Summer Term', 'Semester 1', 'Semester 2']"
+SCRN10001,Introduction to Screen Studies,['Semester 1']
+SCRN20011,Hollywood and Entertainment,['Semester 1']
+SCRN30001,Art Cinema and the Love Story,['Semester 1']
+SCRN40002,Contemporary Film Theory,['Semester 1']
+SCRN40003,Ethnographic and Documentary Cinema,['Semester 1']
+SCRN40005,"Melodrama, Ideology and the Cinema",['Semester 1']
+SCRN40015,Screen Studies Thesis,"['Semester 1', 'Semester 2']"
+SCRN40017,Screen & Cultural Studies Thesis Part 1,"['Semester 1', 'Semester 2']"
+SCRN40018,Screen & Cultural Studies Thesis Part 2,"['Semester 1', 'Semester 2']"
+SCRN50001,Moving Image Thesis,"['Semester 1', 'Semester 2']"
+SCRN90004,Visual Culture Industries,['Semester 1']
+SKIL90004,Project Management in Science,['Semester 1']
+SOCI10001,Understanding Society,['Semester 1']
+SOCI20017,Sexualising Society: Sociology of Sex,['Semester 1']
+SOCI30001,Contemporary Sociological Theory,['Semester 1']
+SOCI30009,Living in a Risk Society,['Semester 1']
+SOCI30013,Survey Design and Analysis,['Semester 1']
+SOCI40006,Sociology Thesis Part 1,"['Semester 1', 'Semester 2']"
+SOCI40007,Sociology Thesis Part 2,"['Semester 1', 'Semester 2']"
+SOCI90010,International Migration,['Semester 1']
+SOCI90013,Social Policy Internship,"['Semester 1', 'Semester 2']"
+SOCI90020,Social Policy: Special Topics A,['Semester 1']
+SOLS20001,"Law, Justice and Social Change",['Semester 1']
+SOLS30001,Law in Social Theory,['Semester 1']
+SOLS40002,Socio-Legal Studies Thesis Part 1,"['Semester 1', 'Semester 2']"
+SOLS90004,Social Theory Thesis Part 1,"['Semester 1', 'Semester 2']"
+SOLS90005,Social Theory Thesis Part 2,"['Semester 1', 'Semester 2']"
+SPAN10001,Spanish 1,['Semester 1']
+SPAN10003,Spanish 3,['Semester 1']
+SPAN10007,Spanish 5,['Semester 1']
+SPAN20002,Spanish 3,['Semester 1']
+SPAN20016,"Rock, Pop & Resistance",['Semester 1']
+SPAN20018,Spanish 5,['Semester 1']
+SPAN20022,Spanish 7,['Semester 1']
+SPAN30012,"Rock, Pop & Resistance",['Semester 1']
+SPAN30014,Spanish 5,['Semester 1']
+SPAN30016,Spanish 7,['Semester 1']
+SPAN30021,Exploring Latin America,['Semester 1']
+SPAN40007,Spanish & Latin American Thesis Part 1,"['Semester 1', 'Semester 2']"
+SPAN40008,Spanish & Latin American Thesis Part 2,"['Semester 1', 'Semester 2']"
+SPAN90002,Spanish in a Global World,"['Semester 1', 'Semester 2']"
+SPAN90003,Graduate Spanish A,['Semester 1']
+SURG40002,Advanced Studies in Biomedicine: Surgery,['Semester 1']
+SURG40005,Surgery Research Project Part 1,['Semester 1']
+SURG90021,Contemporary Surgical Practice,['Semester 1']
+SURG90022,Fundamentals of Peri-Operative Care,['Semester 1']
+SURG90023,Fundamentals of Surgery I,['Semester 1']
+SURG90025,Fundamentals of Surgery III,['Semester 1']
+SURG90026,Surgical Research I,['Semester 1']
+SWEN20003,Object Oriented Software Development,"['Semester 1', 'Semester 2']"
+SWEN30006,Software Modelling and Design,"['Semester 1', 'Semester 2']"
+SWEN90004,Modelling Complex Software Systems,['Semester 1']
+SWEN90009,Software Requirements Analysis,['Semester 1']
+SWEN90010,High Integrity Systems Engineering,['Semester 1']
+SWEN90016,Software Processes and Management,"['Semester 1', 'Semester 2']"
+THTR10009,Performance Design Technology,['Semester 1']
+THTR10019,Clear Speech and Communication,"['Semester 1', 'Semester 2']"
+THTR10022,Artefact and Performance 1,['Semester 1']
+THTR30022,Design Realisation 3A,['Semester 1']
+THTR30024,Performance Technology 3A,['Semester 1']
+THTR30028,Performing Arts Practice 3A (DR),['Semester 1']
+THTR30030,Professional Pathway Investigation A,['Semester 1']
+THTR40006,Research Methods (Music Theatre),['Semester 1']
+THTR40009,Research Methods (Production),['Semester 1']
+THTR60031,Discipline Skills A (Design),['Semester 1']
+THTR60033,Discipline Skills A (Lighting Design),['Semester 1']
+THTR60034,Applied Project A (Lighting Design),['Semester 1']
+THTR60035,Discipline Skills A (Sound Design),['Semester 1']
+THTR60036,Applied Project A (Sound Design),['Semester 1']
+THTR70006,Research and New Performance Writing,['Semester 1']
+THTR70008,Writing for Performance 1 (Solo),['Semester 1']
+THTR70009,Writing for Performance 2 (Collab),['Semester 1']
+THTR90006,Applied Project A (Design),['Semester 1']
+TRAN90001,Translation Theory and Practice,['Semester 1']
+TRAN90003,Specialised Translation,"['Semester 1', 'Semester 2']"
+TRAN90006,Translation in an Australian Context,['Semester 1']
+TRAN90008,Translation in a Chinese Context,['Semester 1']
+TRAN90010,Translation Internship,"['Semester 1', 'Semester 2']"
+TRAN90012,Translation Studies Thesis Part 1,"['Semester 1', 'Semester 2']"
+TRAN90013,Translation Studies Thesis Part 2,"['Semester 1', 'Semester 2']"
+TRAN90014,Spanish-English Translation 1,['Semester 1']
+TRAN90015,English-Spanish Translation 1,['Semester 1']
+TRAN90018,Specialised Spanish Translation 1,['Semester 1']
+TRAN90020,Business and Legal Translation,['Semester 1']
+TRAN90021,Translation and Communication,"['Semester 1', 'Semester 2']"
+TRAN90022,Translation Industry Project,"['Semester 1', 'Semester 2']"
+UNIB10002,Logic: Language and Information,['Semester 1']
+UNIB10003,An Ecological History of Humanity,['Semester 1']
+UNIB10006,Critical Thinking With Data,['Semester 1']
+UNIB10009,Food for a Healthy Planet,['Semester 1']
+UNIB10011,The Secret Life of the Body 1,"['Semester 1', 'Semester 2']"
+UNIB20001,Climate Change ll,['Semester 1']
+UNIB20012,Water for Sustainable Futures,['Semester 1']
+UNIB20018,Going Places - Travelling Smarter,"['Semester 1', 'Semester 2']"
+UNIB20019,Cultures & Flavours of Latin America,['Semester 1']
+UNIB30002,"Global Health, Security & Sustainability",['Semester 1']
+UNIB30010,Food for a Healthy Planet III,['Semester 1']
+UNIB30012,"Disability, Diversity and Inclusion",['Semester 1']
+VETS20014,Foundations of Animal Health 1,['Semester 1']
+VETS30015,Veterinary Bioscience: Cells to Systems,['Semester 1']
+VETS30016,Veterinary Bioscience: Digestive System,['Semester 1']
+VETS30017,Veterinary Bioscience: Metab & Excretion,['Semester 1']
+VETS40020,Vet Bioscience Research Project Part 1,['Semester 1']
+VETS70001,MVSc (Clinical) Practicum # FT,"['Semester 1', 'Semester 2']"
+VETS70002,MVSc (Clinical) Practicum # PT,"['Semester 1', 'Semester 2']"
+VETS90029,Vet Public Health Research Project,"['Semester 1', 'Semester 2']"
+VETS90036,Cardiovascular & Respiratory Emergencies,"['Semester 1', 'Semester 2']"
+VETS90037,Abdominal & Urogenital Emergencies,"['Semester 1', 'Semester 2']"
+VETS90038,"Haemato, Neurologic & Global Conditions","['Semester 1', 'Semester 2']"
+VETS90039,"CPR, Eye Emergencies & Practical ECC","['Semester 1', 'Semester 2']"
+VETS90040,General Principles and FAST Techniques,"['Semester 1', 'Semester 2']"
+VETS90041,Urinary Reproductive Tracts Lymph Nodes,"['Semester 1', 'Semester 2']"
+VETS90042,"Liver, Spleen and Sampling","['Semester 1', 'Semester 2']"
+VETS90043,Gastrointestinal Tract Pancreas Adrenals,"['Semester 1', 'Semester 2']"
+VETS90044,Vet Public Health Research Project Pt 1,"['Semester 1', 'Semester 2']"
+VETS90045,Vet Public Health Research Project Pt 2,"['Semester 1', 'Semester 2']"
+VETS90058,Veterinary Bioscience 1A,['Semester 1']
+VETS90060,Applications in Animal Health A,['Semester 1']
+VETS90062,Principles of Veterinary Bioscience,['Semester 1']
+VETS90064,Veterinary Bioscience 2A,['Semester 1']
+VETS90066,Infections Population & Pub. Health PtA,['Semester 1']
+VETS90068,Applications in Animal Health 2 Part A,['Semester 1']
+VETS90070,Principles of Professional Practice PtA,['Semester 1']
+VETS90072,Companion Animal Medicine & Surgery PtA,['Semester 1']

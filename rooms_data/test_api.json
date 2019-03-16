@@ -1,0 +1,345 @@
+{
+  "code": "ABPL20030",
+  "mandatoryClasses": [],
+  "classList": [
+    {
+      "fullCode": "ABPL20030/U/1/SM1/T01/40",
+      "type": "",
+      "name": "Tutorial 1",
+      "day": "Wednesday",
+      "dayIndex": 2,
+      "start": "11:00",
+      "end": "12:00",
+      "weeks": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "locations": [
+        "PAR-Glyn Davis (MSD)-244",
+        "PAR-Glyn Davis (MSD)-215",
+        "PAR-Glyn Davis (MSD)-216",
+        "PAR-Glyn Davis (MSD)-228"
+      ],
+      "classCode": "T01",
+      "classType": "T",
+      "streamNumber": 40,
+      "subjectCode": "ABPL20030"
+    },
+    {
+      "fullCode": "ABPL20030/U/1/SM1/T01/39",
+      "type": "",
+      "name": "Tutorial 1",
+      "day": "Wednesday",
+      "dayIndex": 2,
+      "start": "12:00",
+      "end": "13:00",
+      "weeks": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "locations": [
+        "PAR-Glyn Davis (MSD)-237"
+      ],
+      "classCode": "T01",
+      "classType": "T",
+      "streamNumber": 39,
+      "subjectCode": "ABPL20030"
+    },
+    {
+      "fullCode": "ABPL20030/U/1/SM1/T01/08",
+      "type": "",
+      "name": "Tutorial 1",
+      "day": "Wednesday",
+      "dayIndex": 2,
+      "start": "13:00",
+      "end": "14:00",
+      "weeks": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "locations": [
+        "PAR-Glyn Davis (MSD)-146"
+      ],
+      "classCode": "T01",
+      "classType": "T",
+      "streamNumber": 8,
+      "subjectCode": "ABPL20030"
+    },
+    {
+      "fullCode": "ABPL20030/U/1/SM1/T01/04",
+      "type": "",
+      "name": "Tutorial 1",
+      "day": "Wednesday",
+      "dayIndex": 2,
+      "start": "16:15",
+      "end": "17:15",
+      "weeks": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "locations": [
+        "PAR-Glyn Davis (MSD)-125"
+      ],
+      "classCode": "T01",
+      "classType": "T",
+      "streamNumber": 4,
+      "subjectCode": "ABPL20030"
+    },
+    {
+      "fullCode": "ABPL20030/U/1/SM1/T01/16",
+      "type": "",
+      "name": "Tutorial 1",
+      "day": "Wednesday",
+      "dayIndex": 2,
+      "start": "17:15",
+      "end": "18:15",
+      "weeks": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "locations": [
+        "PAR-Glyn Davis (MSD)-138"
+      ],
+      "classCode": "T01",
+      "classType": "T",
+      "streamNumber": 16,
+      "subjectCode": "ABPL20030"
+    },
+    {
+      "fullCode": "ABPL20030/U/1/SM1/T01/29",
+      "type": "",
+      "name": "Tutorial 1",
+      "day": "Wednesday",
+      "dayIndex": 2,
+      "start": "18:15",
+      "end": "19:15",
+      "weeks": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "locations": [
+        "PAR-Old Arts-152"
+      ],
+      "classCode": "T01",
+      "classType": "T",
+      "streamNumber": 29,
+      "subjectCode": "ABPL20030"
+    }
+  ],
+  "irregular": [],
+  "streamList": {
+    "L": {
+      "streams": [
+        {
+          "type": "L",
+          "numbers": [
+            2
+          ],
+          "classes": [
+            {
+              "fullCode": "ABPL20030/U/1/SM1/L01/02",
+              "type": "Stream",
+              "name": "Lecture 1",
+              "day": "Monday",
+              "dayIndex": 0,
+              "start": "10:00",
+              "end": "11:00",
+              "weeks": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                20,
+                21,
+                22
+              ],
+              "locations": [
+                "PAR-Medical-C403 (Wright Theatre)"
+              ],
+              "classCode": "L01",
+              "classType": "L",
+              "streamNumber": 2,
+              "subjectCode": "ABPL20030"
+            },
+            {
+              "fullCode": "ABPL20030/U/1/SM1/L02/02",
+              "type": "Stream",
+              "name": "Lecture 2",
+              "day": "Wednesday",
+              "dayIndex": 2,
+              "start": "15:15",
+              "end": "16:15",
+              "weeks": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                20,
+                21,
+                22
+              ],
+              "locations": [
+                "PAR-Medical-C403 (Wright Theatre)"
+              ],
+              "classCode": "L02",
+              "classType": "L",
+              "streamNumber": 2,
+              "subjectCode": "ABPL20030"
+            }
+          ]
+        },
+        {
+          "type": "L",
+          "numbers": [
+            1
+          ],
+          "classes": [
+            {
+              "fullCode": "ABPL20030/U/1/SM1/L01/01",
+              "type": "Stream",
+              "name": "Lecture 1",
+              "day": "Monday",
+              "dayIndex": 0,
+              "start": "15:15",
+              "end": "16:15",
+              "weeks": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                20,
+                21,
+                22
+              ],
+              "locations": [
+                "PAR-Medical-C403 (Wright Theatre)"
+              ],
+              "classCode": "L01",
+              "classType": "L",
+              "streamNumber": 1,
+              "subjectCode": "ABPL20030"
+            },
+            {
+              "fullCode": "ABPL20030/U/1/SM1/L02/01",
+              "type": "Stream",
+              "name": "Lecture 2",
+              "day": "Wednesday",
+              "dayIndex": 2,
+              "start": "09:00",
+              "end": "10:00",
+              "weeks": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                18,
+                19,
+                20,
+                21,
+                22
+              ],
+              "locations": [
+                "PAR-Medical-C403 (Wright Theatre)"
+              ],
+              "classCode": "L02",
+              "classType": "L",
+              "streamNumber": 1,
+              "subjectCode": "ABPL20030"
+            }
+          ]
+        }
+      ],
+      "name": "Lecture"
+    }
+  },
+  "locations": [
+    "PAR-Glyn Davis (MSD)-244",
+    "PAR-Glyn Davis (MSD)-215",
+    "PAR-Glyn Davis (MSD)-216",
+    "PAR-Glyn Davis (MSD)-228",
+    "PAR-Glyn Davis (MSD)-237",
+    "PAR-Glyn Davis (MSD)-146",
+    "PAR-Glyn Davis (MSD)-125",
+    "PAR-Glyn Davis (MSD)-138",
+    "PAR-Old Arts-152",
+    "PAR-Medical-C403 (Wright Theatre)"
+  ]
+}
