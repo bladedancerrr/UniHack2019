@@ -1,0 +1,6 @@
+framework module Pods_Proj_Bayleef {
+  umbrella header "Pods-Proj Bayleef-umbrella.h"
+
+  export *
+  module * { export * }
+}

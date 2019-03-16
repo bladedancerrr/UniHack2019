@@ -12,9 +12,11 @@
 		4918FCDC223C9B75006FC76D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4918FCDA223C9B75006FC76D /* Main.storyboard */; };
 		4918FCDE223C9B77006FC76D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4918FCDD223C9B77006FC76D /* Assets.xcassets */; };
 		4918FCE1223C9B77006FC76D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4918FCDF223C9B77006FC76D /* LaunchScreen.storyboard */; };
+		EBDA9416E34701F5C6F4A0A5 /* Pods_Proj_Bayleef.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FBF90494042718835FED8B7F /* Pods_Proj_Bayleef.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0291D54BE0733014F95A3FBD /* Pods-Proj Bayleef.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Proj Bayleef.release.xcconfig"; path = "Pods/Target Support Files/Pods-Proj Bayleef/Pods-Proj Bayleef.release.xcconfig"; sourceTree = "<group>"; };
 		4918FCD3223C9B74006FC76D /* Proj Bayleef.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Proj Bayleef.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4918FCD6223C9B74006FC76D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4918FCD8223C9B75006FC76D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +24,8 @@
 		4918FCDD223C9B77006FC76D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4918FCE0223C9B77006FC76D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4918FCE2223C9B77006FC76D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		500F22C95414FE2F823CEA74 /* Pods-Proj Bayleef.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Proj Bayleef.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Proj Bayleef/Pods-Proj Bayleef.debug.xcconfig"; sourceTree = "<group>"; };
+		FBF90494042718835FED8B7F /* Pods_Proj_Bayleef.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Proj_Bayleef.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +33,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EBDA9416E34701F5C6F4A0A5 /* Pods_Proj_Bayleef.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +45,8 @@
 			children = (
 				4918FCD5223C9B74006FC76D /* Proj Bayleef */,
 				4918FCD4223C9B74006FC76D /* Products */,
+				E5B9B2EAD72D2F58BC646AF7 /* Pods */,
+				7118E1B16671C50F6AFE3624 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -64,6 +71,23 @@
 			path = "Proj Bayleef";
 			sourceTree = "<group>";
 		};
+		7118E1B16671C50F6AFE3624 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FBF90494042718835FED8B7F /* Pods_Proj_Bayleef.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E5B9B2EAD72D2F58BC646AF7 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				500F22C95414FE2F823CEA74 /* Pods-Proj Bayleef.debug.xcconfig */,
+				0291D54BE0733014F95A3FBD /* Pods-Proj Bayleef.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -71,9 +95,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4918FCE5223C9B77006FC76D /* Build configuration list for PBXNativeTarget "Proj Bayleef" */;
 			buildPhases = (
+				A5753BCA753C668065D3E1C2 /* [CP] Check Pods Manifest.lock */,
 				4918FCCF223C9B74006FC76D /* Sources */,
 				4918FCD0223C9B74006FC76D /* Frameworks */,
 				4918FCD1223C9B74006FC76D /* Resources */,
+				6AF8225B56DF9CB01105B2BA /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -129,6 +155,47 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		6AF8225B56DF9CB01105B2BA /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Proj Bayleef/Pods-Proj Bayleef-resources.sh",
+				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle",
+				"${PODS_ROOT}/GooglePlaces/Frameworks/GooglePlaces.framework/Resources/GooglePlaces.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleMaps.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GooglePlaces.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Proj Bayleef/Pods-Proj Bayleef-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A5753BCA753C668065D3E1C2 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Proj Bayleef-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		4918FCCF223C9B74006FC76D /* Sources */ = {
@@ -280,6 +347,7 @@
 		};
 		4918FCE6223C9B77006FC76D /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 500F22C95414FE2F823CEA74 /* Pods-Proj Bayleef.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -298,6 +366,7 @@
 		};
 		4918FCE7223C9B77006FC76D /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0291D54BE0733014F95A3FBD /* Pods-Proj Bayleef.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
