@@ -1,5 +1,5 @@
-
 import populartimes
+from itertools import tee
 import googlemaps
 import json
 from datetime import datetime
@@ -14,14 +14,15 @@ SEARCH_LOCATION_PLACEHOLDER = "Sidney Myer Asia Ctr Parkville"
 
 
 def relative_popularity():
+
 	locations = googlemaps.places.find_place(gmaps, SEARCH_LOCATION_PLACEHOLDER, "textquery")["candidates"]
 	for loc in locations:
 		print(loc)
 		print(loc["place_id"])
 		popular_times_data = populartimes.get_id(GOOGLE_API_KEY, loc["place_id"])
-		print(popular_times_data["name"])
+		printcd (popular_times_data["name"])
 		print(popular_times_data["coordinates"])
-
+    
 		now = datetime.now()
 		hour = now.hour
 		day = now.strftime("%A")
@@ -39,4 +40,6 @@ def relative_popularity():
 		#returns name as a string if the current location is not popular 
 
 if __name__ == "__main__":
-	relative_popularity()
+	timeAndDistance()
+	# relative_popularity()
+
