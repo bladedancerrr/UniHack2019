@@ -36,9 +36,7 @@ def relative_popularity():
 				return 0
 			else:
 				return popular_times_data["name"]
-		#Using current datetime, --> string for todays day of week for expected busy period. 
-		#Using other populartimes method --> access live popularity of the place 
-		#calculate ratio --> some algorithm to determine how busy a place is. Busy -> 80%+, moderate -> 50%, lighttraffic -> 30%+, practically quiet 0 - 30  
+		#returns name as a string if the current location is not popular 
 
 if __name__ == "__main__":
 	relative_popularity()
