@@ -6,7 +6,8 @@ fp = open("keys.json").read()
 GOOGLE_API_KEY = json.loads(fp)["API"]
 gmaps = googlemaps.Client(key = GOOGLE_API_KEY)
 
-
+#converting from dictionary and json object purely for the sake of
+#readabiliy and testing
 def getAddressFromCoordinates(c):
 
 	cParsed = json.dumps(gmaps.reverse_geocode(c)[0], indent = 4, sort_keys = True)
