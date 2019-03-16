@@ -4,6 +4,7 @@ import csv
 from collections import defaultdict as dd
 import random
 import timeAndDistance
+import busytimes
 
 PATH = "./rooms_data/data/rooms_data.csv"
 
@@ -13,17 +14,17 @@ print(GOOGLE_API_KEY)
 gmaps = googlemaps.Client(key = GOOGLE_API_KEY)
 
 #needs to be in lat long format
-coordinates = -37.796773, 144.964456
-distance = 400 #distance in metres
+# coordinates = -37.796773, 144.964456
+DISTANCE = 400 #distance in metres
 THRESHOLD = 30
-MAX_OPTIONS = 3
+MAX_ROOMS = 20
 
 
-def find_nearby_buildings():
+def find_nearby_buildings(coordinates):
 	#keywords or name
 	candidates = googlemaps.places.places_nearby(gmaps, 
 											location=coordinates, 
-											radius=distance, 
+											radius=DISTANCE, 
 											language="english",
 											#open_now=True,
 											keyword="building")["results"]
@@ -79,7 +80,7 @@ def find_rooms(buildings, path):
 						rooms[row[0]].append([row[1],row[-1],True])
 						mapping[row[0]] = building
 						count += 1
-			if count >= MAX_OPTIONS:
+			if count >= MAX_ROOMS:
 				break
 	output = []
 	for room in rooms:
@@ -94,7 +95,7 @@ def generate_bool():
     index = random.randint(0,1)
     return(bools[index])
 
-def format_json(buildings):
+def format_json(coordinates, buildings):
 	building_json = {}
 	buildings_lst = []
 	
@@ -102,8 +103,11 @@ def format_json(buildings):
 		build_dict = {}
 		rooms_lst = [] 
 		lat, lng = building[2]["lat"], building[2]["lng"]
-		time, distance = timeAndDistance.getTimeAndDistance(coordinates, (lat, lng))
+		time, distance = timeAndDistance.getTimeAndDistance(gmaps, coordinates, (lat, lng))
+		building_name = building[0]
 
+		build_dict["buildingName"] = building_name
+		build_dict["busyness"] = busytimes.relative_popularity(gmaps, building_name)
 		build_dict["time"] = time
 		build_dict["distance"] = distance
 		build_dict["latitude"] = lat
@@ -127,11 +131,11 @@ def format_json(buildings):
 	
 	building_json['buildings'] = buildings_lst
 
-	print(building_json)
+	return building_json
 
 
 if __name__ == "__main__":
-	nearbybuildings = find_nearby_buildings()
+	nearbybuildings = find_nearby_buildings((-37.796773, 144.964456))
 	buildings = find_rooms(nearbybuildings, PATH)
-	print(format_json(buildings))
+	print(format_json((-37.796773, 144.964456), buildings))
 	print(string_match_percentage("Hello There", "hello"))
