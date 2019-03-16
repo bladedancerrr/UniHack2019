@@ -17,7 +17,8 @@ gmaps = googlemaps.Client(key = GOOGLE_API_KEY)
 # coordinates = -37.796773, 144.964456
 DISTANCE = 400 #distance in metres
 THRESHOLD = 30
-MAX_ROOMS = 20
+MAX_ROOMS = 5
+MAX_BUILDINGS = 5
 
 
 def find_nearby_buildings(coordinates):
@@ -63,24 +64,31 @@ def string_match_percentage(str1, str2):
 def find_rooms(buildings, path):
 	rooms = dd(list)
 	count = 0
+	building_count = 0
 	mapping = {}
 	with open(path, newline="") as csvfile:
 		roomreader = csv.reader(csvfile, delimiter=',', quotechar='|')
 
 		for row in roomreader:
 			if row[0] in rooms:
-				rooms[row[0]].append([row[1],row[-1],True])
-				count += 1
+				if count < MAX_ROOMS:
+					rooms[row[0]].append([row[1],row[-1],True])
+					count += 1
 			else:
 
 				for building in buildings:
 					percentage = string_match_percentage(row[0], building)
 					if percentage >= THRESHOLD:
+						count = 0
 						print(row)
 						rooms[row[0]].append([row[1],row[-1],True])
 						mapping[row[0]] = building
 						count += 1
-			if count >= MAX_ROOMS:
+						building_count += 1
+
+			# if count >= MAX_ROOMS:
+			# 	break
+			if building_count >= MAX_BUILDINGS and count >= MAX_ROOMS:
 				break
 	output = []
 	for room in rooms:
@@ -89,6 +97,7 @@ def find_rooms(buildings, path):
 		output.append((building, rooms[room], coord))
 
 	return output
+
 def generate_bool():
     ''' return a random boolean value '''
     bools = [True, False]
