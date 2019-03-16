@@ -40,6 +40,5 @@ def relative_popularity():
 		#returns name as a string if the current location is not popular 
 
 if __name__ == "__main__":
-	timeAndDistance()
-	# relative_popularity()
+	relative_popularity()
 
