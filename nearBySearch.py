@@ -7,7 +7,7 @@ print(GOOGLE_API_KEY)
 gmaps = googlemaps.Client(key = GOOGLE_API_KEY)
 
 coordinates = -37.796773, 144.964456
-distance = 300 #distance in metres
+distance =500 #distance in metres
 
 def find_nearby_buildings():
 	#keywords or name
@@ -18,8 +18,18 @@ def find_nearby_buildings():
 											#open_now=True,
 											keyword="building")["results"]
 											#rank_by=distance))
+	building_results = []
 	for building in candidates:
-		print(building["name"])
+		temp = building["name"]
+		print(temp)
+
+		temp = temp.replace("University of Melbourne","")
+		temp = temp.replace("Melbourne University", "")
+		temp = temp.replace("Building", "")
+		building_results.append(temp)
+		print(temp)
+
+
 
 if __name__ == "__main__":
 	find_nearby_buildings()
