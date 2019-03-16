@@ -20,8 +20,11 @@ def getAddressFromCoordinates(c):
 #takes the coordinate and returns a tuple of time and distance
 def getTimeAndDistance(origin, destination):
 
+	origin = getAddressFromCoordinates(origin)
+	destination = getAddressFromCoordinates(destination)
+
 	matrix = gmaps.distance_matrix([origin], 
-									[destinations],
+									[destination],
 									mode ='walking')
 
 
