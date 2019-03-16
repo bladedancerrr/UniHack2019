@@ -12,7 +12,7 @@ def getAddressFromCoordinates(c):
 
 	cParsed = json.dumps(gmaps.reverse_geocode(c)[0], indent = 4, sort_keys = True)
 
-	cDict = json.loads(c1Parsed)
+	cDict = json.loads(cParsed)
 
 	address = cDict['formatted_address']
 
@@ -31,8 +31,8 @@ def getTimeAndDistance(origin, destination):
 
 	parsedMatrix = json.dumps(matrix, indent = 4, sort_keys = True)
 	matrixDict = json.loads(parsedMatrix)
-	time = 	matrixDict['rows'][0]['elements'][0]['distance']['text']
-	distance = matrixDict['rows'][0]['elements'][0]['duration']['text']
+	distance = 	matrixDict['rows'][0]['elements'][0]['distance']['text']
+	time = matrixDict['rows'][0]['elements'][0]['duration']['text']
 
 	return (time, distance)
 

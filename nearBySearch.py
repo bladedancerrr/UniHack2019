@@ -3,6 +3,7 @@ import json
 import csv
 from collections import defaultdict as dd
 import random
+import timeAndDistance
 
 PATH = "./rooms_data/data/rooms_data.csv"
 
@@ -11,8 +12,9 @@ GOOGLE_API_KEY = json.loads(fp)["API"]
 print(GOOGLE_API_KEY)
 gmaps = googlemaps.Client(key = GOOGLE_API_KEY)
 
+#needs to be in lat long format
 coordinates = -37.796773, 144.964456
-distance =500 #distance in metres
+distance = 400 #distance in metres
 THRESHOLD = 30
 MAX_OPTIONS = 3
 
@@ -88,7 +90,7 @@ def find_rooms(buildings, path):
 	return output
 def generate_bool():
     ''' return a random boolean value '''
-    bools = ['YES', 'NO']
+    bools = [True, False]
     index = random.randint(0,1)
     return(bools[index])
 
@@ -99,8 +101,19 @@ def format_json(buildings):
 	for building in buildings:
 		build_dict = {}
 		rooms_lst = [] 
-		
-		print(building)
+		lat, lng = building[2]["lat"], building[2]["lng"]
+		time, distance = timeAndDistance.getTimeAndDistance(coordinates, (lat, lng))
+
+		build_dict["time"] = time
+		build_dict["distance"] = distance
+		build_dict["latitude"] = lat
+		build_dict["longitude"] = lng
+		build_dict['closeToCafe'] = generate_bool()
+		build_dict['hasVending'] = generate_bool()
+		build_dict['hasATM'] = generate_bool()
+		build_dict['hasMicrowave'] = generate_bool()
+		build_dict['hasPrinting'] = generate_bool()
+
 		for room in building[1]:
 			rooms_dict = {}
 			rooms_dict['roomName'] = room[0]
