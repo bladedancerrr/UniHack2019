@@ -1,0 +1,3 @@
+#! /bin/bash
+read -p "Enter REST API URL: " URL
+echo '{"lat":-37.796773, "long":144.964456}' | http POST $URL/getstudyspace

@@ -8,8 +8,6 @@ import busytimes
 import boto3
 import botocore
 
-FILENAME = "rooms_data.csv"
-
 #fp = open("keys.json").read()
 # GOOGLE_API_KEY = json.loads(fp)["API"]
 GOOGLE_API_KEY = "AIzaSyB80d1qt4mKPV9XEr0u8FZJ9vyj4P1Ozp8"
@@ -181,6 +179,7 @@ def format_json(coordinates, buildings):
 
 
 if __name__ == "__main__":
+	FILENAME = "rooms_data.csv"
 	nearbybuildings = find_nearby_buildings((-37.796773, 144.964456))
 	buildings = find_rooms(nearbybuildings, FILENAME)
 	print(format_json((-37.796773, 144.964456), buildings))
