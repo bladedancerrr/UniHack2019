@@ -8,4 +8,5 @@ Swift is used to write the app, Alamofire framework calls the API with latitude 
 ### Directory information
 
 Note: resources folder has the old implementation of getstudyspace without using chalice
+
 Now the .py files and algorithms, google map popular times and the scrapers are in chalice/getstudyspace/chalicelib
