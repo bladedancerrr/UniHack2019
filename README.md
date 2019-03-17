@@ -20,7 +20,7 @@ Swift is used to write the app, Alamofire framework calls the API with latitude 
 #### Front end
 note: Swift files and other front end code in Peter's repo https://github.com/YAOS5/ProjBL-1
 
-### Directory information
+### Repository directory information
 
 Note: resources folder has the old implementation of getstudyspace without using chalice
 
