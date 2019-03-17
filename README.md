@@ -24,5 +24,5 @@ note: Swift files and other front end code in Peter's repo https://github.com/YA
 
 Note: resources folder has the old implementation of getstudyspace without using chalice
 
-Now the .py files and algorithms, google map popular times and the scrapers are in chalice/getstudyspace/chalicelib
+Now the actual .py files and algorithms, google map popular times and the scrapers that constitute tha API are in chalice/getstudyspace/chalicelib
 
