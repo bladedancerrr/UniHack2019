@@ -1,14 +1,15 @@
 import json
 import nearBySearch
 
-PATH = "./rooms_data/data/rooms_data.csv"
+FILENAME = "rooms_data.csv"
 
 def lambda_handler(event, context):
     latitude = event["lat"]
     longitude = event["long"]
 
     nearby_buildings = nearBySearch.find_nearby_buildings((latitude, longitude))
-    buildings = nearBySearch.find_rooms(nearby_buildings, PATH)
+    buildings = nearBySearch.find_rooms(nearby_buildings, FILENAME)
+    print(buildings)
 	# print(format_json(buildings))
 
 

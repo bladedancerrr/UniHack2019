@@ -5,8 +5,10 @@ from collections import defaultdict as dd
 import random
 import timeAndDistance
 import busytimes
+import boto3
+import botocore
 
-PATH = "./rooms_data/data/rooms_data.csv"
+FILENAME = "rooms_data.csv"
 
 fp = open("keys.json").read()
 GOOGLE_API_KEY = json.loads(fp)["API"]
@@ -61,35 +63,53 @@ def string_match_percentage(str1, str2):
 
 #Format the csv so that sorted by day and time. --> use datetime to figure out current day and time --> search in csv file 
 
-def find_rooms(buildings, path):
+def getCSVString(fileName):
+	BUCKET_NAME = 'function-bucket-bayleef' # replace with your bucket name
+	KEY = fileName # replace with your object key
+
+	s3 = boto3.client('s3')
+
+	try:
+		response = s3.get_object(Bucket=BUCKET_NAME, Key=KEY)
+		return str(response["Body"].read())
+	except botocore.exceptions.ClientError as e:
+		if e.response['Error']['Code'] == "404":
+			print("The object does not exist.")
+			raise
+		else:
+			raise
+
+
+
+
+def find_rooms(buildings, fileName):
 	rooms = dd(list)
 	count = 0
 	building_count = 0
 	mapping = {}
-	with open(path, newline="") as csvfile:
-		roomreader = csv.reader(csvfile, delimiter=',', quotechar='|')
+	roomreader = csv.reader(getCSVString(fileName), delimiter=',', quotechar='|')
 
-		for row in roomreader:
-			if row[0] in rooms:
-				if count < MAX_ROOMS:
+	for row in roomreader:
+		if row[0] in rooms:
+			if count < MAX_ROOMS:
+				rooms[row[0]].append([row[1],row[-1],True])
+				count += 1
+		else:
+
+			for building in buildings:
+				percentage = string_match_percentage(row[0], building)
+				if percentage >= THRESHOLD:
+					count = 0
+					print(row)
 					rooms[row[0]].append([row[1],row[-1],True])
+					mapping[row[0]] = building
 					count += 1
-			else:
+					building_count += 1
 
-				for building in buildings:
-					percentage = string_match_percentage(row[0], building)
-					if percentage >= THRESHOLD:
-						count = 0
-						print(row)
-						rooms[row[0]].append([row[1],row[-1],True])
-						mapping[row[0]] = building
-						count += 1
-						building_count += 1
-
-			# if count >= MAX_ROOMS:
-			# 	break
-			if building_count >= MAX_BUILDINGS and count >= MAX_ROOMS:
-				break
+		# if count >= MAX_ROOMS:
+		# 	break
+		if building_count >= MAX_BUILDINGS and count >= MAX_ROOMS:
+			break
 	output = []
 	for room in rooms:
 		building = mapping[room]
@@ -145,6 +165,6 @@ def format_json(coordinates, buildings):
 
 if __name__ == "__main__":
 	nearbybuildings = find_nearby_buildings((-37.796773, 144.964456))
-	buildings = find_rooms(nearbybuildings, PATH)
+	buildings = find_rooms(nearbybuildings, FILENAME)
 	print(format_json((-37.796773, 144.964456), buildings))
 	print(string_match_percentage("Hello There", "hello"))
