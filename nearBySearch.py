@@ -10,8 +10,9 @@ import botocore
 
 FILENAME = "rooms_data.csv"
 
-fp = open("keys.json").read()
-GOOGLE_API_KEY = json.loads(fp)["API"]
+#fp = open("keys.json").read()
+# GOOGLE_API_KEY = json.loads(fp)["API"]
+GOOGLE_API_KEY = "AIzaSyB80d1qt4mKPV9XEr0u8FZJ9vyj4P1Ozp8"
 print(GOOGLE_API_KEY)
 gmaps = googlemaps.Client(key = GOOGLE_API_KEY)
 
@@ -71,7 +72,7 @@ def getCSVString(fileName):
 
 	try:
 		response = s3.get_object(Bucket=BUCKET_NAME, Key=KEY)
-		return str(response["Body"].read())
+		return str(response["Body"].read().decode("utf-8"))
 	except botocore.exceptions.ClientError as e:
 		if e.response['Error']['Code'] == "404":
 			print("The object does not exist.")
@@ -87,9 +88,22 @@ def find_rooms(buildings, fileName):
 	count = 0
 	building_count = 0
 	mapping = {}
-	roomreader = csv.reader(getCSVString(fileName), delimiter=',', quotechar='|')
+	#roomreader = csv.reader(getCSVString(fileName), delimiter=',', quotechar='|')
+	
+	test = getCSVString(fileName)
+	print(test.splitlines()[0:5])
 
-	for row in roomreader:
+	'''
+	#for row in roomreader:
+		print(row)
+		i = 0
+	'''
+	i = 0
+	for row in test.splitlines()[1:5]:
+		#print(row)
+		row = row.split(',')
+		print(row)
+		print(i)
 		if row[0] in rooms:
 			if count < MAX_ROOMS:
 				rooms[row[0]].append([row[1],row[-1],True])
@@ -105,6 +119,9 @@ def find_rooms(buildings, fileName):
 					mapping[row[0]] = building
 					count += 1
 					building_count += 1
+		i += 1
+		if i == 20:
+			break
 
 		# if count >= MAX_ROOMS:
 		# 	break

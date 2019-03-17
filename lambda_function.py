@@ -13,12 +13,11 @@ def lambda_handler(event, context):
 	# print(format_json(buildings))
 
 
-    return {json.dumps(nearBySearch.format_json((latitude, longitude), buildings))
-    }
+    return json.dumps(nearBySearch.format_json((latitude, longitude), buildings))
 
 if __name__ == "__main__":
 
 	a = {}
-	a["lat"] = -37.796773
-	a["long"] = 144.964456
+	a["lat"] = -37.7984
+	a["long"] = 144.9594
 	print(lambda_handler(a, None))

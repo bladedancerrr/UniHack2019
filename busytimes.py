@@ -5,8 +5,8 @@ import json
 from datetime import datetime
 
 #work on making this api key private....
-fp = open("keys.json").read()
-GOOGLE_API_KEY = json.loads(fp)["API"]
+# fp = open("keys.json").read()
+GOOGLE_API_KEY = "AIzaSyB80d1qt4mKPV9XEr0u8FZJ9vyj4P1Ozp8"
 #print(GOOGLE_API_KEY)
 #gmaps = googlemaps.Client(key = GOOGLE_API_KEY)
 #SEARCH_LOCATION_PLACEHOLDER = "Sidney Myer Asia Ctr Parkville"
